@@ -32,3 +32,4 @@
 - `2026-02-12 11:29` — surface color update
 - `2026-02-12 11:29` — modal design update
 - `2026-02-12 11:29` — heading hierarchy fix
+- `2026-02-12 11:29` — section spacing update
