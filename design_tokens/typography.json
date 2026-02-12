@@ -1,7 +1,7 @@
 {
   "display": {
     "fontFamily": "Inter, system-ui, sans-serif",
-    "fontSize": "3rem",
+    "fontSize": "1rem",
     "fontWeight": 700,
     "lineHeight": "1.2",
     "letterSpacing": "-0.02em"
