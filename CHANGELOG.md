@@ -24,3 +24,4 @@
 - `2026-02-12 10:04` — micro-interaction refinement
 - `2026-02-12 10:04` — modal design update
 - `2026-02-12 10:04` — line height refinement
+- `2026-02-12 10:04` — hover state fix
