@@ -38,3 +38,4 @@
 - `2026-02-12 11:29` — accent color adjustment
 - `2026-02-12 11:29` — typography scale update
 - `2026-02-12 11:29` — line height refinement
+- `2026-02-12 11:29` — font weight adjustment
