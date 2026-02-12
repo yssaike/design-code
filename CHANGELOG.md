@@ -43,3 +43,4 @@
 - `2026-02-12 11:29` — layout spacing refinement
 - `2026-02-12 11:29` — accessibility contrast fix
 - `2026-02-12 11:29` — brand guideline sync
+- `2026-02-12 11:29` — brand color alignment
