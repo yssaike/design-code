@@ -22,3 +22,4 @@
 - `2026-02-12 10:04` — keyboard navigation fix
 - `2026-02-12 10:04` — button style update
 - `2026-02-12 10:04` — micro-interaction refinement
+- `2026-02-12 10:04` — modal design update
