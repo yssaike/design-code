@@ -29,3 +29,4 @@
 - `2026-02-12 11:29` — secondary palette refinement
 - `2026-02-12 11:29` — disabled state styling
 - `2026-02-12 11:29` — letter spacing tweak
+- `2026-02-12 11:29` — surface color update
