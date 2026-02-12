@@ -34,3 +34,4 @@
 - `2026-02-12 11:29` — heading hierarchy fix
 - `2026-02-12 11:29` — section spacing update
 - `2026-02-12 11:29` — brand font update
+- `2026-02-12 11:29` — brand token change
