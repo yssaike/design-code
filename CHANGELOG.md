@@ -18,3 +18,4 @@
 - `2026-02-12 10:04` — surface color update
 - `2026-02-12 10:04` — aria attribute update
 - `2026-02-12 10:04` — brand color alignment
+- `2026-02-12 10:04` — tab component refinement
