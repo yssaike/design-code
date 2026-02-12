@@ -14,3 +14,4 @@
 - `2026-02-12 10:04` — brand asset refresh
 - `2026-02-12 10:04` — heading hierarchy fix
 - `2026-02-12 10:04` — font family swap
+- `2026-02-12 10:04` — dropdown menu update
