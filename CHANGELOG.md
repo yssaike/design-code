@@ -12,3 +12,4 @@
 - `2026-02-12 10:04` — UI fixes
 - `2026-02-12 10:04` — z-index adjustment
 - `2026-02-12 10:04` — brand asset refresh
+- `2026-02-12 10:04` — heading hierarchy fix
