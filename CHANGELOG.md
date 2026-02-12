@@ -6,3 +6,4 @@
 - `2026-02-12 10:04` — checkbox style refresh
 - `2026-02-12 10:04` — color change
 - `2026-02-12 10:04` — brand spacing alignment
+- `2026-02-12 10:04` — layout spacing refinement
