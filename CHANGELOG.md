@@ -10,3 +10,4 @@
 - `2026-02-12 10:04` — focus indicator update
 - `2026-02-12 10:04` — scroll animation fix
 - `2026-02-12 10:04` — UI fixes
+- `2026-02-12 10:04` — z-index adjustment
