@@ -27,3 +27,4 @@
 - `2026-02-12 10:04` — hover state fix
 - `2026-02-12 10:04` — focus ring update
 - `2026-02-12 11:29` — secondary palette refinement
+- `2026-02-12 11:29` — disabled state styling
