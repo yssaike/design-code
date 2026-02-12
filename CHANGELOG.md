@@ -36,3 +36,4 @@
 - `2026-02-12 11:29` — brand font update
 - `2026-02-12 11:29` — brand token change
 - `2026-02-12 11:29` — accent color adjustment
+- `2026-02-12 11:29` — typography scale update
