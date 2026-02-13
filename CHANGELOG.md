@@ -49,3 +49,4 @@
 - `2026-02-13 09:37` — loading animation tweak
 - `2026-02-13 09:37` — transition easing change
 - `2026-02-13 09:37` — tab component refinement
+- `2026-02-13 09:37` — brand asset refresh
