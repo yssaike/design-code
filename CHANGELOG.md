@@ -52,3 +52,4 @@
 - `2026-02-13 09:37` — brand asset refresh
 - `2026-02-13 09:37` — semantic color token fix
 - `2026-02-13 09:37` — shadow refinement
+- `2026-02-13 09:37` — navigation styling fix
