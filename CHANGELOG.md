@@ -57,3 +57,4 @@
 - `2026-02-13 09:37` — heading hierarchy fix
 - `2026-02-13 09:37` — primary color update
 - `2026-02-13 09:37` — brand token change
+- `2026-02-13 09:37` — scroll animation fix
