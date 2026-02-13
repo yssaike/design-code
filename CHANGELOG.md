@@ -51,3 +51,4 @@
 - `2026-02-13 09:37` — tab component refinement
 - `2026-02-13 09:37` — brand asset refresh
 - `2026-02-13 09:37` — semantic color token fix
+- `2026-02-13 09:37` — shadow refinement
