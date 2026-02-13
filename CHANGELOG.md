@@ -64,3 +64,4 @@
 - `2026-02-13 09:37` — brand color alignment
 - `2026-02-13 09:37` — color change
 - `2026-02-13 09:37` — micro-interaction refinement
+- `2026-02-13 09:37` — aria attribute update
