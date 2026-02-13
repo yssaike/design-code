@@ -55,3 +55,4 @@
 - `2026-02-13 09:37` — navigation styling fix
 - `2026-02-13 09:37` — body text improvement
 - `2026-02-13 09:37` — heading hierarchy fix
+- `2026-02-13 09:37` — primary color update
