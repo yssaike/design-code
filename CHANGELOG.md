@@ -61,3 +61,4 @@
 - `2026-02-13 09:37` — brand font update
 - `2026-02-13 09:37` — layout spacing refinement
 - `2026-02-13 09:37` — letter spacing tweak
+- `2026-02-13 09:37` — brand color alignment
