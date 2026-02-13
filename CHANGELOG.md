@@ -54,3 +54,4 @@
 - `2026-02-13 09:37` — shadow refinement
 - `2026-02-13 09:37` — navigation styling fix
 - `2026-02-13 09:37` — body text improvement
+- `2026-02-13 09:37` — heading hierarchy fix
