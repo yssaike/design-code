@@ -44,3 +44,4 @@
 - `2026-02-12 11:29` — accessibility contrast fix
 - `2026-02-12 11:29` — brand guideline sync
 - `2026-02-12 11:29` — brand color alignment
+- `2026-02-13 09:37` — checkbox style refresh
