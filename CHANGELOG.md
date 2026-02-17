@@ -65,3 +65,4 @@
 - `2026-02-13 09:37` — color change
 - `2026-02-13 09:37` — micro-interaction refinement
 - `2026-02-13 09:37` — aria attribute update
+- `2026-02-17 09:20` — color contrast fix
