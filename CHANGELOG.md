@@ -81,3 +81,4 @@
 - `2026-02-17 09:20` — input field refinement
 - `2026-02-17 09:20` — checkbox style refresh
 - `2026-02-17 09:20` — secondary palette refinement
+- `2026-02-17 09:20` — scroll animation fix
