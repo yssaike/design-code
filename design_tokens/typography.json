@@ -3,7 +3,7 @@
     "fontFamily": "Inter, system-ui, sans-serif",
     "fontSize": "1rem",
     "fontWeight": 700,
-    "lineHeight": "1.2",
+    "lineHeight": "1.4",
     "letterSpacing": "-0.02em"
   },
   "h1": {
