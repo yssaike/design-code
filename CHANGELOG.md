@@ -76,3 +76,4 @@
 - `2026-02-17 09:20` — loading animation tweak
 - `2026-02-17 09:20` — transition easing change
 - `2026-02-17 09:20` — surface color update
+- `2026-02-17 09:20` — section spacing update
