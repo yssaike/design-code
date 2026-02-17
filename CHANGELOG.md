@@ -88,3 +88,4 @@
 - `2026-02-17 09:20` — brand guideline sync
 - `2026-02-17 09:20` — padding consistency fix
 - `2026-02-17 09:20` — brand asset refresh
+- `2026-02-17 09:20` — margin alignment
