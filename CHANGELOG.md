@@ -74,3 +74,4 @@
 - `2026-02-17 09:20` — brand color alignment
 - `2026-02-17 09:20` — font weight adjustment
 - `2026-02-17 09:20` — loading animation tweak
+- `2026-02-17 09:20` — transition easing change
