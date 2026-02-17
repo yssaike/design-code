@@ -90,3 +90,4 @@
 - `2026-02-17 09:20` — brand asset refresh
 - `2026-02-17 09:20` — margin alignment
 - `2026-02-17 09:20` — UI fixes
+- `2026-02-17 09:20` — screen reader label add
