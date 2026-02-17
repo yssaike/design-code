@@ -97,3 +97,4 @@
 - `2026-02-17 09:20` — heading hierarchy fix
 - `2026-02-17 09:20` — spacing token update
 - `2026-02-17 09:20` — primary color update
+- `2026-02-17 09:20` — tab component refinement
