@@ -98,3 +98,4 @@
 - `2026-02-17 09:20` — spacing token update
 - `2026-02-17 09:20` — primary color update
 - `2026-02-17 09:20` — tab component refinement
+- `2026-02-17 09:20` — accessibility contrast fix
