@@ -86,3 +86,4 @@
 - `2026-02-17 09:20` — color change
 - `2026-02-17 09:20` — letter spacing tweak
 - `2026-02-17 09:20` — brand guideline sync
+- `2026-02-17 09:20` — padding consistency fix
