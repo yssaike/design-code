@@ -84,3 +84,4 @@
 - `2026-02-17 09:20` — scroll animation fix
 - `2026-02-17 09:20` — alignment correction
 - `2026-02-17 09:20` — color change
+- `2026-02-17 09:20` — letter spacing tweak
