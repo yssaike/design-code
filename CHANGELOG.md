@@ -69,3 +69,4 @@
 - `2026-02-17 09:20` — typography scale update
 - `2026-02-17 09:20` — body text improvement
 - `2026-02-17 09:20` — aria attribute update
+- `2026-02-17 09:20` — animation duration update
