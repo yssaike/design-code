@@ -92,3 +92,4 @@
 - `2026-02-17 09:20` — UI fixes
 - `2026-02-17 09:20` — screen reader label add
 - `2026-02-17 09:20` — micro-interaction refinement
+- `2026-02-17 09:20` — brand token change
