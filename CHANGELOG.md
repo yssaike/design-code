@@ -94,3 +94,4 @@
 - `2026-02-17 09:20` — micro-interaction refinement
 - `2026-02-17 09:20` — brand token change
 - `2026-02-17 09:20` — brand font update
+- `2026-02-17 09:20` — heading hierarchy fix
