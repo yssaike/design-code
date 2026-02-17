@@ -87,3 +87,4 @@
 - `2026-02-17 09:20` — letter spacing tweak
 - `2026-02-17 09:20` — brand guideline sync
 - `2026-02-17 09:20` — padding consistency fix
+- `2026-02-17 09:20` — brand asset refresh
