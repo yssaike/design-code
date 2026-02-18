@@ -116,3 +116,4 @@
 - `2026-02-18 08:13` — secondary palette refinement
 - `2026-02-18 08:13` — accessibility contrast fix
 - `2026-02-18 08:13` — brand asset refresh
+- `2026-02-18 08:13` — primary color update
