@@ -119,3 +119,4 @@
 - `2026-02-18 08:13` — primary color update
 - `2026-02-18 08:13` — card component update
 - `2026-02-18 08:13` — dropdown menu update
+- `2026-02-18 08:13` — visual regression fix
