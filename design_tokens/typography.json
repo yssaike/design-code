@@ -45,7 +45,7 @@
     "fontFamily": "Inter, system-ui, sans-serif",
     "fontSize": "0.875rem",
     "fontWeight": 500,
-    "lineHeight": "1.5",
+    "lineHeight": "1.75",
     "letterSpacing": "0"
   },
   "caption": {

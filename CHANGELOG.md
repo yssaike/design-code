@@ -108,3 +108,4 @@
 - `2026-02-18 08:13` — brand font update
 - `2026-02-18 08:13` — margin alignment
 - `2026-02-18 08:13` — keyboard navigation fix
+- `2026-02-18 08:13` — heading hierarchy fix
