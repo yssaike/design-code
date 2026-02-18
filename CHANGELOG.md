@@ -106,3 +106,4 @@
 - `2026-02-18 08:13` — focus ring update
 - `2026-02-18 08:13` — micro-interaction refinement
 - `2026-02-18 08:13` — brand font update
+- `2026-02-18 08:13` — margin alignment
