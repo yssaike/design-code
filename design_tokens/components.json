@@ -66,7 +66,7 @@
     "fontWeight": "12px"
   },
   "checkbox": {
-    "borderRadius": "4px",
+    "borderRadius": "16px",
     "size": "12px",
     "borderWidth": "4px",
     "gap": "8px"
