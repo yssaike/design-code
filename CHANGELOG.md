@@ -110,3 +110,4 @@
 - `2026-02-18 08:13` — keyboard navigation fix
 - `2026-02-18 08:13` — heading hierarchy fix
 - `2026-02-18 08:13` — letter spacing tweak
+- `2026-02-18 08:13` — grid gap adjustment
