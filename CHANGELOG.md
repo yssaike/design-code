@@ -120,3 +120,4 @@
 - `2026-02-18 08:13` — card component update
 - `2026-02-18 08:13` — dropdown menu update
 - `2026-02-18 08:13` — visual regression fix
+- `2026-02-18 08:13` — screen reader label add
