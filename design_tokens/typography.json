@@ -30,7 +30,7 @@
   "h4": {
     "fontFamily": "Inter, system-ui, sans-serif",
     "fontSize": "1.25rem",
-    "fontWeight": 500,
+    "fontWeight": 700,
     "lineHeight": "1.5",
     "letterSpacing": "0"
   },
