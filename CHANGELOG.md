@@ -123,3 +123,4 @@
 - `2026-02-18 08:13` — screen reader label add
 - `2026-02-18 08:13` — responsive layout tweak
 - `2026-02-18 08:13` — body text improvement
+- `2026-02-18 08:13` — z-index adjustment
