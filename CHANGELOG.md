@@ -100,3 +100,4 @@
 - `2026-02-17 09:20` — tab component refinement
 - `2026-02-17 09:20` — accessibility contrast fix
 - `2026-02-18 08:13` — surface color update
+- `2026-02-18 08:13` — overflow fix
