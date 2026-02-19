@@ -147,3 +147,4 @@
 - `2026-02-19 15:39` — disabled state styling
 - `2026-02-19 15:39` — line height refinement
 - `2026-02-19 15:39` — tab component refinement
+- `2026-02-19 15:39` — keyboard navigation fix
