@@ -158,3 +158,4 @@
 - `2026-02-19 15:39` — badge design update
 - `2026-02-19 15:39` — layout spacing refinement
 - `2026-02-19 15:39` — surface color update
+- `2026-02-19 15:39` — tooltip design tweak
