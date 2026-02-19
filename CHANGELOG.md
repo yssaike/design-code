@@ -146,3 +146,4 @@
 - `2026-02-19 15:39` — brand token change
 - `2026-02-19 15:39` — disabled state styling
 - `2026-02-19 15:39` — line height refinement
+- `2026-02-19 15:39` — tab component refinement
