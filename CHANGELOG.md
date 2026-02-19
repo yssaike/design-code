@@ -155,3 +155,4 @@
 - `2026-02-19 15:39` — accessibility contrast fix
 - `2026-02-19 15:39` — padding consistency fix
 - `2026-02-19 15:39` — margin alignment
+- `2026-02-19 15:39` — badge design update
