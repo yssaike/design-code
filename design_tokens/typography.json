@@ -22,7 +22,7 @@
   },
   "h3": {
     "fontFamily": "Inter, system-ui, sans-serif",
-    "fontSize": "1.5rem",
+    "fontSize": "2.5rem",
     "fontWeight": 500,
     "lineHeight": "1.4",
     "letterSpacing": "0"
