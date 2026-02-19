@@ -143,3 +143,4 @@
 - `2026-02-19 15:39` — transition easing change
 - `2026-02-19 15:39` — color change
 - `2026-02-19 15:39` — alignment correction
+- `2026-02-19 15:39` — brand token change
