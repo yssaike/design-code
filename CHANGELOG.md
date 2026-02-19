@@ -141,3 +141,4 @@
 - `2026-02-19 15:39` — focus indicator update
 - `2026-02-19 15:39` — semantic color token fix
 - `2026-02-19 15:39` — transition easing change
+- `2026-02-19 15:39` — color change
