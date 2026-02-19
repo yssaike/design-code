@@ -160,3 +160,4 @@
 - `2026-02-19 15:39` — surface color update
 - `2026-02-19 15:39` — tooltip design tweak
 - `2026-02-19 15:39` — body text improvement
+- `2026-02-19 15:39` — micro-interaction refinement
