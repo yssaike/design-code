@@ -135,3 +135,4 @@
 - `2026-02-19 15:39` — heading hierarchy fix
 - `2026-02-19 15:39` — accent color adjustment
 - `2026-02-19 15:39` — scroll animation fix
+- `2026-02-19 15:39` — hover state fix
