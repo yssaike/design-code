@@ -164,3 +164,4 @@
 - `2026-02-19 15:39` — input field refinement
 - `2026-02-19 15:39` — secondary palette refinement
 - `2026-02-19 15:39` — color contrast fix
+- `2026-02-19 15:39` — border radius update
