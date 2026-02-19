@@ -151,3 +151,4 @@
 - `2026-02-19 15:39` — dropdown menu update
 - `2026-02-19 15:39` — typography scale update
 - `2026-02-19 15:39` — screen reader label add
+- `2026-02-19 15:39` — letter spacing tweak
