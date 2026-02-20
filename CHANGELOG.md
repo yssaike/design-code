@@ -170,3 +170,4 @@
 - `2026-02-20 10:56` — focus indicator update
 - `2026-02-20 10:56` — grid gap adjustment
 - `2026-02-20 10:56` — accessibility contrast fix
+- `2026-02-20 10:56` — z-index adjustment
