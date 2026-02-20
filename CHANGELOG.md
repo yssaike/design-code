@@ -181,3 +181,4 @@
 - `2026-02-20 10:56` — brand font update
 - `2026-02-20 10:56` — line height refinement
 - `2026-02-20 10:56` — loading animation tweak
+- `2026-02-20 10:56` — screen reader label add
