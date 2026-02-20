@@ -184,3 +184,4 @@
 - `2026-02-20 10:56` — screen reader label add
 - `2026-02-20 10:56` — body text improvement
 - `2026-02-20 10:56` — spacing token update
+- `2026-02-20 10:56` — card component update
