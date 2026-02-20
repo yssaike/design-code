@@ -168,3 +168,4 @@
 - `2026-02-19 15:39` — navigation styling fix
 - `2026-02-20 10:56` — responsive layout tweak
 - `2026-02-20 10:56` — focus indicator update
+- `2026-02-20 10:56` — grid gap adjustment
