@@ -174,3 +174,4 @@
 - `2026-02-20 10:56` — badge design update
 - `2026-02-20 10:56` — padding consistency fix
 - `2026-02-20 10:56` — animation duration update
+- `2026-02-20 10:56` — heading hierarchy fix
