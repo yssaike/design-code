@@ -177,3 +177,4 @@
 - `2026-02-20 10:56` — heading hierarchy fix
 - `2026-02-20 10:56` — brand asset refresh
 - `2026-02-20 10:56` — scroll animation fix
+- `2026-02-20 10:56` — brand guideline sync
