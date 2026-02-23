@@ -218,3 +218,4 @@
 - `2026-02-22 17:23` — hover state fix
 - `2026-02-22 17:23` — brand token change
 - `2026-02-22 17:23` — accessibility contrast fix
+- `2026-02-22 17:23` — margin alignment
