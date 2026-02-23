@@ -221,3 +221,4 @@
 - `2026-02-22 17:23` — margin alignment
 - `2026-02-22 17:23` — transition easing change
 - `2026-02-22 17:23` — alignment correction
+- `2026-02-22 17:23` — focus indicator update
