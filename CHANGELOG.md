@@ -195,3 +195,4 @@
 - `2026-02-22 17:23` — brand asset refresh
 - `2026-02-22 17:23` — color palette expansion
 - `2026-02-22 17:23` — font family swap
+- `2026-02-22 17:23` — loading animation tweak
