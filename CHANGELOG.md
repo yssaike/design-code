@@ -224,3 +224,4 @@
 - `2026-02-22 17:23` — focus indicator update
 - `2026-02-22 17:23` — screen reader label add
 - `2026-02-22 17:23` — spacing token update
+- `2026-02-22 17:23` — aria attribute update
