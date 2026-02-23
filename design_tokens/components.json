@@ -38,7 +38,7 @@
     "fontSize": "4px"
   },
   "badge": {
-    "borderRadius": "24px",
+    "borderRadius": "8px",
     "paddingX": "8px",
     "paddingY": "16px",
     "fontSize": "16px",
