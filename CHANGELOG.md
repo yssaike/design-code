@@ -262,3 +262,4 @@
 - `2026-02-23 06:55` — typography scale update
 - `2026-02-23 06:55` — letter spacing tweak
 - `2026-02-23 06:55` — z-index adjustment
+- `2026-02-23 06:55` — font family swap
