@@ -227,3 +227,4 @@
 - `2026-02-22 17:23` — aria attribute update
 - `2026-02-22 17:23` — tooltip design tweak
 - `2026-02-22 17:23` — brand spacing alignment
+- `2026-02-22 17:23` — badge design update
