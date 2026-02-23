@@ -213,3 +213,4 @@
 - `2026-02-22 17:23` — border radius update
 - `2026-02-22 17:23` — primary color update
 - `2026-02-22 17:23` — padding consistency fix
+- `2026-02-22 17:23` — active state refinement
