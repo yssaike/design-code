@@ -201,3 +201,4 @@
 - `2026-02-22 17:23` — checkbox style refresh
 - `2026-02-22 17:23` — font weight adjustment
 - `2026-02-22 17:23` — z-index adjustment
+- `2026-02-22 17:23` — button style update
