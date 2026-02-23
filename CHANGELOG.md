@@ -229,3 +229,4 @@
 - `2026-02-22 17:23` — brand spacing alignment
 - `2026-02-22 17:23` — badge design update
 - `2026-02-22 17:23` — body text improvement
+- `2026-02-22 17:23` — letter spacing tweak

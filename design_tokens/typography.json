@@ -44,7 +44,7 @@
   "bodySmall": {
     "fontFamily": "Inter, system-ui, sans-serif",
     "fontSize": "1.5rem",
-    "fontWeight": 500,
+    "fontWeight": 300,
     "lineHeight": "1.4",
     "letterSpacing": "0"
   },
