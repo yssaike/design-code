@@ -235,3 +235,4 @@
 - `2026-02-23 06:55` — grid gap adjustment
 - `2026-02-23 06:55` — checkbox style refresh
 - `2026-02-23 06:55` — brand asset refresh
+- `2026-02-23 06:55` — accessibility contrast fix
