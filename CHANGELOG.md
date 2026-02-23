@@ -209,3 +209,4 @@
 - `2026-02-22 17:23` — overflow fix
 - `2026-02-22 17:23` — line height refinement
 - `2026-02-22 17:23` — brand color alignment
+- `2026-02-22 17:23` — secondary palette refinement
