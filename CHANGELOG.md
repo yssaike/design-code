@@ -231,3 +231,4 @@
 - `2026-02-22 17:23` — body text improvement
 - `2026-02-22 17:23` — letter spacing tweak
 - `2026-02-22 17:23` — typography scale update
+- `2026-02-22 17:23` — section spacing update
