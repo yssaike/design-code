@@ -203,3 +203,4 @@
 - `2026-02-22 17:23` — z-index adjustment
 - `2026-02-22 17:23` — button style update
 - `2026-02-22 17:23` — visual regression fix
+- `2026-02-22 17:23` — scroll animation fix
