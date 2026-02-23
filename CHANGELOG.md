@@ -237,3 +237,4 @@
 - `2026-02-23 06:55` — brand asset refresh
 - `2026-02-23 06:55` — accessibility contrast fix
 - `2026-02-23 06:55` — brand font update
+- `2026-02-23 06:55` — responsive layout tweak
