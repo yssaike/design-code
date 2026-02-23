@@ -244,3 +244,4 @@
 - `2026-02-23 06:55` — focus ring update
 - `2026-02-23 06:55` — card component update
 - `2026-02-23 06:55` — scroll animation fix
+- `2026-02-23 06:55` — loading animation tweak
