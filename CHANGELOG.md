@@ -215,3 +215,4 @@
 - `2026-02-22 17:23` — padding consistency fix
 - `2026-02-22 17:23` — active state refinement
 - `2026-02-22 17:23` — surface color update
+- `2026-02-22 17:23` — hover state fix
