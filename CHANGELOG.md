@@ -260,3 +260,4 @@
 - `2026-02-23 06:55` — tab component refinement
 - `2026-02-23 06:55` — color palette expansion
 - `2026-02-23 06:55` — typography scale update
+- `2026-02-23 06:55` — letter spacing tweak
