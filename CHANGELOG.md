@@ -197,3 +197,4 @@
 - `2026-02-22 17:23` — font family swap
 - `2026-02-22 17:23` — loading animation tweak
 - `2026-02-22 17:23` — brand guideline sync
+- `2026-02-22 17:23` — accent color adjustment
