@@ -220,3 +220,4 @@
 - `2026-02-22 17:23` — accessibility contrast fix
 - `2026-02-22 17:23` — margin alignment
 - `2026-02-22 17:23` — transition easing change
+- `2026-02-22 17:23` — alignment correction
