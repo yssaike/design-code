@@ -211,3 +211,4 @@
 - `2026-02-22 17:23` — brand color alignment
 - `2026-02-22 17:23` — secondary palette refinement
 - `2026-02-22 17:23` — border radius update
+- `2026-02-22 17:23` — primary color update
