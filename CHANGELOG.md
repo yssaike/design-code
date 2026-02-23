@@ -248,3 +248,4 @@
 - `2026-02-23 06:55` — aria attribute update
 - `2026-02-23 06:55` — alignment correction
 - `2026-02-23 06:55` — transition easing change
+- `2026-02-23 06:55` — padding consistency fix
