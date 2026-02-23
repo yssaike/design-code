@@ -206,3 +206,4 @@
 - `2026-02-22 17:23` — scroll animation fix
 - `2026-02-22 17:23` — animation duration update
 - `2026-02-22 17:23` — shadow refinement
+- `2026-02-22 17:23` — overflow fix
