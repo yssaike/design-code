@@ -233,3 +233,4 @@
 - `2026-02-22 17:23` — typography scale update
 - `2026-02-22 17:23` — section spacing update
 - `2026-02-23 06:55` — grid gap adjustment
+- `2026-02-23 06:55` — checkbox style refresh
