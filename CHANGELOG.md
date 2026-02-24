@@ -288,3 +288,4 @@
 - `2026-02-24 08:09` — grid gap adjustment
 - `2026-02-24 08:09` — section spacing update
 - `2026-02-24 08:09` — z-index adjustment
+- `2026-02-24 08:09` — shadow refinement
