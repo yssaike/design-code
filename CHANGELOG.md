@@ -269,3 +269,4 @@
 - `2026-02-24 08:09` — typography scale update
 - `2026-02-24 08:09` — scroll animation fix
 - `2026-02-24 08:09` — micro-interaction refinement
+- `2026-02-24 08:09` — responsive layout tweak
