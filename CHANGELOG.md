@@ -285,3 +285,4 @@
 - `2026-02-24 08:09` — animation duration update
 - `2026-02-24 08:09` — font family swap
 - `2026-02-24 08:09` — brand color alignment
+- `2026-02-24 08:09` — grid gap adjustment
