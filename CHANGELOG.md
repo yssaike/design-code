@@ -267,3 +267,4 @@
 - `2026-02-24 08:09` — heading hierarchy fix
 - `2026-02-24 08:09` — focus indicator update
 - `2026-02-24 08:09` — typography scale update
+- `2026-02-24 08:09` — scroll animation fix
