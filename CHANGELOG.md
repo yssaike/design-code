@@ -275,3 +275,4 @@
 - `2026-02-24 08:09` — loading animation tweak
 - `2026-02-24 08:09` — margin alignment
 - `2026-02-24 08:09` — brand asset refresh
+- `2026-02-24 08:09` — padding consistency fix
