@@ -280,3 +280,4 @@
 - `2026-02-24 08:09` — input field refinement
 - `2026-02-24 08:09` — color contrast fix
 - `2026-02-24 08:09` — brand guideline sync
+- `2026-02-24 08:09` — dropdown menu update
