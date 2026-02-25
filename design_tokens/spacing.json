@@ -13,7 +13,7 @@
   "6xl": "48px",
   "7xl": "64px",
   "sectionGap": "48px",
-  "containerPadding": "2px",
+  "containerPadding": "6px",
   "cardPadding": "16px",
   "inputPadding": "8px",
   "buttonPaddingX": "16px",
