@@ -299,3 +299,4 @@
 - `2026-02-25 11:55` — brand token change
 - `2026-02-25 11:55` — keyboard navigation fix
 - `2026-02-25 11:55` — input field refinement
+- `2026-02-25 11:55` — color contrast fix
