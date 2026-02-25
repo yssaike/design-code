@@ -292,3 +292,4 @@
 - `2026-02-24 08:09` — transition easing change
 - `2026-02-24 08:09` — tooltip design tweak
 - `2026-02-25 11:55` — overflow fix
+- `2026-02-25 11:55` — dropdown menu update
