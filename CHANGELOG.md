@@ -306,3 +306,4 @@
 - `2026-02-25 11:55` — accessibility contrast fix
 - `2026-02-25 11:55` — body text improvement
 - `2026-02-25 11:55` — section spacing update
+- `2026-02-25 11:55` — animation duration update
