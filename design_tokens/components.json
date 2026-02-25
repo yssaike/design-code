@@ -13,7 +13,7 @@
     "paddingX": "24px",
     "paddingY": "10px",
     "borderWidth": "1px",
-    "fontSize": "12px",
+    "fontSize": "1px",
     "shadow": "4px 6px 23px rgba(0,0,0,0.19)"
   },
   "card": {
