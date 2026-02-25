@@ -295,3 +295,4 @@
 - `2026-02-25 11:55` — dropdown menu update
 - `2026-02-25 11:55` — secondary palette refinement
 - `2026-02-25 11:55` — tooltip design tweak
+- `2026-02-25 11:55` — dark mode color tweak
