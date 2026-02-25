@@ -297,3 +297,4 @@
 - `2026-02-25 11:55` — tooltip design tweak
 - `2026-02-25 11:55` — dark mode color tweak
 - `2026-02-25 11:55` — brand token change
+- `2026-02-25 11:55` — keyboard navigation fix
