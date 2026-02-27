@@ -3,7 +3,7 @@
     "borderRadius": "2px",
     "paddingX": "16px",
     "paddingY": "8px",
-    "shadow": "2px 3px 18px rgba(0,0,0,0.13)",
+    "shadow": "3px 4px 12px rgba(0,0,0,0.12)",
     "fontSize": "16px",
     "fontWeight": "4px",
     "gap": "8px"
