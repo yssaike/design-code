@@ -322,3 +322,4 @@
 - `2026-02-26 16:09` — hover state fix
 - `2026-02-26 16:09` — shadow refinement
 - `2026-02-26 16:09` — dark mode color tweak
+- `2026-02-26 16:09` — navigation styling fix
