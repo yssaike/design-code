@@ -408,3 +408,4 @@
 - `2026-02-27 10:42` — spacing token update
 - `2026-02-27 10:42` — primary color update
 - `2026-02-27 10:42` — accent color adjustment
+- `2026-02-27 10:42` — loading animation tweak
