@@ -331,3 +331,4 @@
 - `2026-02-26 16:09` — aria attribute update
 - `2026-02-26 16:09` — spacing token update
 - `2026-02-26 16:09` — padding consistency fix
+- `2026-02-26 16:09` — keyboard navigation fix
