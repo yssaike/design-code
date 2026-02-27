@@ -447,3 +447,4 @@
 - `2026-02-27 10:42` — active state refinement
 - `2026-02-27 10:42` — z-index adjustment
 - `2026-02-27 10:42` — dark mode color tweak
+- `2026-02-27 10:42` — color palette expansion
