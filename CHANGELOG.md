@@ -314,3 +314,4 @@
 - `2026-02-26 16:09` — checkbox style refresh
 - `2026-02-26 16:09` — secondary palette refinement
 - `2026-02-26 16:09` — layout spacing refinement
+- `2026-02-26 16:09` — margin alignment
