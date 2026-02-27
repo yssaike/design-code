@@ -326,3 +326,4 @@
 - `2026-02-26 16:09` — line height refinement
 - `2026-02-26 16:09` — brand token change
 - `2026-02-26 16:09` — scroll animation fix
+- `2026-02-26 16:09` — disabled state styling
