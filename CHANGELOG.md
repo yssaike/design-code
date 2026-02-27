@@ -428,3 +428,4 @@
 - `2026-02-27 10:42` — color change
 - `2026-02-27 10:42` — heading hierarchy fix
 - `2026-02-27 10:42` — micro-interaction refinement
+- `2026-02-27 10:42` — brand color alignment
