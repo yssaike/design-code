@@ -416,3 +416,4 @@
 - `2026-02-27 10:42` — accessibility contrast fix
 - `2026-02-27 10:42` — animation duration update
 - `2026-02-27 10:42` — font family swap
+- `2026-02-27 10:42` — grid gap adjustment
