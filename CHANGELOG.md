@@ -439,3 +439,4 @@
 - `2026-02-27 10:42` — padding consistency fix
 - `2026-02-27 10:42` — body text improvement
 - `2026-02-27 10:42` — focus ring update
+- `2026-02-27 10:42` — keyboard navigation fix
