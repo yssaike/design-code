@@ -444,3 +444,4 @@
 - `2026-02-27 10:42` — layout spacing refinement
 - `2026-02-27 10:42` — responsive layout tweak
 - `2026-02-27 10:42` — dropdown menu update
+- `2026-02-27 10:42` — active state refinement
