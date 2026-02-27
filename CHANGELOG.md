@@ -413,3 +413,4 @@
 - `2026-02-27 10:42` — aria attribute update
 - `2026-02-27 10:42` — alignment correction
 - `2026-02-27 10:42` — typography scale update
+- `2026-02-27 10:42` — accessibility contrast fix
