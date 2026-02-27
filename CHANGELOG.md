@@ -431,3 +431,4 @@
 - `2026-02-27 10:42` — brand color alignment
 - `2026-02-27 10:42` — navigation styling fix
 - `2026-02-27 10:42` — transition easing change
+- `2026-02-27 10:42` — font weight adjustment
