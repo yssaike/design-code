@@ -433,3 +433,4 @@
 - `2026-02-27 10:42` — transition easing change
 - `2026-02-27 10:42` — font weight adjustment
 - `2026-02-27 10:42` — hover state fix
+- `2026-02-27 10:42` — brand asset refresh
