@@ -420,3 +420,4 @@
 - `2026-02-27 10:42` — focus indicator update
 - `2026-02-27 10:42` — section spacing update
 - `2026-02-27 10:42` — brand token change
+- `2026-02-27 10:42` — visual regression fix
