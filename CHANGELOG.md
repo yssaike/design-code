@@ -423,3 +423,4 @@
 - `2026-02-27 10:42` — visual regression fix
 - `2026-02-27 10:42` — modal design update
 - `2026-02-27 10:42` — card component update
+- `2026-02-27 10:42` — screen reader label add
