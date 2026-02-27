@@ -424,3 +424,4 @@
 - `2026-02-27 10:42` — modal design update
 - `2026-02-27 10:42` — card component update
 - `2026-02-27 10:42` — screen reader label add
+- `2026-02-27 10:42` — brand spacing alignment
