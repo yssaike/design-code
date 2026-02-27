@@ -324,3 +324,4 @@
 - `2026-02-26 16:09` — dark mode color tweak
 - `2026-02-26 16:09` — navigation styling fix
 - `2026-02-26 16:09` — line height refinement
+- `2026-02-26 16:09` — brand token change
