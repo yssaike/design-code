@@ -405,3 +405,4 @@
 - `2026-02-27 10:42` — line height refinement
 - `2026-02-27 10:42` — brand font update
 - `2026-02-27 10:42` — color contrast fix
+- `2026-02-27 10:42` — spacing token update
