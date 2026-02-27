@@ -442,3 +442,4 @@
 - `2026-02-27 10:42` — keyboard navigation fix
 - `2026-02-27 10:42` — overflow fix
 - `2026-02-27 10:42` — layout spacing refinement
+- `2026-02-27 10:42` — responsive layout tweak
