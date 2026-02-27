@@ -312,3 +312,4 @@
 - `2026-02-26 16:09` — heading hierarchy fix
 - `2026-02-26 16:09` — brand guideline sync
 - `2026-02-26 16:09` — checkbox style refresh
+- `2026-02-26 16:09` — secondary palette refinement
