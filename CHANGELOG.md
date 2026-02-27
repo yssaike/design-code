@@ -329,3 +329,4 @@
 - `2026-02-26 16:09` — disabled state styling
 - `2026-02-26 16:09` — surface color update
 - `2026-02-26 16:09` — aria attribute update
+- `2026-02-26 16:09` — spacing token update
