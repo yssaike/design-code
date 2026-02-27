@@ -318,3 +318,4 @@
 - `2026-02-26 16:09` — font family swap
 - `2026-02-26 16:09` — accessibility contrast fix
 - `2026-02-26 16:09` — letter spacing tweak
+- `2026-02-26 16:09` — color palette expansion
