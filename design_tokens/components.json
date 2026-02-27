@@ -6,49 +6,49 @@
     "shadow": "3px 4px 12px rgba(0,0,0,0.12)",
     "fontSize": "16px",
     "fontWeight": "16px",
-    "gap": "8px"
+    "gap": "12px"
   },
   "input": {
     "borderRadius": "2px",
-    "paddingX": "20px",
+    "paddingX": "12px",
     "paddingY": "8px",
-    "borderWidth": "12px",
-    "fontSize": "1px",
-    "shadow": "4px 6px 23px rgba(0,0,0,0.19)"
+    "borderWidth": "16px",
+    "fontSize": "4px",
+    "shadow": "3px 7px 7px rgba(0,0,0,0.16)"
   },
   "card": {
-    "borderRadius": "6px",
-    "padding": "20px",
+    "borderRadius": "8px",
+    "padding": "4px",
     "shadow": "1px 5px 22px rgba(0,0,0,0.08)",
     "borderWidth": "4px",
     "gap": "8px"
   },
   "modal": {
-    "borderRadius": "16px",
+    "borderRadius": "8px",
     "padding": "20px",
-    "shadow": "3px 3px 12px rgba(0,0,0,0.05)",
+    "shadow": "4px 4px 17px rgba(0,0,0,0.15)",
     "maxWidth": "12px",
     "gap": "4px"
   },
   "tooltip": {
-    "borderRadius": "6px",
-    "paddingX": "20px",
-    "paddingY": "4px",
+    "borderRadius": "9999px",
+    "paddingX": "24px",
+    "paddingY": "20px",
     "shadow": "4px 6px 19px rgba(0,0,0,0.14)",
     "fontSize": "8px"
   },
   "badge": {
     "borderRadius": "8px",
-    "paddingX": "8px",
+    "paddingX": "16px",
     "paddingY": "8px",
-    "fontSize": "16px",
+    "fontSize": "1px",
     "fontWeight": "8px"
   },
   "avatar": {
-    "borderRadius": "6px",
+    "borderRadius": "12px",
     "borderWidth": "8px",
-    "shadow": "3px 4px 23px rgba(0,0,0,0.09)",
-    "size": "8px"
+    "shadow": "0px 5px 18px rgba(0,0,0,0.13)",
+    "size": "4px"
   },
   "dropdown": {
     "borderRadius": "12px",
@@ -58,17 +58,17 @@
     "gap": "16px"
   },
   "tabs": {
-    "borderRadius": "4px",
+    "borderRadius": "2px",
     "paddingX": "4px",
     "paddingY": "16px",
-    "gap": "24px",
-    "fontSize": "1px",
+    "gap": "4px",
+    "fontSize": "12px",
     "fontWeight": "16px"
   },
   "checkbox": {
-    "borderRadius": "8px",
+    "borderRadius": "2px",
     "size": "2px",
     "borderWidth": "16px",
-    "gap": "20px"
+    "gap": "4px"
   }
 }
