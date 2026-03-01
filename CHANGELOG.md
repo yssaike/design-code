@@ -452,3 +452,4 @@
 - `2026-03-01 03:00` — section spacing update
 - `2026-03-01 03:01` — padding consistency fix
 - `2026-03-01 03:01` — line height refinement
+- `2026-03-01 03:01` — body text improvement
