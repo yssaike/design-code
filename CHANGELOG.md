@@ -462,3 +462,4 @@
 - `2026-03-01 03:01` — brand spacing alignment
 - `2026-03-01 03:01` — scroll animation fix
 - `2026-03-01 03:01` — color change
+- `2026-03-01 03:01` — loading animation tweak
