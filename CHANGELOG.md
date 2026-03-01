@@ -465,3 +465,4 @@
 - `2026-03-01 03:01` — loading animation tweak
 - `2026-03-01 03:01` — overflow fix
 - `2026-03-01 03:01` — font family swap
+- `2026-03-01 03:01` — animation duration update
