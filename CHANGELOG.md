@@ -482,3 +482,4 @@
 - `2026-03-01 03:01` — keyboard navigation fix
 - `2026-03-01 03:01` — brand token change
 - `2026-03-01 03:01` — UI fixes
+- `2026-03-01 03:01` — navigation styling fix
