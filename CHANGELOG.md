@@ -474,3 +474,4 @@
 - `2026-03-01 03:01` — transition easing change
 - `2026-03-01 03:01` — surface color update
 - `2026-03-01 03:01` — input field refinement
+- `2026-03-01 03:01` — letter spacing tweak
