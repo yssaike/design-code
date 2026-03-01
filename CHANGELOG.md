@@ -478,3 +478,4 @@
 - `2026-03-01 03:01` — button style update
 - `2026-03-01 03:01` — margin alignment
 - `2026-03-01 03:01` — screen reader label add
+- `2026-03-01 03:01` — tab component refinement
