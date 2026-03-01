@@ -466,3 +466,4 @@
 - `2026-03-01 03:01` — overflow fix
 - `2026-03-01 03:01` — font family swap
 - `2026-03-01 03:01` — animation duration update
+- `2026-03-01 03:01` — brand asset refresh
