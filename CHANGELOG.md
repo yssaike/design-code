@@ -476,3 +476,4 @@
 - `2026-03-01 03:01` — input field refinement
 - `2026-03-01 03:01` — letter spacing tweak
 - `2026-03-01 03:01` — button style update
+- `2026-03-01 03:01` — margin alignment
