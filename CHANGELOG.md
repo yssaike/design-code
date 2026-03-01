@@ -458,3 +458,4 @@
 - `2026-03-01 03:01` — spacing token update
 - `2026-03-01 03:01` — semantic color token fix
 - `2026-03-01 03:01` — layout spacing refinement
+- `2026-03-01 03:01` — grid gap adjustment
