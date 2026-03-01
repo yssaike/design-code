@@ -461,3 +461,4 @@
 - `2026-03-01 03:01` — grid gap adjustment
 - `2026-03-01 03:01` — brand spacing alignment
 - `2026-03-01 03:01` — scroll animation fix
+- `2026-03-01 03:01` — color change
