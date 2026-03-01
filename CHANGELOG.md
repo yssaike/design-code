@@ -470,3 +470,4 @@
 - `2026-03-01 03:01` — dropdown menu update
 - `2026-03-01 03:01` — modal design update
 - `2026-03-01 03:01` — active state refinement
+- `2026-03-01 03:01` — color palette expansion
