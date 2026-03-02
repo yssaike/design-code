@@ -494,3 +494,4 @@
 - `2026-03-02 14:41` — body text improvement
 - `2026-03-02 14:41` — font weight adjustment
 - `2026-03-02 14:41` — brand font update
+- `2026-03-02 14:41` — spacing token update
