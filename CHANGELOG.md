@@ -488,3 +488,4 @@
 - `2026-03-02 14:41` — screen reader label add
 - `2026-03-02 14:41` — brand asset refresh
 - `2026-03-02 14:41` — tooltip design tweak
+- `2026-03-02 14:41` — section spacing update
