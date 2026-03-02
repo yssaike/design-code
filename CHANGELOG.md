@@ -486,3 +486,4 @@
 - `2026-03-01 03:01` — heading hierarchy fix
 - `2026-03-01 03:01` — hover state fix
 - `2026-03-02 14:41` — screen reader label add
+- `2026-03-02 14:41` — brand asset refresh
