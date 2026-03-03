@@ -518,3 +518,4 @@
 - `2026-03-03 09:11` — animation duration update
 - `2026-03-03 09:11` — letter spacing tweak
 - `2026-03-03 09:11` — body text improvement
+- `2026-03-03 09:11` — semantic color token fix
