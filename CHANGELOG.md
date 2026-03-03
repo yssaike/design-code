@@ -523,3 +523,4 @@
 - `2026-03-03 09:11` — font weight adjustment
 - `2026-03-03 09:11` — visual regression fix
 - `2026-03-03 09:11` — aria attribute update
+- `2026-03-03 09:11` — heading hierarchy fix
