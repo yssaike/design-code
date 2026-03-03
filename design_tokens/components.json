@@ -4,7 +4,7 @@
     "paddingX": "8px",
     "paddingY": "16px",
     "shadow": "3px 4px 12px rgba(0,0,0,0.12)",
-    "fontSize": "16px",
+    "fontSize": "8px",
     "fontWeight": "16px",
     "gap": "12px"
   },
