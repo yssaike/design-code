@@ -521,3 +521,4 @@
 - `2026-03-03 09:11` — semantic color token fix
 - `2026-03-03 09:11` — modal design update
 - `2026-03-03 09:11` — font weight adjustment
+- `2026-03-03 09:11` — visual regression fix
