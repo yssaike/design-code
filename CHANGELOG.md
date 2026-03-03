@@ -505,3 +505,4 @@
 - `2026-03-03 09:11` — color palette expansion
 - `2026-03-03 09:11` — transition easing change
 - `2026-03-03 09:11` — brand asset refresh
+- `2026-03-03 09:11` — border radius update
