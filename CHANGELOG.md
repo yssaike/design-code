@@ -533,3 +533,4 @@
 - `2026-03-03 09:11` — margin alignment
 - `2026-03-03 09:11` — checkbox style refresh
 - `2026-03-03 09:11` — accessibility contrast fix
+- `2026-03-03 09:11` — dropdown menu update
