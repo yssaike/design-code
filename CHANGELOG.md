@@ -510,3 +510,4 @@
 - `2026-03-03 09:11` — layout spacing refinement
 - `2026-03-03 09:11` — brand font update
 - `2026-03-03 09:11` — line height refinement
+- `2026-03-03 09:11` — UI fixes
