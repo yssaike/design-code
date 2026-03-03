@@ -531,3 +531,4 @@
 - `2026-03-03 09:11` — padding consistency fix
 - `2026-03-03 09:11` — secondary palette refinement
 - `2026-03-03 09:11` — margin alignment
+- `2026-03-03 09:11` — checkbox style refresh
