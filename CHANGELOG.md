@@ -515,3 +515,4 @@
 - `2026-03-03 09:11` — alignment correction
 - `2026-03-03 09:11` — grid gap adjustment
 - `2026-03-03 09:11` — overflow fix
+- `2026-03-03 09:11` — animation duration update
