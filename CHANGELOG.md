@@ -540,3 +540,4 @@
 - `2026-03-03 09:11` — keyboard navigation fix
 - `2026-03-03 09:11` — dark mode color tweak
 - `2026-03-03 09:11` — spacing token update
+- `2026-03-04 08:04` — scroll animation fix
