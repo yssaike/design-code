@@ -566,3 +566,4 @@
 - `2026-03-04 08:04` — heading hierarchy fix
 - `2026-03-04 08:04` — micro-interaction refinement
 - `2026-03-04 08:04` — dark mode color tweak
+- `2026-03-04 08:04` — active state refinement
