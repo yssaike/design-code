@@ -575,3 +575,4 @@
 - `2026-03-04 08:05` — checkbox style refresh
 - `2026-03-04 08:05` — padding consistency fix
 - `2026-03-04 08:05` — focus indicator update
+- `2026-03-04 08:05` — brand spacing alignment
