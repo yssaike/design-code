@@ -565,3 +565,4 @@
 - `2026-03-04 08:04` — font weight adjustment
 - `2026-03-04 08:04` — heading hierarchy fix
 - `2026-03-04 08:04` — micro-interaction refinement
+- `2026-03-04 08:04` — dark mode color tweak
