@@ -553,3 +553,4 @@
 - `2026-03-04 08:04` — responsive layout tweak
 - `2026-03-04 08:04` — layout spacing refinement
 - `2026-03-04 08:04` — spacing token update
+- `2026-03-04 08:04` — tab component refinement
