@@ -558,3 +558,4 @@
 - `2026-03-04 08:04` — section spacing update
 - `2026-03-04 08:04` — letter spacing tweak
 - `2026-03-04 08:04` — brand font update
+- `2026-03-04 08:04` — shadow refinement
