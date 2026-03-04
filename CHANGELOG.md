@@ -556,3 +556,4 @@
 - `2026-03-04 08:04` — tab component refinement
 - `2026-03-04 08:04` — brand guideline sync
 - `2026-03-04 08:04` — section spacing update
+- `2026-03-04 08:04` — letter spacing tweak
