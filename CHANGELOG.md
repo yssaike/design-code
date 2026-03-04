@@ -549,3 +549,4 @@
 - `2026-03-04 08:04` — transition easing change
 - `2026-03-04 08:04` — line height refinement
 - `2026-03-04 08:04` — margin alignment
+- `2026-03-04 08:04` — font family swap
