@@ -561,3 +561,4 @@
 - `2026-03-04 08:04` — shadow refinement
 - `2026-03-04 08:04` — color palette expansion
 - `2026-03-04 08:04` — animation duration update
+- `2026-03-04 08:04` — modal design update
