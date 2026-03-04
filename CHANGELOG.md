@@ -563,3 +563,4 @@
 - `2026-03-04 08:04` — animation duration update
 - `2026-03-04 08:04` — modal design update
 - `2026-03-04 08:04` — font weight adjustment
+- `2026-03-04 08:04` — heading hierarchy fix
