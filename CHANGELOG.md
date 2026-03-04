@@ -582,3 +582,4 @@
 - `2026-03-04 08:05` — transition easing change
 - `2026-03-04 08:05` — tab component refinement
 - `2026-03-04 08:05` — loading animation tweak
+- `2026-03-04 08:05` — scroll animation fix
