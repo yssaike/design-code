@@ -578,3 +578,4 @@
 - `2026-03-04 08:05` — brand spacing alignment
 - `2026-03-04 08:05` — color palette expansion
 - `2026-03-04 08:05` — accessibility contrast fix
+- `2026-03-04 08:05` — modal design update
