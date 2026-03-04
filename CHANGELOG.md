@@ -584,3 +584,4 @@
 - `2026-03-04 08:05` — loading animation tweak
 - `2026-03-04 08:05` — scroll animation fix
 - `2026-03-04 08:05` — font family swap
+- `2026-03-04 08:05` — body text improvement
