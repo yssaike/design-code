@@ -588,3 +588,4 @@
 - `2026-03-04 08:05` — responsive layout tweak
 - `2026-03-04 08:05` — input field refinement
 - `2026-03-04 08:05` — line height refinement
+- `2026-03-04 08:05` — disabled state styling
