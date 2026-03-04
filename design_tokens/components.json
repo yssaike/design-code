@@ -54,7 +54,7 @@
     "borderRadius": "4px",
     "padding": "4px",
     "shadow": "1px 7px 15px rgba(0,0,0,0.07)",
-    "itemPadding": "8px",
+    "itemPadding": "4px",
     "gap": "16px"
   },
   "tabs": {
