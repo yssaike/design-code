@@ -32,7 +32,7 @@
   },
   "tooltip": {
     "borderRadius": "9999px",
-    "paddingX": "16px",
+    "paddingX": "20px",
     "paddingY": "4px",
     "shadow": "3px 7px 22px rgba(0,0,0,0.1)",
     "fontSize": "2px"

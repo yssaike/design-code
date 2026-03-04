@@ -572,3 +572,4 @@
 - `2026-03-04 08:05` — color change
 - `2026-03-04 08:05` — section spacing update
 - `2026-03-04 08:05` — focus ring update
+- `2026-03-04 08:05` — checkbox style refresh
