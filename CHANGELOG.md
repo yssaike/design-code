@@ -547,3 +547,4 @@
 - `2026-03-04 08:04` — surface color update
 - `2026-03-04 08:04` — brand color alignment
 - `2026-03-04 08:04` — transition easing change
+- `2026-03-04 08:04` — line height refinement
