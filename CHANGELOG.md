@@ -597,3 +597,4 @@
 - `2026-03-06 08:11` — body text improvement
 - `2026-03-06 08:11` — primary color update
 - `2026-03-06 08:11` — spacing token update
+- `2026-03-06 08:11` — brand font update
