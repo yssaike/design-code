@@ -612,3 +612,4 @@
 - `2026-03-06 08:11` — font family swap
 - `2026-03-06 08:11` — brand token change
 - `2026-03-06 08:11` — badge design update
+- `2026-03-06 08:11` — button style update
