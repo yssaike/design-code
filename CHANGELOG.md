@@ -603,3 +603,4 @@
 - `2026-03-06 08:11` — card component update
 - `2026-03-06 08:11` — brand guideline sync
 - `2026-03-06 08:11` — micro-interaction refinement
+- `2026-03-06 08:11` — transition easing change

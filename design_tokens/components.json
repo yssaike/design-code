@@ -58,7 +58,7 @@
     "gap": "12px"
   },
   "tabs": {
-    "borderRadius": "24px",
+    "borderRadius": "8px",
     "paddingX": "20px",
     "paddingY": "16px",
     "gap": "24px",
