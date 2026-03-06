@@ -606,3 +606,4 @@
 - `2026-03-06 08:11` — transition easing change
 - `2026-03-06 08:11` — z-index adjustment
 - `2026-03-06 08:11` — keyboard navigation fix
+- `2026-03-06 08:11` — brand color alignment
