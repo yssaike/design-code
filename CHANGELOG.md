@@ -608,3 +608,4 @@
 - `2026-03-06 08:11` — keyboard navigation fix
 - `2026-03-06 08:11` — brand color alignment
 - `2026-03-06 08:11` — scroll animation fix
+- `2026-03-06 08:11` — brand spacing alignment
