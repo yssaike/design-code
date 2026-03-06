@@ -592,3 +592,4 @@
 - `2026-03-04 08:05` — animation duration update
 - `2026-03-04 08:05` — screen reader label add
 - `2026-03-04 08:05` — surface color update
+- `2026-03-06 08:11` — aria attribute update
