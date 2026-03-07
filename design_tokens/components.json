@@ -31,7 +31,7 @@
     "gap": "4px"
   },
   "tooltip": {
-    "borderRadius": "8px",
+    "borderRadius": "12px",
     "paddingX": "20px",
     "paddingY": "4px",
     "shadow": "3px 7px 22px rgba(0,0,0,0.1)",
