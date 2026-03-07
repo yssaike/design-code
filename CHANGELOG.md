@@ -635,3 +635,4 @@
 - `2026-03-07 12:49` — modal design update
 - `2026-03-07 12:49` — brand font update
 - `2026-03-07 12:49` — font weight adjustment
+- `2026-03-07 12:49` — UI fixes
