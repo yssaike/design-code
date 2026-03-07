@@ -657,3 +657,4 @@
 - `2026-03-07 12:49` — keyboard navigation fix
 - `2026-03-07 12:49` — micro-interaction refinement
 - `2026-03-07 12:49` — visual regression fix
+- `2026-03-07 12:49` — disabled state styling
