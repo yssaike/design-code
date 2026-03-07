@@ -622,3 +622,4 @@
 - `2026-03-07 12:49` — checkbox style refresh
 - `2026-03-07 12:49` — shadow refinement
 - `2026-03-07 12:49` — body text improvement
+- `2026-03-07 12:49` — spacing token update
