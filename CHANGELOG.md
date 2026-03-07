@@ -618,3 +618,4 @@
 - `2026-03-06 08:11` — layout spacing refinement
 - `2026-03-07 12:49` — transition easing change
 - `2026-03-07 12:49` — grid gap adjustment
+- `2026-03-07 12:49` — accessibility contrast fix
