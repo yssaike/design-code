@@ -627,3 +627,4 @@
 - `2026-03-07 12:49` — navigation styling fix
 - `2026-03-07 12:49` — loading animation tweak
 - `2026-03-07 12:49` — semantic color token fix
+- `2026-03-07 12:49` — dark mode color tweak
