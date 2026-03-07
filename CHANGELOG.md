@@ -620,3 +620,4 @@
 - `2026-03-07 12:49` — grid gap adjustment
 - `2026-03-07 12:49` — accessibility contrast fix
 - `2026-03-07 12:49` — checkbox style refresh
+- `2026-03-07 12:49` — shadow refinement
