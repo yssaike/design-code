@@ -632,3 +632,4 @@
 - `2026-03-07 12:49` — focus ring update
 - `2026-03-07 12:49` — typography scale update
 - `2026-03-07 12:49` — layout spacing refinement
+- `2026-03-07 12:49` — modal design update
