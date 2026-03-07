@@ -645,3 +645,4 @@
 - `2026-03-07 12:49` — secondary palette refinement
 - `2026-03-07 12:49` — dropdown menu update
 - `2026-03-07 12:49` — surface color update
+- `2026-03-07 12:49` — heading hierarchy fix
