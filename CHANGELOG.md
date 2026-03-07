@@ -624,3 +624,4 @@
 - `2026-03-07 12:49` — body text improvement
 - `2026-03-07 12:49` — spacing token update
 - `2026-03-07 12:49` — overflow fix
+- `2026-03-07 12:49` — navigation styling fix
