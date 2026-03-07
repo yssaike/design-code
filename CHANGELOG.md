@@ -652,3 +652,4 @@
 - `2026-03-07 12:49` — badge design update
 - `2026-03-07 12:49` — brand guideline sync
 - `2026-03-07 12:49` — letter spacing tweak
+- `2026-03-07 12:49` — color palette expansion
