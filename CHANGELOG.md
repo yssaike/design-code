@@ -658,3 +658,4 @@
 - `2026-03-07 12:49` — micro-interaction refinement
 - `2026-03-07 12:49` — visual regression fix
 - `2026-03-07 12:49` — disabled state styling
+- `2026-03-07 12:49` — section spacing update
