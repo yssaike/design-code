@@ -630,3 +630,4 @@
 - `2026-03-07 12:49` — dark mode color tweak
 - `2026-03-07 12:49` — color change
 - `2026-03-07 12:49` — focus ring update
+- `2026-03-07 12:49` — typography scale update
