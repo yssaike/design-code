@@ -664,3 +664,4 @@
 - `2026-03-07 12:49` — alignment correction
 - `2026-03-07 12:49` — brand spacing alignment
 - `2026-03-07 12:49` — focus indicator update
+- `2026-03-07 12:49` — font family swap
