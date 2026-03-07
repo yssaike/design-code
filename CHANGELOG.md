@@ -647,3 +647,4 @@
 - `2026-03-07 12:49` — surface color update
 - `2026-03-07 12:49` — heading hierarchy fix
 - `2026-03-07 12:49` — scroll animation fix
+- `2026-03-07 12:49` — margin alignment
