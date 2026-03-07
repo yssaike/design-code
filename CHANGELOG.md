@@ -616,3 +616,4 @@
 - `2026-03-06 08:11` — border radius update
 - `2026-03-06 08:11` — input field refinement
 - `2026-03-06 08:11` — layout spacing refinement
+- `2026-03-07 12:49` — transition easing change
