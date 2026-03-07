@@ -650,3 +650,4 @@
 - `2026-03-07 12:49` — margin alignment
 - `2026-03-07 12:49` — tab component refinement
 - `2026-03-07 12:49` — badge design update
+- `2026-03-07 12:49` — brand guideline sync
