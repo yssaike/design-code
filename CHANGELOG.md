@@ -674,3 +674,4 @@
 - `2026-03-08 00:18` — screen reader label add
 - `2026-03-08 00:18` — brand color alignment
 - `2026-03-08 00:18` — tooltip design tweak
+- `2026-03-08 00:18` — transition easing change
