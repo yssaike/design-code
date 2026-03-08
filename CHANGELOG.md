@@ -678,3 +678,4 @@
 - `2026-03-08 00:18` — keyboard navigation fix
 - `2026-03-08 00:18` — brand asset refresh
 - `2026-03-08 00:18` — brand token change
+- `2026-03-08 00:18` — micro-interaction refinement
