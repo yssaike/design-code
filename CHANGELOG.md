@@ -669,3 +669,4 @@
 - `2026-03-08 00:18` — accessibility contrast fix
 - `2026-03-08 00:18` — loading animation tweak
 - `2026-03-08 00:18` — section spacing update
+- `2026-03-08 00:18` — margin alignment
