@@ -666,3 +666,4 @@
 - `2026-03-07 12:49` — focus indicator update
 - `2026-03-07 12:49` — font family swap
 - `2026-03-08 00:18` — layout spacing refinement
+- `2026-03-08 00:18` — accessibility contrast fix
