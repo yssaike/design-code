@@ -681,3 +681,4 @@
 - `2026-03-08 00:18` — micro-interaction refinement
 - `2026-03-08 00:18` — visual regression fix
 - `2026-03-08 00:18` — button style update
+- `2026-03-08 00:18` — font weight adjustment
