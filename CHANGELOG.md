@@ -671,3 +671,4 @@
 - `2026-03-08 00:18` — section spacing update
 - `2026-03-08 00:18` — margin alignment
 - `2026-03-08 00:18` — primary color update
+- `2026-03-08 00:18` — screen reader label add
