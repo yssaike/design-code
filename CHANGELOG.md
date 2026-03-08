@@ -679,3 +679,4 @@
 - `2026-03-08 00:18` — brand asset refresh
 - `2026-03-08 00:18` — brand token change
 - `2026-03-08 00:18` — micro-interaction refinement
+- `2026-03-08 00:18` — visual regression fix
