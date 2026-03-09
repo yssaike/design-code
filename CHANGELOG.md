@@ -710,3 +710,4 @@
 - `2026-03-09 08:02` — padding consistency fix
 - `2026-03-09 08:02` — brand spacing alignment
 - `2026-03-09 08:02` — responsive layout tweak
+- `2026-03-09 08:02` — semantic color token fix
