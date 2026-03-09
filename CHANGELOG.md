@@ -698,3 +698,4 @@
 - `2026-03-09 08:02` — accessibility contrast fix
 - `2026-03-09 08:02` — hover state fix
 - `2026-03-09 08:02` — brand font update
+- `2026-03-09 08:02` — brand color alignment
