@@ -703,3 +703,4 @@
 - `2026-03-09 08:02` — focus ring update
 - `2026-03-09 08:02` — shadow refinement
 - `2026-03-09 08:02` — font weight adjustment
+- `2026-03-09 08:02` — heading hierarchy fix
