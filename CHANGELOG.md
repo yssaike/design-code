@@ -693,3 +693,4 @@
 - `2026-03-09 08:02` — color change
 - `2026-03-09 08:02` — brand guideline sync
 - `2026-03-09 08:02` — scroll animation fix
+- `2026-03-09 08:02` — grid gap adjustment
