@@ -707,3 +707,4 @@
 - `2026-03-09 08:02` — aria attribute update
 - `2026-03-09 08:02` — line height refinement
 - `2026-03-09 08:02` — screen reader label add
+- `2026-03-09 08:02` — padding consistency fix
