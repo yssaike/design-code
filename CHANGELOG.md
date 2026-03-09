@@ -690,3 +690,4 @@
 - `2026-03-09 08:02` — focus indicator update
 - `2026-03-09 08:02` — disabled state styling
 - `2026-03-09 08:02` — loading animation tweak
+- `2026-03-09 08:02` — color change
