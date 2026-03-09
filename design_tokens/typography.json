@@ -24,7 +24,7 @@
     "fontFamily": "Inter, system-ui, sans-serif",
     "fontSize": "2.5rem",
     "fontWeight": 300,
-    "lineHeight": "1.5",
+    "lineHeight": "1.75",
     "letterSpacing": "0"
   },
   "h4": {
