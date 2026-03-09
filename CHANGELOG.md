@@ -685,3 +685,4 @@
 - `2026-03-08 00:18` — grid gap adjustment
 - `2026-03-08 00:18` — typography scale update
 - `2026-03-09 08:02` — transition easing change
+- `2026-03-09 08:02` — margin alignment
