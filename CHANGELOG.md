@@ -705,3 +705,4 @@
 - `2026-03-09 08:02` — font weight adjustment
 - `2026-03-09 08:02` — heading hierarchy fix
 - `2026-03-09 08:02` — aria attribute update
+- `2026-03-09 08:02` — line height refinement
