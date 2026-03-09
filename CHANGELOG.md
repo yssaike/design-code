@@ -694,3 +694,4 @@
 - `2026-03-09 08:02` — brand guideline sync
 - `2026-03-09 08:02` — scroll animation fix
 - `2026-03-09 08:02` — grid gap adjustment
+- `2026-03-09 08:02` — typography scale update
