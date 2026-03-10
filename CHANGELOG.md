@@ -721,3 +721,4 @@
 - `2026-03-10 08:12` — section spacing update
 - `2026-03-10 08:12` — brand guideline sync
 - `2026-03-10 08:12` — screen reader label add
+- `2026-03-10 08:12` — brand token change
