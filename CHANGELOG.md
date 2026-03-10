@@ -725,3 +725,4 @@
 - `2026-03-10 08:12` — overflow fix
 - `2026-03-10 08:12` — visual regression fix
 - `2026-03-10 08:12` — scroll animation fix
+- `2026-03-10 08:12` — dark mode color tweak
