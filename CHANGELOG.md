@@ -735,3 +735,4 @@
 - `2026-03-10 08:12` — font weight adjustment
 - `2026-03-10 08:12` — button style update
 - `2026-03-10 08:12` — accessibility contrast fix
+- `2026-03-10 08:12` — brand asset refresh
