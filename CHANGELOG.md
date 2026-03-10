@@ -724,3 +724,4 @@
 - `2026-03-10 08:12` — brand token change
 - `2026-03-10 08:12` — overflow fix
 - `2026-03-10 08:12` — visual regression fix
+- `2026-03-10 08:12` — scroll animation fix
