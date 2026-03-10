@@ -741,3 +741,4 @@
 - `2026-03-10 08:12` — body text improvement
 - `2026-03-10 08:12` — navigation styling fix
 - `2026-03-10 08:12` — transition easing change
+- `2026-03-10 08:12` — active state refinement

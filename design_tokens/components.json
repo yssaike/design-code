@@ -61,7 +61,7 @@
     "borderRadius": "16px",
     "paddingX": "20px",
     "paddingY": "8px",
-    "gap": "16px",
+    "gap": "24px",
     "fontSize": "12px",
     "fontWeight": "16px"
   },
