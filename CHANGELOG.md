@@ -731,3 +731,4 @@
 - `2026-03-10 08:12` — spacing token update
 - `2026-03-10 08:12` — line height refinement
 - `2026-03-10 08:12` — brand font update
+- `2026-03-10 08:12` — input field refinement
