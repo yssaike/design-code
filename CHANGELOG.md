@@ -730,3 +730,4 @@
 - `2026-03-10 08:12` — keyboard navigation fix
 - `2026-03-10 08:12` — spacing token update
 - `2026-03-10 08:12` — line height refinement
+- `2026-03-10 08:12` — brand font update
