@@ -756,3 +756,4 @@
 - `2026-03-11 14:35` — secondary palette refinement
 - `2026-03-11 14:35` — button style update
 - `2026-03-11 14:35` — primary color update
+- `2026-03-11 14:35` — heading hierarchy fix
