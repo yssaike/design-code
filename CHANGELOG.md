@@ -750,3 +750,4 @@
 - `2026-03-11 14:35` — brand spacing alignment
 - `2026-03-11 14:35` — transition easing change
 - `2026-03-11 14:35` — hover state fix
+- `2026-03-11 14:35` — accent color adjustment
