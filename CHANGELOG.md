@@ -743,3 +743,4 @@
 - `2026-03-10 08:12` — transition easing change
 - `2026-03-10 08:12` — active state refinement
 - `2026-03-10 08:12` — dropdown menu update
+- `2026-03-11 14:35` — line height refinement
