@@ -747,3 +747,4 @@
 - `2026-03-11 14:35` — dropdown menu update
 - `2026-03-11 14:35` — screen reader label add
 - `2026-03-11 14:35` — body text improvement
+- `2026-03-11 14:35` — brand spacing alignment
