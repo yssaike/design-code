@@ -744,3 +744,4 @@
 - `2026-03-10 08:12` — active state refinement
 - `2026-03-10 08:12` — dropdown menu update
 - `2026-03-11 14:35` — line height refinement
+- `2026-03-11 14:35` — dropdown menu update
