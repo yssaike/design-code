@@ -760,3 +760,4 @@
 - `2026-03-11 14:35` — letter spacing tweak
 - `2026-03-11 14:35` — border radius update
 - `2026-03-11 14:35` — focus indicator update
+- `2026-03-11 14:35` — micro-interaction refinement
