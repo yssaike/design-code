@@ -753,3 +753,4 @@
 - `2026-03-11 14:35` — accent color adjustment
 - `2026-03-11 14:35` — card component update
 - `2026-03-11 14:35` — overflow fix
+- `2026-03-11 14:35` — secondary palette refinement
