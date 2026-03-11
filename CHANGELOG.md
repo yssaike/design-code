@@ -751,3 +751,4 @@
 - `2026-03-11 14:35` — transition easing change
 - `2026-03-11 14:35` — hover state fix
 - `2026-03-11 14:35` — accent color adjustment
+- `2026-03-11 14:35` — card component update
