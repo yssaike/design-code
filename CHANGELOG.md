@@ -783,3 +783,4 @@
 - `2026-03-12 08:15` — hover state fix
 - `2026-03-12 08:15` — layout spacing refinement
 - `2026-03-12 08:15` — brand color alignment
+- `2026-03-12 08:15` — visual regression fix
