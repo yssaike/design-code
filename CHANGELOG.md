@@ -769,3 +769,4 @@
 - `2026-03-12 08:15` — active state refinement
 - `2026-03-12 08:15` — micro-interaction refinement
 - `2026-03-12 08:15` — brand font update
+- `2026-03-12 08:15` — letter spacing tweak
