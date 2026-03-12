@@ -787,3 +787,4 @@
 - `2026-03-12 08:15` — focus ring update
 - `2026-03-12 08:15` — z-index adjustment
 - `2026-03-12 08:15` — font family swap
+- `2026-03-12 08:15` — scroll animation fix
