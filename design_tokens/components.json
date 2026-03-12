@@ -53,7 +53,7 @@
   "dropdown": {
     "borderRadius": "4px",
     "padding": "12px",
-    "shadow": "2px 2px 12px rgba(0,0,0,0.05)",
+    "shadow": "4px 1px 20px rgba(0,0,0,0.14)",
     "itemPadding": "16px",
     "gap": "4px"
   },

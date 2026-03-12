@@ -764,3 +764,4 @@
 - `2026-03-11 14:35` — margin alignment
 - `2026-03-11 14:35` — UI fixes
 - `2026-03-11 14:35` — accessibility contrast fix
+- `2026-03-12 08:15` — loading animation tweak
