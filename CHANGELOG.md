@@ -785,3 +785,4 @@
 - `2026-03-12 08:15` — brand color alignment
 - `2026-03-12 08:15` — visual regression fix
 - `2026-03-12 08:15` — focus ring update
+- `2026-03-12 08:15` — z-index adjustment
