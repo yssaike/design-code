@@ -772,3 +772,4 @@
 - `2026-03-12 08:15` — letter spacing tweak
 - `2026-03-12 08:15` — border radius update
 - `2026-03-12 08:15` — line height refinement
+- `2026-03-12 08:15` — grid gap adjustment
