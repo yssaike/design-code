@@ -774,3 +774,4 @@
 - `2026-03-12 08:15` — line height refinement
 - `2026-03-12 08:15` — grid gap adjustment
 - `2026-03-12 08:15` — transition easing change
+- `2026-03-12 08:15` — aria attribute update
