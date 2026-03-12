@@ -781,3 +781,4 @@
 - `2026-03-12 08:15` — tooltip design tweak
 - `2026-03-12 08:15` — spacing token update
 - `2026-03-12 08:15` — hover state fix
+- `2026-03-12 08:15` — layout spacing refinement
