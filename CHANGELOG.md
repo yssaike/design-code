@@ -767,3 +767,4 @@
 - `2026-03-12 08:15` — loading animation tweak
 - `2026-03-12 08:15` — animation duration update
 - `2026-03-12 08:15` — active state refinement
+- `2026-03-12 08:15` — micro-interaction refinement
