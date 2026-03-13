@@ -795,3 +795,4 @@
 - `2026-03-13 10:40` — grid gap adjustment
 - `2026-03-13 10:40` — checkbox style refresh
 - `2026-03-13 10:40` — brand token change
+- `2026-03-13 10:40` — responsive layout tweak
