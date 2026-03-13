@@ -827,3 +827,4 @@
 - `2026-03-13 10:40` — font family swap
 - `2026-03-13 10:40` — scroll animation fix
 - `2026-03-13 10:40` — section spacing update
+- `2026-03-13 10:40` — semantic color token fix
