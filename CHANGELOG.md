@@ -833,3 +833,4 @@
 - `2026-03-13 10:40` — padding consistency fix
 - `2026-03-13 10:40` — disabled state styling
 - `2026-03-13 10:40` — z-index adjustment
+- `2026-03-13 10:40` — letter spacing tweak
