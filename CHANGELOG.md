@@ -807,3 +807,4 @@
 - `2026-03-13 10:40` — tab component refinement
 - `2026-03-13 10:40` — badge design update
 - `2026-03-13 10:40` — transition easing change
+- `2026-03-13 10:40` — modal design update
