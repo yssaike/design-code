@@ -821,3 +821,4 @@
 - `2026-03-13 10:40` — animation duration update
 - `2026-03-13 10:40` — heading hierarchy fix
 - `2026-03-13 10:40` — loading animation tweak
+- `2026-03-13 10:40` — tooltip design tweak
