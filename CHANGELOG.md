@@ -797,3 +797,4 @@
 - `2026-03-13 10:40` — brand token change
 - `2026-03-13 10:40` — responsive layout tweak
 - `2026-03-13 10:40` — micro-interaction refinement
+- `2026-03-13 10:40` — button style update
