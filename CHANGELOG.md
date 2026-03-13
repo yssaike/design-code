@@ -803,3 +803,4 @@
 - `2026-03-13 10:40` — primary color update
 - `2026-03-13 10:40` — focus ring update
 - `2026-03-13 10:40` — hover state fix
+- `2026-03-13 10:40` — body text improvement
