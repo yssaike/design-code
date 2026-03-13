@@ -813,3 +813,4 @@
 - `2026-03-13 10:40` — color change
 - `2026-03-13 10:40` — navigation styling fix
 - `2026-03-13 10:40` — layout spacing refinement
+- `2026-03-13 10:40` — keyboard navigation fix
