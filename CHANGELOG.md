@@ -818,3 +818,4 @@
 - `2026-03-13 10:40` — visual regression fix
 - `2026-03-13 10:40` — focus indicator update
 - `2026-03-13 10:40` — brand asset refresh
+- `2026-03-13 10:40` — animation duration update
