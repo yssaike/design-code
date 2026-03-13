@@ -838,3 +838,4 @@
 - `2026-03-13 10:40` — brand color alignment
 - `2026-03-13 10:40` — color palette expansion
 - `2026-03-13 10:40` — font weight adjustment
+- `2026-03-13 10:40` — line height refinement
