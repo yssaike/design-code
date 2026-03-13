@@ -825,3 +825,4 @@
 - `2026-03-13 10:40` — alignment correction
 - `2026-03-13 10:40` — shadow refinement
 - `2026-03-13 10:40` — font family swap
+- `2026-03-13 10:40` — scroll animation fix
