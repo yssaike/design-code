@@ -800,3 +800,4 @@
 - `2026-03-13 10:40` — button style update
 - `2026-03-13 10:40` — card component update
 - `2026-03-13 10:40` — surface color update
+- `2026-03-13 10:40` — primary color update
