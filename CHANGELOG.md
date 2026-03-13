@@ -811,3 +811,4 @@
 - `2026-03-13 10:40` — secondary palette refinement
 - `2026-03-13 10:40` — margin alignment
 - `2026-03-13 10:40` — color change
+- `2026-03-13 10:40` — navigation styling fix
