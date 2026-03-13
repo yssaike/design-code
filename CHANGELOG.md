@@ -836,3 +836,4 @@
 - `2026-03-13 10:40` — letter spacing tweak
 - `2026-03-13 10:40` — accessibility contrast fix
 - `2026-03-13 10:40` — brand color alignment
+- `2026-03-13 10:40` — color palette expansion
