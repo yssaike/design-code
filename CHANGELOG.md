@@ -849,3 +849,4 @@
 - `2026-03-14 21:21` — transition easing change
 - `2026-03-14 21:21` — shadow refinement
 - `2026-03-14 21:21` — spacing token update
+- `2026-03-14 21:21` — layout spacing refinement
