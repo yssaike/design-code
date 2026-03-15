@@ -851,3 +851,4 @@
 - `2026-03-14 21:21` — spacing token update
 - `2026-03-14 21:21` — layout spacing refinement
 - `2026-03-14 21:21` — dark mode color tweak
+- `2026-03-14 21:21` — button style update
