@@ -858,3 +858,4 @@
 - `2026-03-14 21:21` — screen reader label add
 - `2026-03-14 21:21` — border radius update
 - `2026-03-14 21:21` — secondary palette refinement
+- `2026-03-14 21:21` — navigation styling fix
