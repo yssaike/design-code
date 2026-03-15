@@ -860,3 +860,4 @@
 - `2026-03-14 21:21` — secondary palette refinement
 - `2026-03-14 21:21` — navigation styling fix
 - `2026-03-14 21:21` — brand asset refresh
+- `2026-03-14 21:21` — badge design update
