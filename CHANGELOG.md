@@ -859,3 +859,4 @@
 - `2026-03-14 21:21` — border radius update
 - `2026-03-14 21:21` — secondary palette refinement
 - `2026-03-14 21:21` — navigation styling fix
+- `2026-03-14 21:21` — brand asset refresh
