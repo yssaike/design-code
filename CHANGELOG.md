@@ -856,3 +856,4 @@
 - `2026-03-14 21:21` — scroll animation fix
 - `2026-03-14 21:21` — color palette expansion
 - `2026-03-14 21:21` — screen reader label add
+- `2026-03-14 21:21` — border radius update
