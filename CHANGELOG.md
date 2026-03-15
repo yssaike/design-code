@@ -863,3 +863,4 @@
 - `2026-03-14 21:21` — badge design update
 - `2026-03-14 21:21` — dropdown menu update
 - `2026-03-14 21:21` — tooltip design tweak
+- `2026-03-14 21:21` — visual regression fix
