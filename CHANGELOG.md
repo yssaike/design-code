@@ -861,3 +861,4 @@
 - `2026-03-14 21:21` — navigation styling fix
 - `2026-03-14 21:21` — brand asset refresh
 - `2026-03-14 21:21` — badge design update
+- `2026-03-14 21:21` — dropdown menu update
