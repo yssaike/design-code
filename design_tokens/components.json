@@ -1,6 +1,6 @@
 {
   "button": {
-    "borderRadius": "8px",
+    "borderRadius": "4px",
     "paddingX": "16px",
     "paddingY": "24px",
     "shadow": "1px 7px 7px rgba(0,0,0,0.11)",
