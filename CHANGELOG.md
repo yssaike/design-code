@@ -880,3 +880,4 @@
 - `2026-03-15 20:57` — animation duration update
 - `2026-03-15 20:57` — brand font update
 - `2026-03-15 20:57` — loading animation tweak
+- `2026-03-15 20:57` — brand spacing alignment
