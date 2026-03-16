@@ -932,3 +932,4 @@
 - `2026-03-16 07:17` — badge design update
 - `2026-03-16 07:17` — button style update
 - `2026-03-16 07:17` — layout spacing refinement
+- `2026-03-16 07:17` — brand color alignment
