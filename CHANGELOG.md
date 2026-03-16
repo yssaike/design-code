@@ -930,3 +930,4 @@
 - `2026-03-16 07:17` — dropdown menu update
 - `2026-03-16 07:17` — font weight adjustment
 - `2026-03-16 07:17` — badge design update
+- `2026-03-16 07:17` — button style update
