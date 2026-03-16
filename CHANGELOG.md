@@ -912,3 +912,4 @@
 - `2026-03-16 07:17` — overflow fix
 - `2026-03-16 07:17` — navigation styling fix
 - `2026-03-16 07:17` — aria attribute update
+- `2026-03-16 07:17` — active state refinement
