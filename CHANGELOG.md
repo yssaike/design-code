@@ -921,3 +921,4 @@
 - `2026-03-16 07:17` — tab component refinement
 - `2026-03-16 07:17` — grid gap adjustment
 - `2026-03-16 07:17` — dark mode color tweak
+- `2026-03-16 07:17` — shadow refinement
