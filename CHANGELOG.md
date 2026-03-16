@@ -906,3 +906,4 @@
 - `2026-03-16 07:17` — visual regression fix
 - `2026-03-16 07:17` — heading hierarchy fix
 - `2026-03-16 07:17` — line height refinement
+- `2026-03-16 07:17` — accessibility contrast fix
