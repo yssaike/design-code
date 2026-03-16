@@ -882,3 +882,4 @@
 - `2026-03-15 20:57` — loading animation tweak
 - `2026-03-15 20:57` — brand spacing alignment
 - `2026-03-15 20:57` — section spacing update
+- `2026-03-15 20:57` — checkbox style refresh
