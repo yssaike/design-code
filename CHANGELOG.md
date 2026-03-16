@@ -928,3 +928,4 @@
 - `2026-03-16 07:17` — responsive layout tweak
 - `2026-03-16 07:17` — focus ring update
 - `2026-03-16 07:17` — dropdown menu update
+- `2026-03-16 07:17` — font weight adjustment
