@@ -868,3 +868,4 @@
 - `2026-03-15 20:57` — micro-interaction refinement
 - `2026-03-15 20:57` — accent color adjustment
 - `2026-03-15 20:57` — brand asset refresh
+- `2026-03-15 20:57` — screen reader label add
