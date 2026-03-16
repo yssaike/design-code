@@ -903,3 +903,4 @@
 - `2026-03-16 07:17` — color change
 - `2026-03-16 07:17` — brand font update
 - `2026-03-16 07:17` — brand guideline sync
+- `2026-03-16 07:17` — visual regression fix
