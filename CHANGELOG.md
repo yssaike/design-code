@@ -909,3 +909,4 @@
 - `2026-03-16 07:17` — accessibility contrast fix
 - `2026-03-16 07:17` — checkbox style refresh
 - `2026-03-16 07:17` — keyboard navigation fix
+- `2026-03-16 07:17` — overflow fix
