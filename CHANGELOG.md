@@ -917,3 +917,4 @@
 - `2026-03-16 07:17` — color contrast fix
 - `2026-03-16 07:17` — animation duration update
 - `2026-03-16 07:17` — semantic color token fix
+- `2026-03-16 07:17` — letter spacing tweak
