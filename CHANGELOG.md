@@ -878,3 +878,4 @@
 - `2026-03-15 20:57` — dark mode color tweak
 - `2026-03-15 20:57` — spacing token update
 - `2026-03-15 20:57` — animation duration update
+- `2026-03-15 20:57` — brand font update
