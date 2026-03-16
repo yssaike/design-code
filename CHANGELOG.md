@@ -871,3 +871,4 @@
 - `2026-03-15 20:57` — screen reader label add
 - `2026-03-15 20:57` — line height refinement
 - `2026-03-15 20:57` — body text improvement
+- `2026-03-15 20:57` — font family swap
