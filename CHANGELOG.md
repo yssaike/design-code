@@ -875,3 +875,4 @@
 - `2026-03-15 20:57` — focus ring update
 - `2026-03-15 20:57` — transition easing change
 - `2026-03-15 20:57` — focus indicator update
+- `2026-03-15 20:57` — dark mode color tweak
