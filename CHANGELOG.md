@@ -900,3 +900,4 @@
 - `2026-03-16 07:17` — brand asset refresh
 - `2026-03-16 07:17` — alignment correction
 - `2026-03-16 07:17` — color palette expansion
+- `2026-03-16 07:17` — color change
