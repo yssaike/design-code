@@ -923,3 +923,4 @@
 - `2026-03-16 07:17` — dark mode color tweak
 - `2026-03-16 07:17` — shadow refinement
 - `2026-03-16 07:17` — spacing token update
+- `2026-03-16 07:17` — brand token change
