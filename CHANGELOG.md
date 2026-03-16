@@ -889,3 +889,4 @@
 - `2026-03-15 20:57` — dropdown menu update
 - `2026-03-15 20:57` — surface color update
 - `2026-03-16 07:17` — loading animation tweak
+- `2026-03-16 07:17` — scroll animation fix
