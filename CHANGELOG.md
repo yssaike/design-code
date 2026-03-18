@@ -944,3 +944,4 @@
 - `2026-03-17 23:21` — overflow fix
 - `2026-03-17 23:21` — layout spacing refinement
 - `2026-03-17 23:21` — body text improvement
+- `2026-03-17 23:21` — dropdown menu update
