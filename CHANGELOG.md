@@ -940,3 +940,4 @@
 - `2026-03-17 23:21` — heading hierarchy fix
 - `2026-03-17 23:21` — brand color alignment
 - `2026-03-17 23:21` — margin alignment
+- `2026-03-17 23:21` — brand asset refresh
