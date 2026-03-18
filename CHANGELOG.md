@@ -956,3 +956,4 @@
 - `2026-03-17 23:21` — color change
 - `2026-03-17 23:21` — brand spacing alignment
 - `2026-03-17 23:21` — brand token change
+- `2026-03-17 23:21` — scroll animation fix
