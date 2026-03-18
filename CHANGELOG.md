@@ -937,3 +937,4 @@
 - `2026-03-17 23:21` — screen reader label add
 - `2026-03-17 23:21` — focus indicator update
 - `2026-03-17 23:21` — transition easing change
+- `2026-03-17 23:21` — heading hierarchy fix
