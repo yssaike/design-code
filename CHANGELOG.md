@@ -952,3 +952,4 @@
 - `2026-03-17 23:21` — typography scale update
 - `2026-03-17 23:21` — tooltip design tweak
 - `2026-03-17 23:21` — line height refinement
+- `2026-03-17 23:21` — card component update
