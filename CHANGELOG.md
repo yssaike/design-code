@@ -950,3 +950,4 @@
 - `2026-03-17 23:21` — button style update
 - `2026-03-17 23:21` — brand guideline sync
 - `2026-03-17 23:21` — typography scale update
+- `2026-03-17 23:21` — tooltip design tweak
