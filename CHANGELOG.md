@@ -959,3 +959,4 @@
 - `2026-03-17 23:21` — scroll animation fix
 - `2026-03-17 23:21` — secondary palette refinement
 - `2026-03-17 23:21` — active state refinement
+- `2026-03-17 23:21` — primary color update
