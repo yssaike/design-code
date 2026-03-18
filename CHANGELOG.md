@@ -934,3 +934,4 @@
 - `2026-03-16 07:17` — layout spacing refinement
 - `2026-03-16 07:17` — brand color alignment
 - `2026-03-17 23:21` — font family swap
+- `2026-03-17 23:21` — screen reader label add
