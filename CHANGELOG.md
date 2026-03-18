@@ -947,3 +947,4 @@
 - `2026-03-17 23:21` — dropdown menu update
 - `2026-03-17 23:21` — border radius update
 - `2026-03-17 23:21` — loading animation tweak
+- `2026-03-17 23:21` — button style update
