@@ -970,3 +970,4 @@
 - `2026-03-18 23:11` — keyboard navigation fix
 - `2026-03-18 23:11` — animation duration update
 - `2026-03-18 23:11` — grid gap adjustment
+- `2026-03-18 23:11` — screen reader label add
