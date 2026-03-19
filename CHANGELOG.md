@@ -973,3 +973,4 @@
 - `2026-03-18 23:11` — screen reader label add
 - `2026-03-18 23:11` — accent color adjustment
 - `2026-03-18 23:11` — transition easing change
+- `2026-03-18 23:11` — semantic color token fix
