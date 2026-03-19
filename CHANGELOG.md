@@ -976,3 +976,4 @@
 - `2026-03-18 23:11` — semantic color token fix
 - `2026-03-18 23:11` — typography scale update
 - `2026-03-18 23:11` — secondary palette refinement
+- `2026-03-18 23:11` — margin alignment
