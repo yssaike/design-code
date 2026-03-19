@@ -967,3 +967,4 @@
 - `2026-03-18 23:11` — tab component refinement
 - `2026-03-18 23:11` — scroll animation fix
 - `2026-03-18 23:11` — brand spacing alignment
+- `2026-03-18 23:11` — keyboard navigation fix
