@@ -989,3 +989,4 @@
 - `2026-03-21 00:56` — typography scale update
 - `2026-03-21 00:56` — dark mode color tweak
 - `2026-03-21 00:56` — font weight adjustment
+- `2026-03-21 00:56` — brand font update
