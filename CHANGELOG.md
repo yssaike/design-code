@@ -994,3 +994,4 @@
 - `2026-03-21 00:56` — scroll animation fix
 - `2026-03-21 00:56` — focus ring update
 - `2026-03-21 00:56` — active state refinement
+- `2026-03-21 00:56` — keyboard navigation fix
