@@ -998,3 +998,4 @@
 - `2026-03-21 00:56` — brand guideline sync
 - `2026-03-21 00:56` — surface color update
 - `2026-03-21 00:56` — letter spacing tweak
+- `2026-03-21 00:56` — layout spacing refinement
