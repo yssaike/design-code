@@ -988,3 +988,4 @@
 - `2026-03-21 00:56` — margin alignment
 - `2026-03-21 00:56` — typography scale update
 - `2026-03-21 00:56` — dark mode color tweak
+- `2026-03-21 00:56` — font weight adjustment
