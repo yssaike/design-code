@@ -983,3 +983,4 @@
 - `2026-03-21 00:56` — responsive layout tweak
 - `2026-03-21 00:56` — font family swap
 - `2026-03-21 00:56` — heading hierarchy fix
+- `2026-03-21 00:56` — primary color update
