@@ -991,3 +991,4 @@
 - `2026-03-21 00:56` — font weight adjustment
 - `2026-03-21 00:56` — brand font update
 - `2026-03-21 00:56` — navigation styling fix
+- `2026-03-21 00:56` — scroll animation fix
