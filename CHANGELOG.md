@@ -985,3 +985,4 @@
 - `2026-03-21 00:56` — heading hierarchy fix
 - `2026-03-21 00:56` — primary color update
 - `2026-03-21 00:56` — accessibility contrast fix
+- `2026-03-21 00:56` — margin alignment
