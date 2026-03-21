@@ -1002,3 +1002,4 @@
 - `2026-03-21 00:56` — accent color adjustment
 - `2026-03-21 00:56` — brand spacing alignment
 - `2026-03-21 00:56` — loading animation tweak
+- `2026-03-21 00:56` — semantic color token fix
