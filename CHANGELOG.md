@@ -981,3 +981,4 @@
 - `2026-03-21 00:56` — screen reader label add
 - `2026-03-21 00:56` — section spacing update
 - `2026-03-21 00:56` — responsive layout tweak
+- `2026-03-21 00:56` — font family swap
