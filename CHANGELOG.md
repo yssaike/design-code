@@ -1000,3 +1000,4 @@
 - `2026-03-21 00:56` — letter spacing tweak
 - `2026-03-21 00:56` — layout spacing refinement
 - `2026-03-21 00:56` — accent color adjustment
+- `2026-03-21 00:56` — brand spacing alignment
