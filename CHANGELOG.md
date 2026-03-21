@@ -977,3 +977,4 @@
 - `2026-03-18 23:11` — typography scale update
 - `2026-03-18 23:11` — secondary palette refinement
 - `2026-03-18 23:11` — margin alignment
+- `2026-03-21 00:56` — spacing token update
