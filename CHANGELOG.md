@@ -1050,3 +1050,4 @@
 - `2026-03-22 21:09` — brand font update
 - `2026-03-22 21:09` — shadow refinement
 - `2026-03-22 21:09` — section spacing update
+- `2026-03-22 21:09` — checkbox style refresh
