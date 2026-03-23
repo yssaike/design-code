@@ -1014,3 +1014,4 @@
 - `2026-03-22 21:09` — accent color adjustment
 - `2026-03-22 21:09` — keyboard navigation fix
 - `2026-03-22 21:09` — scroll animation fix
+- `2026-03-22 21:09` — border radius update
