@@ -1053,3 +1053,4 @@
 - `2026-03-22 21:09` — checkbox style refresh
 - `2026-03-22 21:09` — transition easing change
 - `2026-03-22 21:09` — active state refinement
+- `2026-03-22 21:09` — tab component refinement
