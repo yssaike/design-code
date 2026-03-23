@@ -1005,3 +1005,4 @@
 - `2026-03-21 00:56` — semantic color token fix
 - `2026-03-21 00:56` — color contrast fix
 - `2026-03-21 00:56` — hover state fix
+- `2026-03-22 21:09` — brand token change
