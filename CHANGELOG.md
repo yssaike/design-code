@@ -1038,3 +1038,4 @@
 - `2026-03-22 21:09` — primary color update
 - `2026-03-22 21:09` — layout spacing refinement
 - `2026-03-22 21:09` — body text improvement
+- `2026-03-22 21:09` — brand color alignment
