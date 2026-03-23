@@ -1042,3 +1042,4 @@
 - `2026-03-22 21:09` — typography scale update
 - `2026-03-22 21:09` — modal design update
 - `2026-03-22 21:09` — brand asset refresh
+- `2026-03-22 21:09` — aria attribute update
