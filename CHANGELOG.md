@@ -1026,3 +1026,4 @@
 - `2026-03-22 21:09` — brand guideline sync
 - `2026-03-22 21:09` — line height refinement
 - `2026-03-22 21:09` — focus indicator update
+- `2026-03-22 21:09` — dark mode color tweak
