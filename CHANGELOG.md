@@ -1032,3 +1032,4 @@
 - `2026-03-22 21:09` — heading hierarchy fix
 - `2026-03-22 21:09` — button style update
 - `2026-03-22 21:09` — tooltip design tweak
+- `2026-03-22 21:09` — padding consistency fix
