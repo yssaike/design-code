@@ -1018,3 +1018,4 @@
 - `2026-03-22 21:09` — z-index adjustment
 - `2026-03-22 21:09` — disabled state styling
 - `2026-03-22 21:09` — margin alignment
+- `2026-03-22 21:09` — responsive layout tweak
