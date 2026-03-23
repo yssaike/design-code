@@ -1006,3 +1006,4 @@
 - `2026-03-21 00:56` — color contrast fix
 - `2026-03-21 00:56` — hover state fix
 - `2026-03-22 21:09` — brand token change
+- `2026-03-22 21:09` — secondary palette refinement
