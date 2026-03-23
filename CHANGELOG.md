@@ -1045,3 +1045,4 @@
 - `2026-03-22 21:09` — aria attribute update
 - `2026-03-22 21:09` — color palette expansion
 - `2026-03-22 21:09` — brand spacing alignment
+- `2026-03-22 21:09` — letter spacing tweak
