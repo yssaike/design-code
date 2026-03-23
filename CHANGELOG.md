@@ -1034,3 +1034,4 @@
 - `2026-03-22 21:09` — tooltip design tweak
 - `2026-03-22 21:09` — padding consistency fix
 - `2026-03-22 21:09` — card component update
+- `2026-03-22 21:09` — semantic color token fix
