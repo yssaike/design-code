@@ -69,6 +69,6 @@
     "borderRadius": "8px",
     "size": "16px",
     "borderWidth": "1px",
-    "gap": "24px"
+    "gap": "4px"
   }
 }
