@@ -1019,3 +1019,4 @@
 - `2026-03-22 21:09` — disabled state styling
 - `2026-03-22 21:09` — margin alignment
 - `2026-03-22 21:09` — responsive layout tweak
+- `2026-03-22 21:09` — font family swap
