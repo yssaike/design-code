@@ -1047,3 +1047,4 @@
 - `2026-03-22 21:09` — brand spacing alignment
 - `2026-03-22 21:09` — letter spacing tweak
 - `2026-03-22 21:09` — accessibility contrast fix
+- `2026-03-22 21:09` — brand font update
