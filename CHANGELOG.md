@@ -1081,3 +1081,4 @@
 - `2026-03-24 14:43` — micro-interaction refinement
 - `2026-03-24 14:43` — dropdown menu update
 - `2026-03-24 14:43` — heading hierarchy fix
+- `2026-03-24 14:43` — letter spacing tweak
