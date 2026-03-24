@@ -1084,3 +1084,4 @@
 - `2026-03-24 14:43` — letter spacing tweak
 - `2026-03-24 14:43` — checkbox style refresh
 - `2026-03-24 14:43` — badge design update
+- `2026-03-24 14:43` — card component update
