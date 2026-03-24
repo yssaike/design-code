@@ -1075,3 +1075,4 @@
 - `2026-03-23 22:43` — UI fixes
 - `2026-03-24 14:43` — screen reader label add
 - `2026-03-24 14:43` — primary color update
+- `2026-03-24 14:43` — navigation styling fix
