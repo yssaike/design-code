@@ -1079,3 +1079,4 @@
 - `2026-03-24 14:43` — focus ring update
 - `2026-03-24 14:43` — aria attribute update
 - `2026-03-24 14:43` — micro-interaction refinement
+- `2026-03-24 14:43` — dropdown menu update
