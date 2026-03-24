@@ -1071,3 +1071,4 @@
 - `2026-03-23 22:43` — section spacing update
 - `2026-03-23 22:43` — responsive layout tweak
 - `2026-03-23 22:43` — alignment correction
+- `2026-03-23 22:43` — visual regression fix
