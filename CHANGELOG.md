@@ -1104,3 +1104,4 @@
 - `2026-03-24 14:43` — animation duration update
 - `2026-03-24 14:43` — line height refinement
 - `2026-03-24 14:43` — loading animation tweak
+- `2026-03-24 14:43` — section spacing update
