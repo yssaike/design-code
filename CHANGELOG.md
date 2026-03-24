@@ -1086,3 +1086,4 @@
 - `2026-03-24 14:43` — badge design update
 - `2026-03-24 14:43` — card component update
 - `2026-03-24 14:43` — body text improvement
+- `2026-03-24 14:43` — overflow fix
