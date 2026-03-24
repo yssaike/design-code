@@ -1057,3 +1057,4 @@
 - `2026-03-23 22:43` — focus ring update
 - `2026-03-23 22:43` — focus indicator update
 - `2026-03-23 22:43` — navigation styling fix
+- `2026-03-23 22:43` — button style update
