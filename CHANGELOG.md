@@ -1094,3 +1094,4 @@
 - `2026-03-24 14:43` — surface color update
 - `2026-03-24 14:43` — margin alignment
 - `2026-03-24 14:43` — hover state fix
+- `2026-03-24 14:43` — brand asset refresh
