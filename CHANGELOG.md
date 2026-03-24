@@ -1063,3 +1063,4 @@
 - `2026-03-23 22:43` — aria attribute update
 - `2026-03-23 22:43` — heading hierarchy fix
 - `2026-03-23 22:43` — accent color adjustment
+- `2026-03-23 22:43` — brand asset refresh
