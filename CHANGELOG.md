@@ -1089,3 +1089,4 @@
 - `2026-03-24 14:43` — overflow fix
 - `2026-03-24 14:43` — brand font update
 - `2026-03-24 14:43` — semantic color token fix
+- `2026-03-24 14:43` — disabled state styling
