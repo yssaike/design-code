@@ -52,7 +52,7 @@
     "fontFamily": "Inter, system-ui, sans-serif",
     "fontSize": "2rem",
     "fontWeight": 500,
-    "lineHeight": "1.5",
+    "lineHeight": "1.75",
     "letterSpacing": "0.01em"
   },
   "overline": {
