@@ -1096,3 +1096,4 @@
 - `2026-03-24 14:43` — hover state fix
 - `2026-03-24 14:43` — brand asset refresh
 - `2026-03-24 14:43` — active state refinement
+- `2026-03-24 14:43` — color contrast fix
