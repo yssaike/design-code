@@ -28,7 +28,7 @@
     "padding": "24px",
     "shadow": "4px 5px 21px rgba(0,0,0,0.13)",
     "maxWidth": "4px",
-    "gap": "16px"
+    "gap": "4px"
   },
   "tooltip": {
     "borderRadius": "24px",

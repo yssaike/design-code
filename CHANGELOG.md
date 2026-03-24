@@ -1060,3 +1060,4 @@
 - `2026-03-23 22:43` — button style update
 - `2026-03-23 22:43` — primary color update
 - `2026-03-23 22:43` — shadow refinement
+- `2026-03-23 22:43` — aria attribute update
