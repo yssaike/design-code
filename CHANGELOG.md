@@ -1101,3 +1101,4 @@
 - `2026-03-24 14:43` — spacing token update
 - `2026-03-24 14:43` — scroll animation fix
 - `2026-03-24 14:43` — focus indicator update
+- `2026-03-24 14:43` — animation duration update
