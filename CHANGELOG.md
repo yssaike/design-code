@@ -1064,3 +1064,4 @@
 - `2026-03-23 22:43` — heading hierarchy fix
 - `2026-03-23 22:43` — accent color adjustment
 - `2026-03-23 22:43` — brand asset refresh
+- `2026-03-23 22:43` — active state refinement
