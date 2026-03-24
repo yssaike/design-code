@@ -1092,3 +1092,4 @@
 - `2026-03-24 14:43` — disabled state styling
 - `2026-03-24 14:43` — accent color adjustment
 - `2026-03-24 14:43` — surface color update
+- `2026-03-24 14:43` — margin alignment
