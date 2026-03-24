@@ -1067,3 +1067,4 @@
 - `2026-03-23 22:43` — active state refinement
 - `2026-03-23 22:43` — brand guideline sync
 - `2026-03-23 22:43` — keyboard navigation fix
+- `2026-03-23 22:43` — brand font update
