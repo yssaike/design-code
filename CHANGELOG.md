@@ -1128,3 +1128,4 @@
 - `2026-03-25 08:16` — color palette expansion
 - `2026-03-25 08:16` — checkbox style refresh
 - `2026-03-25 08:16` — color change
+- `2026-03-25 08:16` — brand color alignment
