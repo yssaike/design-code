@@ -1126,3 +1126,4 @@
 - `2026-03-25 08:16` — margin alignment
 - `2026-03-25 08:16` — badge design update
 - `2026-03-25 08:16` — color palette expansion
+- `2026-03-25 08:16` — checkbox style refresh
