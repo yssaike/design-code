@@ -1112,3 +1112,4 @@
 - `2026-03-25 08:16` — heading hierarchy fix
 - `2026-03-25 08:16` — loading animation tweak
 - `2026-03-25 08:16` — card component update
+- `2026-03-25 08:16` — brand token change
