@@ -1115,3 +1115,4 @@
 - `2026-03-25 08:16` — brand token change
 - `2026-03-25 08:16` — padding consistency fix
 - `2026-03-25 08:16` — accessibility contrast fix
+- `2026-03-25 08:16` — font family swap
