@@ -1118,3 +1118,4 @@
 - `2026-03-25 08:16` — font family swap
 - `2026-03-25 08:16` — aria attribute update
 - `2026-03-25 08:16` — animation duration update
+- `2026-03-25 08:16` — font weight adjustment
