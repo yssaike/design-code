@@ -1132,3 +1132,4 @@
 - `2026-03-25 08:16` — micro-interaction refinement
 - `2026-03-25 08:16` — screen reader label add
 - `2026-03-25 08:16` — color contrast fix
+- `2026-03-25 08:16` — disabled state styling
