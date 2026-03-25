@@ -1123,3 +1123,4 @@
 - `2026-03-25 08:16` — tab component refinement
 - `2026-03-25 08:16` — keyboard navigation fix
 - `2026-03-25 08:16` — focus ring update
+- `2026-03-25 08:16` — margin alignment
