@@ -1109,3 +1109,4 @@
 - `2026-03-24 14:43` — font family swap
 - `2026-03-24 14:43` — grid gap adjustment
 - `2026-03-24 14:43` — z-index adjustment
+- `2026-03-25 08:16` — heading hierarchy fix
