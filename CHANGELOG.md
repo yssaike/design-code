@@ -1141,3 +1141,4 @@
 - `2026-03-27 10:39` — brand spacing alignment
 - `2026-03-27 10:39` — focus indicator update
 - `2026-03-27 10:39` — typography scale update
+- `2026-03-27 10:39` — dropdown menu update
