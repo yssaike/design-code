@@ -1158,3 +1158,4 @@
 - `2026-03-27 10:39` — animation duration update
 - `2026-03-27 10:39` — screen reader label add
 - `2026-03-27 10:39` — spacing token update
+- `2026-03-27 10:39` — font family swap
