@@ -1163,3 +1163,4 @@
 - `2026-03-27 10:39` — focus ring update
 - `2026-03-27 10:39` — brand color alignment
 - `2026-03-27 10:39` — tooltip design tweak
+- `2026-03-27 10:39` — disabled state styling
