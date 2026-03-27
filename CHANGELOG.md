@@ -1149,3 +1149,4 @@
 - `2026-03-27 10:39` — brand token change
 - `2026-03-27 10:39` — aria attribute update
 - `2026-03-27 10:39` — brand guideline sync
+- `2026-03-27 10:39` — brand asset refresh
