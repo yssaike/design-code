@@ -1137,3 +1137,4 @@
 - `2026-03-25 08:16` — accent color adjustment
 - `2026-03-25 08:16` — typography scale update
 - `2026-03-25 08:16` — grid gap adjustment
+- `2026-03-27 10:39` — padding consistency fix
