@@ -1166,3 +1166,4 @@
 - `2026-03-27 10:39` — disabled state styling
 - `2026-03-27 10:39` — margin alignment
 - `2026-03-27 10:39` — color palette expansion
+- `2026-03-27 10:39` — brand font update
