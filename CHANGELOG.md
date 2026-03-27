@@ -1146,3 +1146,4 @@
 - `2026-03-27 10:39` — loading animation tweak
 - `2026-03-27 10:39` — accessibility contrast fix
 - `2026-03-27 10:39` — badge design update
+- `2026-03-27 10:39` — brand token change
