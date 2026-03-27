@@ -1172,3 +1172,4 @@
 - `2026-03-27 10:39` — input field refinement
 - `2026-03-27 10:39` — micro-interaction refinement
 - `2026-03-27 10:39` — layout spacing refinement
+- `2026-03-27 10:39` — line height refinement
