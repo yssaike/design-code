@@ -1164,3 +1164,4 @@
 - `2026-03-27 10:39` — brand color alignment
 - `2026-03-27 10:39` — tooltip design tweak
 - `2026-03-27 10:39` — disabled state styling
+- `2026-03-27 10:39` — margin alignment
