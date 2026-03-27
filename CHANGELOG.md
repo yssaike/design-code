@@ -1143,3 +1143,4 @@
 - `2026-03-27 10:39` — typography scale update
 - `2026-03-27 10:39` — dropdown menu update
 - `2026-03-27 10:39` — body text improvement
+- `2026-03-27 10:39` — loading animation tweak
