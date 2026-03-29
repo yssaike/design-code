@@ -1183,3 +1183,4 @@
 - `2026-03-29 15:56` — responsive layout tweak
 - `2026-03-29 15:56` — transition easing change
 - `2026-03-29 15:56` — overflow fix
+- `2026-03-29 15:56` — hover state fix
