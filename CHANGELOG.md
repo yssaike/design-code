@@ -1185,3 +1185,4 @@
 - `2026-03-29 15:56` — overflow fix
 - `2026-03-29 15:56` — hover state fix
 - `2026-03-29 15:56` — loading animation tweak
+- `2026-03-29 15:56` — keyboard navigation fix
