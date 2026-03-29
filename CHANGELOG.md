@@ -1190,3 +1190,4 @@
 - `2026-03-29 15:56` — scroll animation fix
 - `2026-03-29 15:56` — margin alignment
 - `2026-03-29 15:56` — visual regression fix
+- `2026-03-29 15:56` — alignment correction
