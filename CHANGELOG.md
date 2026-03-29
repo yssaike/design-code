@@ -1198,3 +1198,4 @@
 - `2026-03-29 15:56` — animation duration update
 - `2026-03-29 15:56` — micro-interaction refinement
 - `2026-03-29 15:56` — dark mode color tweak
+- `2026-03-29 15:56` — secondary palette refinement
