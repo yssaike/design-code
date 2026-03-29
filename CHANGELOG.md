@@ -1197,3 +1197,4 @@
 - `2026-03-29 15:56` — brand color alignment
 - `2026-03-29 15:56` — animation duration update
 - `2026-03-29 15:56` — micro-interaction refinement
+- `2026-03-29 15:56` — dark mode color tweak
