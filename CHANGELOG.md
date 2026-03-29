@@ -1193,3 +1193,4 @@
 - `2026-03-29 15:56` — alignment correction
 - `2026-03-29 15:56` — brand guideline sync
 - `2026-03-29 15:56` — grid gap adjustment
+- `2026-03-29 15:56` — aria attribute update
