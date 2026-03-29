@@ -1178,3 +1178,4 @@
 - `2026-03-29 15:56` — typography scale update
 - `2026-03-29 15:56` — screen reader label add
 - `2026-03-29 15:56` — card component update
+- `2026-03-29 15:56` — font weight adjustment
