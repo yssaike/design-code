@@ -1187,3 +1187,4 @@
 - `2026-03-29 15:56` — loading animation tweak
 - `2026-03-29 15:56` — keyboard navigation fix
 - `2026-03-29 15:56` — font family swap
+- `2026-03-29 15:56` — scroll animation fix
