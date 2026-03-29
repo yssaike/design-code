@@ -1182,3 +1182,4 @@
 - `2026-03-29 15:56` — color palette expansion
 - `2026-03-29 15:56` — responsive layout tweak
 - `2026-03-29 15:56` — transition easing change
+- `2026-03-29 15:56` — overflow fix
