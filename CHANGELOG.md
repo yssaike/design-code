@@ -1175,3 +1175,4 @@
 - `2026-03-27 10:39` — line height refinement
 - `2026-03-29 15:56` — section spacing update
 - `2026-03-29 15:56` — focus indicator update
+- `2026-03-29 15:56` — typography scale update
