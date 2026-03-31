@@ -1239,3 +1239,4 @@
 - `2026-03-31 08:20` — body text improvement
 - `2026-03-31 08:20` — dark mode color tweak
 - `2026-03-31 08:20` — grid gap adjustment
+- `2026-03-31 08:20` — animation duration update
