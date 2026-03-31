@@ -1228,3 +1228,4 @@
 - `2026-03-31 08:14` — alignment correction
 - `2026-03-31 08:20` — brand token change
 - `2026-03-31 08:20` — screen reader label add
+- `2026-03-31 08:20` — font family swap
