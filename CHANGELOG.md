@@ -1232,3 +1232,4 @@
 - `2026-03-31 08:20` — line height refinement
 - `2026-03-31 08:20` — keyboard navigation fix
 - `2026-03-31 08:20` — modal design update
+- `2026-03-31 08:20` — primary color update
