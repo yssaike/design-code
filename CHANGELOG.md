@@ -1206,3 +1206,4 @@
 - `2026-03-31 08:14` — secondary palette refinement
 - `2026-03-31 08:14` — animation duration update
 - `2026-03-31 08:14` — loading animation tweak
+- `2026-03-31 08:14` — UI fixes
