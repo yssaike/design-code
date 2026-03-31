@@ -1229,3 +1229,4 @@
 - `2026-03-31 08:20` — brand token change
 - `2026-03-31 08:20` — screen reader label add
 - `2026-03-31 08:20` — font family swap
+- `2026-03-31 08:20` — line height refinement
