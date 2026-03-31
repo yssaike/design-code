@@ -1226,3 +1226,4 @@
 - `2026-03-31 08:14` — input field refinement
 - `2026-03-31 08:14` — semantic color token fix
 - `2026-03-31 08:14` — alignment correction
+- `2026-03-31 08:20` — brand token change
