@@ -9,7 +9,7 @@
     "gap": "4px"
   },
   "input": {
-    "borderRadius": "2px",
+    "borderRadius": "16px",
     "paddingX": "24px",
     "paddingY": "8px",
     "borderWidth": "4px",
