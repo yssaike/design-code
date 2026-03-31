@@ -1205,3 +1205,4 @@
 - `2026-03-31 08:14` — letter spacing tweak
 - `2026-03-31 08:14` — secondary palette refinement
 - `2026-03-31 08:14` — animation duration update
+- `2026-03-31 08:14` — loading animation tweak
