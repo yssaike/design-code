@@ -1209,3 +1209,4 @@
 - `2026-03-31 08:14` — UI fixes
 - `2026-03-31 08:14` — heading hierarchy fix
 - `2026-03-31 08:14` — brand color alignment
+- `2026-03-31 08:14` — responsive layout tweak
