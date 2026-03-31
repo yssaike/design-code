@@ -1214,3 +1214,4 @@
 - `2026-03-31 08:14` — spacing token update
 - `2026-03-31 08:14` — keyboard navigation fix
 - `2026-03-31 08:14` — brand token change
+- `2026-03-31 08:14` — brand spacing alignment
