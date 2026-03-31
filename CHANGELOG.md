@@ -1225,3 +1225,4 @@
 - `2026-03-31 08:14` — accessibility contrast fix
 - `2026-03-31 08:14` — input field refinement
 - `2026-03-31 08:14` — semantic color token fix
+- `2026-03-31 08:14` — alignment correction
