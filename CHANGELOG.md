@@ -1200,3 +1200,4 @@
 - `2026-03-29 15:56` — dark mode color tweak
 - `2026-03-29 15:56` — secondary palette refinement
 - `2026-03-31 08:14` — dropdown menu update
+- `2026-03-31 08:14` — margin alignment
