@@ -25,7 +25,7 @@
   },
   "modal": {
     "borderRadius": "2px",
-    "padding": "24px",
+    "padding": "4px",
     "shadow": "2px 1px 24px rgba(0,0,0,0.17)",
     "maxWidth": "12px",
     "gap": "24px"

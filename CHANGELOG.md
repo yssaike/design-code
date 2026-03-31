@@ -1230,3 +1230,4 @@
 - `2026-03-31 08:20` — screen reader label add
 - `2026-03-31 08:20` — font family swap
 - `2026-03-31 08:20` — line height refinement
+- `2026-03-31 08:20` — keyboard navigation fix
