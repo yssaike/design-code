@@ -1235,3 +1235,4 @@
 - `2026-03-31 08:20` — primary color update
 - `2026-03-31 08:20` — visual regression fix
 - `2026-03-31 08:20` — accent color adjustment
+- `2026-03-31 08:20` — layout spacing refinement
