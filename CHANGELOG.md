@@ -1271,3 +1271,4 @@
 - `2026-04-01 22:48` — UI fixes
 - `2026-04-01 22:48` — visual regression fix
 - `2026-04-01 22:48` — dark mode color tweak
+- `2026-04-01 22:48` — brand asset refresh
