@@ -1262,3 +1262,4 @@
 - `2026-04-01 22:48` — hover state fix
 - `2026-04-01 22:48` — screen reader label add
 - `2026-04-01 22:48` — accessibility contrast fix
+- `2026-04-01 22:48` — margin alignment
