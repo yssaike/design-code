@@ -1244,3 +1244,4 @@
 - `2026-03-31 08:20` — focus ring update
 - `2026-04-01 22:48` — font family swap
 - `2026-04-01 22:48` — keyboard navigation fix
+- `2026-04-01 22:48` — line height refinement
