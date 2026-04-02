@@ -1259,3 +1259,4 @@
 - `2026-04-01 22:48` — body text improvement
 - `2026-04-01 22:48` — aria attribute update
 - `2026-04-01 22:48` — z-index adjustment
+- `2026-04-01 22:48` — hover state fix
