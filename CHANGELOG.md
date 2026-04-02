@@ -1251,3 +1251,4 @@
 - `2026-04-01 22:48` — loading animation tweak
 - `2026-04-01 22:48` — secondary palette refinement
 - `2026-04-01 22:48` — tooltip design tweak
+- `2026-04-01 22:48` — color change
