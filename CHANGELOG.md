@@ -1277,3 +1277,4 @@
 - `2026-04-01 22:48` — spacing token update
 - `2026-04-01 22:48` — brand guideline sync
 - `2026-04-01 22:48` — badge design update
+- `2026-04-01 22:48` — tab component refinement
