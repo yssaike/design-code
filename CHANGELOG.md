@@ -1265,3 +1265,4 @@
 - `2026-04-01 22:48` — margin alignment
 - `2026-04-01 22:48` — animation duration update
 - `2026-04-01 22:48` — layout spacing refinement
+- `2026-04-01 22:48` — heading hierarchy fix
