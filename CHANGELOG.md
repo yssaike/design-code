@@ -1273,3 +1273,4 @@
 - `2026-04-01 22:48` — dark mode color tweak
 - `2026-04-01 22:48` — brand asset refresh
 - `2026-04-01 22:48` — color contrast fix
+- `2026-04-01 22:48` — modal design update
