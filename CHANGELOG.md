@@ -1268,3 +1268,4 @@
 - `2026-04-01 22:48` — heading hierarchy fix
 - `2026-04-01 22:48` — brand font update
 - `2026-04-01 22:48` — responsive layout tweak
+- `2026-04-01 22:48` — UI fixes
