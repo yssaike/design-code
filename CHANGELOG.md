@@ -1256,3 +1256,4 @@
 - `2026-04-01 22:48` — letter spacing tweak
 - `2026-04-01 22:48` — brand spacing alignment
 - `2026-04-01 22:48` — focus indicator update
+- `2026-04-01 22:48` — body text improvement
