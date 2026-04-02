@@ -1247,3 +1247,4 @@
 - `2026-04-01 22:48` — line height refinement
 - `2026-04-01 22:48` — overflow fix
 - `2026-04-01 22:48` — padding consistency fix
+- `2026-04-01 22:48` — semantic color token fix
