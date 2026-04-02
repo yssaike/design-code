@@ -1253,3 +1253,4 @@
 - `2026-04-01 22:48` — tooltip design tweak
 - `2026-04-01 22:48` — color change
 - `2026-04-01 22:48` — brand token change
+- `2026-04-01 22:48` — letter spacing tweak
