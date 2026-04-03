@@ -1280,3 +1280,4 @@
 - `2026-04-01 22:48` — tab component refinement
 - `2026-04-01 22:48` — typography scale update
 - `2026-04-01 22:48` — checkbox style refresh
+- `2026-04-03 09:15` — margin alignment
