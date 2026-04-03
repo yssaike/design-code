@@ -1315,3 +1315,4 @@
 - `2026-04-03 09:16` — border radius update
 - `2026-04-03 09:16` — letter spacing tweak
 - `2026-04-03 09:16` — body text improvement
+- `2026-04-03 09:16` — brand color alignment
