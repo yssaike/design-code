@@ -1307,3 +1307,4 @@
 - `2026-04-03 09:16` — checkbox style refresh
 - `2026-04-03 09:16` — accent color adjustment
 - `2026-04-03 09:16` — aria attribute update
+- `2026-04-03 09:16` — typography scale update
