@@ -1312,3 +1312,4 @@
 - `2026-04-03 09:16` — visual regression fix
 - `2026-04-03 09:16` — shadow refinement
 - `2026-04-03 09:16` — grid gap adjustment
+- `2026-04-03 09:16` — border radius update
