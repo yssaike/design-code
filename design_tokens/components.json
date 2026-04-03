@@ -17,7 +17,7 @@
     "shadow": "2px 8px 4px rgba(0,0,0,0.15)"
   },
   "card": {
-    "borderRadius": "24px",
+    "borderRadius": "6px",
     "padding": "20px",
     "shadow": "1px 6px 14px rgba(0,0,0,0.13)",
     "borderWidth": "2px",

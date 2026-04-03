@@ -1282,3 +1282,4 @@
 - `2026-04-01 22:48` — checkbox style refresh
 - `2026-04-03 09:15` — margin alignment
 - `2026-04-03 09:15` — focus ring update
+- `2026-04-03 09:15` — disabled state styling
