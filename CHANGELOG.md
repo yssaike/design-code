@@ -1300,3 +1300,4 @@
 - `2026-04-03 09:16` — line height refinement
 - `2026-04-03 09:16` — brand font update
 - `2026-04-03 09:16` — hover state fix
+- `2026-04-03 09:16` — modal design update
