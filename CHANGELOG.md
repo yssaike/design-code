@@ -1310,3 +1310,4 @@
 - `2026-04-03 09:16` — typography scale update
 - `2026-04-03 09:16` — color contrast fix
 - `2026-04-03 09:16` — visual regression fix
+- `2026-04-03 09:16` — shadow refinement
