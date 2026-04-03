@@ -1321,3 +1321,4 @@
 - `2026-04-03 09:16` — scroll animation fix
 - `2026-04-03 09:16` — brand spacing alignment
 - `2026-04-03 09:16` — animation duration update
+- `2026-04-03 09:16` — overflow fix
