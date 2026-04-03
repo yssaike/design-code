@@ -1309,3 +1309,4 @@
 - `2026-04-03 09:16` — aria attribute update
 - `2026-04-03 09:16` — typography scale update
 - `2026-04-03 09:16` — color contrast fix
+- `2026-04-03 09:16` — visual regression fix
