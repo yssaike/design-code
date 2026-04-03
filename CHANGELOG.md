@@ -1285,3 +1285,4 @@
 - `2026-04-03 09:15` — disabled state styling
 - `2026-04-03 09:15` — padding consistency fix
 - `2026-04-03 09:15` — spacing token update
+- `2026-04-03 09:15` — accessibility contrast fix
