@@ -1289,3 +1289,4 @@
 - `2026-04-03 09:15` — brand token change
 - `2026-04-03 09:15` — font family swap
 - `2026-04-03 09:15` — brand asset refresh
+- `2026-04-03 09:15` — semantic color token fix
