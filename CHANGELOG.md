@@ -1304,3 +1304,4 @@
 - `2026-04-03 09:16` — navigation styling fix
 - `2026-04-03 09:16` — focus indicator update
 - `2026-04-03 09:16` — secondary palette refinement
+- `2026-04-03 09:16` — checkbox style refresh
