@@ -1346,3 +1346,4 @@
 - `2026-04-04 14:48` — loading animation tweak
 - `2026-04-04 14:48` — button style update
 - `2026-04-04 14:48` — dropdown menu update
+- `2026-04-04 14:48` — padding consistency fix
