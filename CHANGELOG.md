@@ -1353,3 +1353,4 @@
 - `2026-04-04 14:48` — brand asset refresh
 - `2026-04-04 14:48` — hover state fix
 - `2026-04-04 14:48` — focus indicator update
+- `2026-04-04 14:48` — heading hierarchy fix
