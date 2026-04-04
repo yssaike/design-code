@@ -1326,3 +1326,4 @@
 - `2026-04-03 09:16` — layout spacing refinement
 - `2026-04-04 14:48` — card component update
 - `2026-04-04 14:48` — badge design update
+- `2026-04-04 14:48` — accessibility contrast fix
