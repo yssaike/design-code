@@ -1334,3 +1334,4 @@
 - `2026-04-04 14:48` — visual regression fix
 - `2026-04-04 14:48` — body text improvement
 - `2026-04-04 14:48` — dark mode color tweak
+- `2026-04-04 14:48` — tab component refinement
