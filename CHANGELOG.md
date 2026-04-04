@@ -1343,3 +1343,4 @@
 - `2026-04-04 14:48` — aria attribute update
 - `2026-04-04 14:48` — font family swap
 - `2026-04-04 14:48` — brand token change
+- `2026-04-04 14:48` — loading animation tweak
