@@ -1328,3 +1328,4 @@
 - `2026-04-04 14:48` — badge design update
 - `2026-04-04 14:48` — accessibility contrast fix
 - `2026-04-04 14:48` — transition easing change
+- `2026-04-04 14:48` — brand guideline sync
