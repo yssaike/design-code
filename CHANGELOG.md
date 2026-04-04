@@ -1350,3 +1350,4 @@
 - `2026-04-04 14:48` — brand font update
 - `2026-04-04 14:48` — disabled state styling
 - `2026-04-04 14:48` — overflow fix
+- `2026-04-04 14:48` — brand asset refresh
