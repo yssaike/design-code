@@ -1341,3 +1341,4 @@
 - `2026-04-04 14:48` — border radius update
 - `2026-04-04 14:48` — color change
 - `2026-04-04 14:48` — aria attribute update
+- `2026-04-04 14:48` — font family swap
