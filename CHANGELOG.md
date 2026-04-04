@@ -1336,3 +1336,4 @@
 - `2026-04-04 14:48` — dark mode color tweak
 - `2026-04-04 14:48` — tab component refinement
 - `2026-04-04 14:48` — spacing token update
+- `2026-04-04 14:48` — primary color update
