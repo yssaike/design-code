@@ -1339,3 +1339,4 @@
 - `2026-04-04 14:48` — primary color update
 - `2026-04-04 14:48` — micro-interaction refinement
 - `2026-04-04 14:48` — border radius update
+- `2026-04-04 14:48` — color change
