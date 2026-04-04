@@ -1330,3 +1330,4 @@
 - `2026-04-04 14:48` — transition easing change
 - `2026-04-04 14:48` — brand guideline sync
 - `2026-04-04 14:48` — accent color adjustment
+- `2026-04-04 14:48` — grid gap adjustment
