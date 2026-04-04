@@ -1333,3 +1333,4 @@
 - `2026-04-04 14:48` — grid gap adjustment
 - `2026-04-04 14:48` — visual regression fix
 - `2026-04-04 14:48` — body text improvement
+- `2026-04-04 14:48` — dark mode color tweak
