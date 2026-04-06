@@ -1385,3 +1385,4 @@
 - `2026-04-05 17:03` — primary color update
 - `2026-04-05 17:03` — visual regression fix
 - `2026-04-05 17:03` — aria attribute update
+- `2026-04-05 17:03` — button style update
