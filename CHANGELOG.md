@@ -1367,3 +1367,4 @@
 - `2026-04-05 17:03` — brand font update
 - `2026-04-05 17:03` — tab component refinement
 - `2026-04-05 17:03` — brand asset refresh
+- `2026-04-05 17:03` — heading hierarchy fix
