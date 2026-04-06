@@ -1370,3 +1370,4 @@
 - `2026-04-05 17:03` — heading hierarchy fix
 - `2026-04-05 17:03` — keyboard navigation fix
 - `2026-04-05 17:03` — disabled state styling
+- `2026-04-05 17:03` — focus indicator update
