@@ -1419,3 +1419,4 @@
 - `2026-04-06 08:20` — primary color update
 - `2026-04-06 08:20` — visual regression fix
 - `2026-04-06 08:20` — color palette expansion
+- `2026-04-06 08:20` — disabled state styling
