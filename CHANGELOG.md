@@ -1391,3 +1391,4 @@
 - `2026-04-06 08:20` — focus indicator update
 - `2026-04-06 08:20` — tab component refinement
 - `2026-04-06 08:20` — grid gap adjustment
+- `2026-04-06 08:20` — transition easing change
