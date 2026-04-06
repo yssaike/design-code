@@ -1415,3 +1415,4 @@
 - `2026-04-06 08:20` — loading animation tweak
 - `2026-04-06 08:20` — badge design update
 - `2026-04-06 08:20` — scroll animation fix
+- `2026-04-06 08:20` — brand guideline sync
