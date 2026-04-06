@@ -1405,3 +1405,4 @@
 - `2026-04-06 08:20` — secondary palette refinement
 - `2026-04-06 08:20` — surface color update
 - `2026-04-06 08:20` — layout spacing refinement
+- `2026-04-06 08:20` — aria attribute update
