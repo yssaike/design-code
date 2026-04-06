@@ -1377,3 +1377,4 @@
 - `2026-04-05 17:03` — animation duration update
 - `2026-04-05 17:03` — brand token change
 - `2026-04-05 17:03` — typography scale update
+- `2026-04-05 17:03` — responsive layout tweak
