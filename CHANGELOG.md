@@ -1369,3 +1369,4 @@
 - `2026-04-05 17:03` — brand asset refresh
 - `2026-04-05 17:03` — heading hierarchy fix
 - `2026-04-05 17:03` — keyboard navigation fix
+- `2026-04-05 17:03` — disabled state styling
