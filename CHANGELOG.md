@@ -1360,3 +1360,4 @@
 - `2026-04-05 17:03` — semantic color token fix
 - `2026-04-05 17:03` — font family swap
 - `2026-04-05 17:03` — brand spacing alignment
+- `2026-04-05 17:03` — focus ring update
