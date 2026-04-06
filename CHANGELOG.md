@@ -1423,3 +1423,4 @@
 - `2026-04-06 08:20` — shadow refinement
 - `2026-04-06 08:20` — heading hierarchy fix
 - `2026-04-06 08:20` — typography scale update
+- `2026-04-06 08:20` — accent color adjustment
