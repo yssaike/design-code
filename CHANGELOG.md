@@ -1411,3 +1411,4 @@
 - `2026-04-06 08:20` — animation duration update
 - `2026-04-06 08:20` — brand asset refresh
 - `2026-04-06 08:20` — font family swap
+- `2026-04-06 08:20` — focus ring update
