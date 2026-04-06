@@ -1389,3 +1389,4 @@
 - `2026-04-05 17:03` — transition easing change
 - `2026-04-05 17:03` — badge design update
 - `2026-04-06 08:20` — focus indicator update
+- `2026-04-06 08:20` — tab component refinement
