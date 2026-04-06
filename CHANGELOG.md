@@ -1398,3 +1398,4 @@
 - `2026-04-06 08:20` — brand font update
 - `2026-04-06 08:20` — line height refinement
 - `2026-04-06 08:20` — padding consistency fix
+- `2026-04-06 08:20` — screen reader label add
