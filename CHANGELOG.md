@@ -1401,3 +1401,4 @@
 - `2026-04-06 08:20` — screen reader label add
 - `2026-04-06 08:20` — accessibility contrast fix
 - `2026-04-06 08:20` — letter spacing tweak
+- `2026-04-06 08:20` — brand token change
