@@ -1413,3 +1413,4 @@
 - `2026-04-06 08:20` — font family swap
 - `2026-04-06 08:20` — focus ring update
 - `2026-04-06 08:20` — loading animation tweak
+- `2026-04-06 08:20` — badge design update
