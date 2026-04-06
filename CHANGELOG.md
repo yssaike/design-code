@@ -1403,3 +1403,4 @@
 - `2026-04-06 08:20` — letter spacing tweak
 - `2026-04-06 08:20` — brand token change
 - `2026-04-06 08:20` — secondary palette refinement
+- `2026-04-06 08:20` — surface color update
