@@ -1379,3 +1379,4 @@
 - `2026-04-05 17:03` — typography scale update
 - `2026-04-05 17:03` — responsive layout tweak
 - `2026-04-05 17:03` — active state refinement
+- `2026-04-05 17:03` — padding consistency fix
