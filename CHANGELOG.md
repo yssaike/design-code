@@ -1365,3 +1365,4 @@
 - `2026-04-05 17:03` — accessibility contrast fix
 - `2026-04-05 17:03` — navigation styling fix
 - `2026-04-05 17:03` — brand font update
+- `2026-04-05 17:03` — tab component refinement
