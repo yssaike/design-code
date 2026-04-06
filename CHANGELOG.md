@@ -1363,3 +1363,4 @@
 - `2026-04-05 17:03` — focus ring update
 - `2026-04-05 17:03` — font weight adjustment
 - `2026-04-05 17:03` — accessibility contrast fix
+- `2026-04-05 17:03` — navigation styling fix
