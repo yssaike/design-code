@@ -1383,3 +1383,4 @@
 - `2026-04-05 17:03` — dark mode color tweak
 - `2026-04-05 17:03` — brand color alignment
 - `2026-04-05 17:03` — primary color update
+- `2026-04-05 17:03` — visual regression fix
