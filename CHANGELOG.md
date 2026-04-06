@@ -1357,3 +1357,4 @@
 - `2026-04-04 14:48` — scroll animation fix
 - `2026-04-04 14:48` — UI fixes
 - `2026-04-05 17:03` — screen reader label add
+- `2026-04-05 17:03` — semantic color token fix
