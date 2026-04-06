@@ -1387,3 +1387,4 @@
 - `2026-04-05 17:03` — aria attribute update
 - `2026-04-05 17:03` — button style update
 - `2026-04-05 17:03` — transition easing change
+- `2026-04-05 17:03` — badge design update
