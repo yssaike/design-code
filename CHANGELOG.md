@@ -1371,3 +1371,4 @@
 - `2026-04-05 17:03` — keyboard navigation fix
 - `2026-04-05 17:03` — disabled state styling
 - `2026-04-05 17:03` — focus indicator update
+- `2026-04-05 17:03` — micro-interaction refinement
