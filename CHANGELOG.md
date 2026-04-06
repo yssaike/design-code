@@ -1375,3 +1375,4 @@
 - `2026-04-05 17:03` — color contrast fix
 - `2026-04-05 17:03` — section spacing update
 - `2026-04-05 17:03` — animation duration update
+- `2026-04-05 17:03` — brand token change
