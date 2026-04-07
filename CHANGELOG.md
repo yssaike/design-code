@@ -1433,3 +1433,4 @@
 - `2026-04-07 08:14` — grid gap adjustment
 - `2026-04-07 08:14` — section spacing update
 - `2026-04-07 08:14` — accent color adjustment
+- `2026-04-07 08:14` — scroll animation fix
