@@ -1452,3 +1452,4 @@
 - `2026-04-07 08:14` — focus indicator update
 - `2026-04-07 08:14` — brand asset refresh
 - `2026-04-07 08:14` — brand color alignment
+- `2026-04-07 08:14` — font family swap
