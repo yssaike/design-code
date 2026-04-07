@@ -1462,3 +1462,4 @@
 - `2026-04-07 08:14` — screen reader label add
 - `2026-04-07 08:14` — letter spacing tweak
 - `2026-04-07 08:14` — border radius update
+- `2026-04-07 08:14` — padding consistency fix
