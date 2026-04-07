@@ -1437,3 +1437,4 @@
 - `2026-04-07 08:14` — brand spacing alignment
 - `2026-04-07 08:14` — checkbox style refresh
 - `2026-04-07 08:14` — dropdown menu update
+- `2026-04-07 08:14` — visual regression fix
