@@ -1454,3 +1454,4 @@
 - `2026-04-07 08:14` — brand color alignment
 - `2026-04-07 08:14` — font family swap
 - `2026-04-07 08:14` — primary color update
+- `2026-04-07 08:14` — secondary palette refinement
