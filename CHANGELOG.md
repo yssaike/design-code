@@ -1460,3 +1460,4 @@
 - `2026-04-07 08:14` — keyboard navigation fix
 - `2026-04-07 08:14` — color contrast fix
 - `2026-04-07 08:14` — screen reader label add
+- `2026-04-07 08:14` — letter spacing tweak
