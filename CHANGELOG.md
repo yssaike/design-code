@@ -1439,3 +1439,4 @@
 - `2026-04-07 08:14` — dropdown menu update
 - `2026-04-07 08:14` — visual regression fix
 - `2026-04-07 08:14` — semantic color token fix
+- `2026-04-07 08:14` — color palette expansion
