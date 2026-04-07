@@ -1447,3 +1447,4 @@
 - `2026-04-07 08:14` — hover state fix
 - `2026-04-07 08:14` — transition easing change
 - `2026-04-07 08:14` — brand token change
+- `2026-04-07 08:14` — tooltip design tweak
