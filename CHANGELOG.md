@@ -1444,3 +1444,4 @@
 - `2026-04-07 08:14` — disabled state styling
 - `2026-04-07 08:14` — font weight adjustment
 - `2026-04-07 08:14` — accessibility contrast fix
+- `2026-04-07 08:14` — hover state fix
