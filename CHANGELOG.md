@@ -1450,3 +1450,4 @@
 - `2026-04-07 08:14` — tooltip design tweak
 - `2026-04-07 08:14` — loading animation tweak
 - `2026-04-07 08:14` — focus indicator update
+- `2026-04-07 08:14` — brand asset refresh
