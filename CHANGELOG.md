@@ -1425,3 +1425,4 @@
 - `2026-04-06 08:20` — typography scale update
 - `2026-04-06 08:20` — accent color adjustment
 - `2026-04-06 08:20` — tooltip design tweak
+- `2026-04-07 08:14` — modal design update
