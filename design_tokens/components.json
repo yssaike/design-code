@@ -6,7 +6,7 @@
     "shadow": "4px 5px 21px rgba(0,0,0,0.18)",
     "fontSize": "8px",
     "fontWeight": "4px",
-    "gap": "20px"
+    "gap": "8px"
   },
   "input": {
     "borderRadius": "16px",
