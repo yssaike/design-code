@@ -60,7 +60,7 @@
   "tabs": {
     "borderRadius": "24px",
     "paddingX": "8px",
-    "paddingY": "24px",
+    "paddingY": "4px",
     "gap": "20px",
     "fontSize": "1px",
     "fontWeight": "1px"
