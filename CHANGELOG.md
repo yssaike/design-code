@@ -1429,3 +1429,4 @@
 - `2026-04-07 08:14` — focus ring update
 - `2026-04-07 08:14` — button style update
 - `2026-04-07 08:14` — card component update
+- `2026-04-07 08:14` — aria attribute update
