@@ -1476,3 +1476,4 @@
 - `2026-04-08 08:05` — padding consistency fix
 - `2026-04-08 08:05` — heading hierarchy fix
 - `2026-04-08 08:05` — focus indicator update
+- `2026-04-08 08:05` — overflow fix
