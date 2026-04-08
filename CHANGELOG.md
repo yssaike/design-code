@@ -1483,3 +1483,4 @@
 - `2026-04-08 08:05` — semantic color token fix
 - `2026-04-08 08:05` — body text improvement
 - `2026-04-08 08:05` — letter spacing tweak
+- `2026-04-08 08:05` — dark mode color tweak
