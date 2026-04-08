@@ -1472,3 +1472,4 @@
 - `2026-04-08 08:05` — badge design update
 - `2026-04-08 08:05` — brand guideline sync
 - `2026-04-08 08:05` — tooltip design tweak
+- `2026-04-08 08:05` — screen reader label add
