@@ -1465,3 +1465,4 @@
 - `2026-04-07 08:14` — padding consistency fix
 - `2026-04-08 08:05` — keyboard navigation fix
 - `2026-04-08 08:05` — micro-interaction refinement
+- `2026-04-08 08:05` — navigation styling fix
