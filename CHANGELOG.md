@@ -1469,3 +1469,4 @@
 - `2026-04-08 08:05` — brand font update
 - `2026-04-08 08:05` — layout spacing refinement
 - `2026-04-08 08:05` — spacing token update
+- `2026-04-08 08:05` — badge design update
