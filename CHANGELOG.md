@@ -1498,3 +1498,4 @@
 - `2026-04-09 08:08` — layout spacing refinement
 - `2026-04-09 08:08` — brand guideline sync
 - `2026-04-09 08:08` — checkbox style refresh
+- `2026-04-09 08:08` — UI fixes
