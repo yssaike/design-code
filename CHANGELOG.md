@@ -1504,3 +1504,4 @@
 - `2026-04-09 08:08` — margin alignment
 - `2026-04-09 08:08` — focus indicator update
 - `2026-04-09 08:08` — micro-interaction refinement
+- `2026-04-09 08:08` — dropdown menu update
