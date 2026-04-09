@@ -1511,3 +1511,4 @@
 - `2026-04-09 08:08` — line height refinement
 - `2026-04-09 08:08` — button style update
 - `2026-04-09 08:08` — padding consistency fix
+- `2026-04-09 08:08` — brand asset refresh
