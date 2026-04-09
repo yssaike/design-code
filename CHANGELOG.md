@@ -1486,3 +1486,4 @@
 - `2026-04-08 08:05` — dark mode color tweak
 - `2026-04-08 08:05` — transition easing change
 - `2026-04-09 08:08` — accent color adjustment
+- `2026-04-09 08:08` — typography scale update
