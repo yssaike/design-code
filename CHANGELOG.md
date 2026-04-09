@@ -1489,3 +1489,4 @@
 - `2026-04-09 08:08` — typography scale update
 - `2026-04-09 08:08` — font family swap
 - `2026-04-09 08:08` — transition easing change
+- `2026-04-09 08:08` — scroll animation fix
