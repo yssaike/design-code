@@ -1496,3 +1496,4 @@
 - `2026-04-09 08:08` — accessibility contrast fix
 - `2026-04-09 08:08` — overflow fix
 - `2026-04-09 08:08` — layout spacing refinement
+- `2026-04-09 08:08` — brand guideline sync
