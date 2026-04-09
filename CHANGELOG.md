@@ -1501,3 +1501,4 @@
 - `2026-04-09 08:08` — UI fixes
 - `2026-04-09 08:08` — keyboard navigation fix
 - `2026-04-09 08:08` — brand color alignment
+- `2026-04-09 08:08` — margin alignment
