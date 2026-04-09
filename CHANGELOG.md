@@ -1507,3 +1507,4 @@
 - `2026-04-09 08:08` — dropdown menu update
 - `2026-04-09 08:08` — color contrast fix
 - `2026-04-09 08:08` — animation duration update
+- `2026-04-09 08:08` — secondary palette refinement
