@@ -1491,3 +1491,4 @@
 - `2026-04-09 08:08` — transition easing change
 - `2026-04-09 08:08` — scroll animation fix
 - `2026-04-09 08:08` — z-index adjustment
+- `2026-04-09 08:08` — brand spacing alignment
