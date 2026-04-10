@@ -1545,3 +1545,4 @@
 - `2026-04-10 08:14` — focus ring update
 - `2026-04-10 08:14` — checkbox style refresh
 - `2026-04-10 08:14` — screen reader label add
+- `2026-04-10 08:14` — scroll animation fix
