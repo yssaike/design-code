@@ -1547,3 +1547,4 @@
 - `2026-04-10 08:14` — screen reader label add
 - `2026-04-10 08:14` — scroll animation fix
 - `2026-04-10 08:14` — navigation styling fix
+- `2026-04-10 08:14` — visual regression fix
