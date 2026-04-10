@@ -1531,3 +1531,4 @@
 - `2026-04-10 08:13` — shadow refinement
 - `2026-04-10 08:13` — brand spacing alignment
 - `2026-04-10 08:13` — z-index adjustment
+- `2026-04-10 08:13` — accessibility contrast fix
