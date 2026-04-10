@@ -1540,3 +1540,4 @@
 - `2026-04-10 08:14` — brand token change
 - `2026-04-10 08:14` — line height refinement
 - `2026-04-10 08:14` — tooltip design tweak
+- `2026-04-10 08:14` — transition easing change
