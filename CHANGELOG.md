@@ -1528,3 +1528,4 @@
 - `2026-04-10 08:13` — brand font update
 - `2026-04-10 08:13` — color change
 - `2026-04-10 08:13` — section spacing update
+- `2026-04-10 08:13` — shadow refinement
