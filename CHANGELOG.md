@@ -1513,3 +1513,4 @@
 - `2026-04-09 08:08` — padding consistency fix
 - `2026-04-09 08:08` — brand asset refresh
 - `2026-04-09 08:08` — badge design update
+- `2026-04-10 08:13` — border radius update
