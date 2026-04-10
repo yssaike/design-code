@@ -1538,3 +1538,4 @@
 - `2026-04-10 08:13` — dark mode color tweak
 - `2026-04-10 08:13` — color palette expansion
 - `2026-04-10 08:14` — brand token change
+- `2026-04-10 08:14` — line height refinement
