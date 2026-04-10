@@ -1534,3 +1534,4 @@
 - `2026-04-10 08:13` — accessibility contrast fix
 - `2026-04-10 08:13` — brand asset refresh
 - `2026-04-10 08:13` — margin alignment
+- `2026-04-10 08:13` — overflow fix
