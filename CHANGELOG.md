@@ -1548,3 +1548,4 @@
 - `2026-04-10 08:14` — scroll animation fix
 - `2026-04-10 08:14` — navigation styling fix
 - `2026-04-10 08:14` — visual regression fix
+- `2026-04-10 08:14` — button style update
