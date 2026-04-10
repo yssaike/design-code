@@ -1543,3 +1543,4 @@
 - `2026-04-10 08:14` — transition easing change
 - `2026-04-10 08:14` — heading hierarchy fix
 - `2026-04-10 08:14` — focus ring update
+- `2026-04-10 08:14` — checkbox style refresh

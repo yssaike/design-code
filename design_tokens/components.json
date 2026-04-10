@@ -59,7 +59,7 @@
   },
   "tabs": {
     "borderRadius": "24px",
-    "paddingX": "8px",
+    "paddingX": "24px",
     "paddingY": "4px",
     "gap": "12px",
     "fontSize": "1px",
