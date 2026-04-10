@@ -1522,3 +1522,4 @@
 - `2026-04-10 08:13` — grid gap adjustment
 - `2026-04-10 08:13` — typography scale update
 - `2026-04-10 08:13` — focus indicator update
+- `2026-04-10 08:13` — brand guideline sync
