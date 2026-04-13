@@ -1598,3 +1598,4 @@
 - `2026-04-13 08:15` — aria attribute update
 - `2026-04-13 08:15` — badge design update
 - `2026-04-13 08:15` — primary color update
+- `2026-04-13 08:15` — hover state fix
