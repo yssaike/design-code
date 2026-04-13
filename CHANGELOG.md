@@ -1563,3 +1563,4 @@
 - `2026-04-13 08:15` — scroll animation fix
 - `2026-04-13 08:15` — checkbox style refresh
 - `2026-04-13 08:15` — micro-interaction refinement
+- `2026-04-13 08:15` — overflow fix
