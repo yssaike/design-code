@@ -1589,3 +1589,4 @@
 - `2026-04-13 08:15` — shadow refinement
 - `2026-04-13 08:15` — semantic color token fix
 - `2026-04-13 08:15` — heading hierarchy fix
+- `2026-04-13 08:15` — surface color update
