@@ -1566,3 +1566,4 @@
 - `2026-04-13 08:15` — overflow fix
 - `2026-04-13 08:15` — animation duration update
 - `2026-04-13 08:15` — grid gap adjustment
+- `2026-04-13 08:15` — screen reader label add
