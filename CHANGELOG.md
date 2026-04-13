@@ -1578,3 +1578,4 @@
 - `2026-04-13 08:15` — brand font update
 - `2026-04-13 08:15` — brand token change
 - `2026-04-13 08:15` — letter spacing tweak
+- `2026-04-13 08:15` — loading animation tweak
