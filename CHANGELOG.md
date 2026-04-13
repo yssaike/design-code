@@ -1559,3 +1559,4 @@
 - `2026-04-13 08:15` — accessibility contrast fix
 - `2026-04-13 08:15` — padding consistency fix
 - `2026-04-13 08:15` — tab component refinement
+- `2026-04-13 08:15` — brand spacing alignment
