@@ -1555,3 +1555,4 @@
 - `2026-04-13 08:15` — focus indicator update
 - `2026-04-13 08:15` — dark mode color tweak
 - `2026-04-13 08:15` — line height refinement
+- `2026-04-13 08:15` — navigation styling fix
