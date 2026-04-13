@@ -1586,3 +1586,4 @@
 - `2026-04-13 08:15` — font weight adjustment
 - `2026-04-13 08:15` — layout spacing refinement
 - `2026-04-13 08:15` — z-index adjustment
+- `2026-04-13 08:15` — shadow refinement
