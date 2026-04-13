@@ -1561,3 +1561,4 @@
 - `2026-04-13 08:15` — tab component refinement
 - `2026-04-13 08:15` — brand spacing alignment
 - `2026-04-13 08:15` — scroll animation fix
+- `2026-04-13 08:15` — checkbox style refresh
