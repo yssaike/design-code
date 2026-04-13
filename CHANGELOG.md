@@ -1572,3 +1572,4 @@
 - `2026-04-13 08:15` — accent color adjustment
 - `2026-04-13 08:15` — input field refinement
 - `2026-04-13 08:15` — typography scale update
+- `2026-04-13 08:15` — brand asset refresh
