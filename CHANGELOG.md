@@ -1581,3 +1581,4 @@
 - `2026-04-13 08:15` — loading animation tweak
 - `2026-04-13 08:15` — color contrast fix
 - `2026-04-13 08:15` — button style update
+- `2026-04-13 08:15` — secondary palette refinement
