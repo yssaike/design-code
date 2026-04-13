@@ -50,7 +50,7 @@
   },
   "caption": {
     "fontFamily": "Inter, system-ui, sans-serif",
-    "fontSize": "0.75rem",
+    "fontSize": "3rem",
     "fontWeight": 300,
     "lineHeight": "1.75",
     "letterSpacing": "0.01em"
