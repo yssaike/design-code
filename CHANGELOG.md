@@ -1583,3 +1583,4 @@
 - `2026-04-13 08:15` — button style update
 - `2026-04-13 08:15` — secondary palette refinement
 - `2026-04-13 08:15` — margin alignment
+- `2026-04-13 08:15` — font weight adjustment
