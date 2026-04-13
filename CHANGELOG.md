@@ -1556,3 +1556,4 @@
 - `2026-04-13 08:15` — dark mode color tweak
 - `2026-04-13 08:15` — line height refinement
 - `2026-04-13 08:15` — navigation styling fix
+- `2026-04-13 08:15` — accessibility contrast fix
