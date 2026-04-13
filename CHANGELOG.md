@@ -1591,3 +1591,4 @@
 - `2026-04-13 08:15` — heading hierarchy fix
 - `2026-04-13 08:15` — surface color update
 - `2026-04-13 08:15` — focus ring update
+- `2026-04-13 08:15` — brand guideline sync
