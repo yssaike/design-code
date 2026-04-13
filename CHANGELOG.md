@@ -1557,3 +1557,4 @@
 - `2026-04-13 08:15` — line height refinement
 - `2026-04-13 08:15` — navigation styling fix
 - `2026-04-13 08:15` — accessibility contrast fix
+- `2026-04-13 08:15` — padding consistency fix
