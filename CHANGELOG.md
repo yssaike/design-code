@@ -1618,3 +1618,4 @@
 - `2026-04-14 16:01` — transition easing change
 - `2026-04-14 16:01` — brand font update
 - `2026-04-14 16:01` — card component update
+- `2026-04-14 16:01` — padding consistency fix
