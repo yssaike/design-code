@@ -1601,3 +1601,4 @@
 - `2026-04-13 08:15` — hover state fix
 - `2026-04-14 16:01` — scroll animation fix
 - `2026-04-14 16:01` — brand guideline sync
+- `2026-04-14 16:01` — animation duration update
