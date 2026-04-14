@@ -1608,3 +1608,4 @@
 - `2026-04-14 16:01` — section spacing update
 - `2026-04-14 16:01` — checkbox style refresh
 - `2026-04-14 16:01` — brand color alignment
+- `2026-04-14 16:01` — overflow fix
