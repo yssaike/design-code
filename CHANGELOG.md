@@ -1622,3 +1622,4 @@
 - `2026-04-14 16:01` — border radius update
 - `2026-04-14 16:01` — alignment correction
 - `2026-04-14 16:01` — line height refinement
+- `2026-04-14 16:01` — UI fixes
