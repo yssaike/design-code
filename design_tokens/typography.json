@@ -57,7 +57,7 @@
   },
   "overline": {
     "fontFamily": "Inter, system-ui, sans-serif",
-    "fontSize": "0.75rem",
+    "fontSize": "0.875rem",
     "fontWeight": 700,
     "lineHeight": "1.4",
     "letterSpacing": "0.08em"
