@@ -1604,3 +1604,4 @@
 - `2026-04-14 16:01` — animation duration update
 - `2026-04-14 16:01` — accent color adjustment
 - `2026-04-14 16:01` — loading animation tweak
+- `2026-04-14 16:01` — aria attribute update
