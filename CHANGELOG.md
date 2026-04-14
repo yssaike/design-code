@@ -1615,3 +1615,4 @@
 - `2026-04-14 16:01` — navigation styling fix
 - `2026-04-14 16:01` — grid gap adjustment
 - `2026-04-14 16:01` — spacing token update
+- `2026-04-14 16:01` — transition easing change
