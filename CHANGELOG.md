@@ -1611,3 +1611,4 @@
 - `2026-04-14 16:01` — overflow fix
 - `2026-04-14 16:01` — semantic color token fix
 - `2026-04-14 16:01` — letter spacing tweak
+- `2026-04-14 16:01` — visual regression fix
