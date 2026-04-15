@@ -1634,3 +1634,4 @@
 - `2026-04-15 08:14` — keyboard navigation fix
 - `2026-04-15 08:14` — loading animation tweak
 - `2026-04-15 08:14` — screen reader label add
+- `2026-04-15 08:14` — surface color update
