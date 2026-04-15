@@ -1644,3 +1644,4 @@
 - `2026-04-15 08:14` — input field refinement
 - `2026-04-15 08:14` — spacing token update
 - `2026-04-15 08:14` — animation duration update
+- `2026-04-15 08:14` — brand spacing alignment
