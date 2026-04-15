@@ -1657,3 +1657,4 @@
 - `2026-04-15 08:14` — brand token change
 - `2026-04-15 08:14` — margin alignment
 - `2026-04-15 08:14` — section spacing update
+- `2026-04-15 08:14` — dark mode color tweak
