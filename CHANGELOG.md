@@ -1653,3 +1653,4 @@
 - `2026-04-15 08:14` — brand font update
 - `2026-04-15 08:14` — active state refinement
 - `2026-04-15 08:14` — micro-interaction refinement
+- `2026-04-15 08:14` — typography scale update
