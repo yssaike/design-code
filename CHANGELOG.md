@@ -1643,3 +1643,4 @@
 - `2026-04-15 08:14` — grid gap adjustment
 - `2026-04-15 08:14` — input field refinement
 - `2026-04-15 08:14` — spacing token update
+- `2026-04-15 08:14` — animation duration update
