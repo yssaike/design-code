@@ -1632,3 +1632,4 @@
 - `2026-04-15 08:14` — brand guideline sync
 - `2026-04-15 08:14` — brand asset refresh
 - `2026-04-15 08:14` — keyboard navigation fix
+- `2026-04-15 08:14` — loading animation tweak
