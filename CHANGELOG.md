@@ -1638,3 +1638,4 @@
 - `2026-04-15 08:14` — letter spacing tweak
 - `2026-04-15 08:14` — shadow refinement
 - `2026-04-15 08:14` — transition easing change
+- `2026-04-15 08:14` — modal design update
