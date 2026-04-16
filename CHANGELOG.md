@@ -1661,3 +1661,4 @@
 - `2026-04-15 08:14` — heading hierarchy fix
 - `2026-04-15 08:14` — accessibility contrast fix
 - `2026-04-16 08:15` — primary color update
+- `2026-04-16 08:15` — focus indicator update
