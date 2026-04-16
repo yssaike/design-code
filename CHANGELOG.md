@@ -1666,3 +1666,4 @@
 - `2026-04-16 08:15` — layout spacing refinement
 - `2026-04-16 08:15` — tab component refinement
 - `2026-04-16 08:15` — grid gap adjustment
+- `2026-04-16 08:15` — heading hierarchy fix
