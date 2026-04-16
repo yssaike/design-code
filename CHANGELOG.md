@@ -1663,3 +1663,4 @@
 - `2026-04-16 08:15` — primary color update
 - `2026-04-16 08:15` — focus indicator update
 - `2026-04-16 08:15` — brand font update
+- `2026-04-16 08:15` — layout spacing refinement
