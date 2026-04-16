@@ -1679,3 +1679,4 @@
 - `2026-04-16 08:15` — overflow fix
 - `2026-04-16 08:15` — navigation styling fix
 - `2026-04-16 08:15` — screen reader label add
+- `2026-04-16 08:15` — brand guideline sync
