@@ -1669,3 +1669,4 @@
 - `2026-04-16 08:15` — heading hierarchy fix
 - `2026-04-16 08:15` — z-index adjustment
 - `2026-04-16 08:15` — brand token change
+- `2026-04-16 08:15` — font family swap
