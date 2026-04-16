@@ -1678,3 +1678,4 @@
 - `2026-04-16 08:15` — checkbox style refresh
 - `2026-04-16 08:15` — overflow fix
 - `2026-04-16 08:15` — navigation styling fix
+- `2026-04-16 08:15` — screen reader label add
