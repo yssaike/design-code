@@ -1672,3 +1672,4 @@
 - `2026-04-16 08:15` — font family swap
 - `2026-04-16 08:15` — input field refinement
 - `2026-04-16 08:15` — semantic color token fix
+- `2026-04-16 08:15` — aria attribute update
