@@ -1686,3 +1686,4 @@
 - `2026-04-16 08:15` — accessibility contrast fix
 - `2026-04-16 08:15` — brand asset refresh
 - `2026-04-16 08:15` — transition easing change
+- `2026-04-16 08:15` — modal design update
