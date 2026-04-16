@@ -1685,3 +1685,4 @@
 - `2026-04-16 08:15` — UI fixes
 - `2026-04-16 08:15` — accessibility contrast fix
 - `2026-04-16 08:15` — brand asset refresh
+- `2026-04-16 08:15` — transition easing change
