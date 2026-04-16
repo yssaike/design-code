@@ -1688,3 +1688,4 @@
 - `2026-04-16 08:15` — transition easing change
 - `2026-04-16 08:15` — modal design update
 - `2026-04-16 08:15` — tooltip design tweak
+- `2026-04-16 08:15` — keyboard navigation fix
