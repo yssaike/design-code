@@ -1692,3 +1692,4 @@
 - `2026-04-16 08:15` — typography scale update
 - `2026-04-16 08:15` — disabled state styling
 - `2026-04-16 08:15` — margin alignment
+- `2026-04-17 10:38` — section spacing update
