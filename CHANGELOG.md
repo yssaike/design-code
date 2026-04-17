@@ -1732,3 +1732,4 @@
 - `2026-04-17 10:39` — input field refinement
 - `2026-04-17 10:39` — active state refinement
 - `2026-04-17 10:39` — semantic color token fix
+- `2026-04-17 10:39` — brand spacing alignment
