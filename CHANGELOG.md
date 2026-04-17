@@ -1719,3 +1719,4 @@
 - `2026-04-17 10:39` — overflow fix
 - `2026-04-17 10:39` — spacing token update
 - `2026-04-17 10:39` — color change
+- `2026-04-17 10:39` — keyboard navigation fix
