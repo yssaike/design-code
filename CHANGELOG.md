@@ -1723,3 +1723,4 @@
 - `2026-04-17 10:39` — responsive layout tweak
 - `2026-04-17 10:39` — animation duration update
 - `2026-04-17 10:39` — alignment correction
+- `2026-04-17 10:39` — typography scale update
