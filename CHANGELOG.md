@@ -1698,3 +1698,4 @@
 - `2026-04-17 10:39` — checkbox style refresh
 - `2026-04-17 10:39` — accent color adjustment
 - `2026-04-17 10:39` — color contrast fix
+- `2026-04-17 10:39` — primary color update
