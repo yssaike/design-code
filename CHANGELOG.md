@@ -1704,3 +1704,4 @@
 - `2026-04-17 10:39` — padding consistency fix
 - `2026-04-17 10:39` — scroll animation fix
 - `2026-04-17 10:39` — hover state fix
+- `2026-04-17 10:39` — grid gap adjustment
