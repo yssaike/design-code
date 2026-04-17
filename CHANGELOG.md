@@ -1702,3 +1702,4 @@
 - `2026-04-17 10:39` — brand guideline sync
 - `2026-04-17 10:39` — button style update
 - `2026-04-17 10:39` — padding consistency fix
+- `2026-04-17 10:39` — scroll animation fix
