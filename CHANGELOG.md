@@ -1714,3 +1714,4 @@
 - `2026-04-17 10:39` — margin alignment
 - `2026-04-17 10:39` — focus ring update
 - `2026-04-17 10:39` — brand asset refresh
+- `2026-04-17 10:39` — aria attribute update
