@@ -1706,3 +1706,4 @@
 - `2026-04-17 10:39` — hover state fix
 - `2026-04-17 10:39` — grid gap adjustment
 - `2026-04-17 10:39` — font weight adjustment
+- `2026-04-17 10:39` — heading hierarchy fix
