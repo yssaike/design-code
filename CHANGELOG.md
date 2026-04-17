@@ -1710,3 +1710,4 @@
 - `2026-04-17 10:39` — focus indicator update
 - `2026-04-17 10:39` — brand font update
 - `2026-04-17 10:39` — layout spacing refinement
+- `2026-04-17 10:39` — modal design update
