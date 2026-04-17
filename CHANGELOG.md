@@ -1726,3 +1726,4 @@
 - `2026-04-17 10:39` — typography scale update
 - `2026-04-17 10:39` — letter spacing tweak
 - `2026-04-17 10:39` — font family swap
+- `2026-04-17 10:39` — secondary palette refinement
