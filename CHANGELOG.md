@@ -1717,3 +1717,4 @@
 - `2026-04-17 10:39` — aria attribute update
 - `2026-04-17 10:39` — dropdown menu update
 - `2026-04-17 10:39` — overflow fix
+- `2026-04-17 10:39` — spacing token update
