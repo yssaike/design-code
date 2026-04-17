@@ -1708,3 +1708,4 @@
 - `2026-04-17 10:39` — font weight adjustment
 - `2026-04-17 10:39` — heading hierarchy fix
 - `2026-04-17 10:39` — focus indicator update
+- `2026-04-17 10:39` — brand font update
