@@ -43,7 +43,7 @@
   },
   "bodySmall": {
     "fontFamily": "Inter, system-ui, sans-serif",
-    "fontSize": "3rem",
+    "fontSize": "1rem",
     "fontWeight": 300,
     "lineHeight": "1.4",
     "letterSpacing": "0"
