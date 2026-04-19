@@ -1774,3 +1774,4 @@
 - `2026-04-19 02:24` — line height refinement
 - `2026-04-19 02:24` — screen reader label add
 - `2026-04-19 02:24` — letter spacing tweak
+- `2026-04-19 02:24` — primary color update
