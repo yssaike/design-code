@@ -1764,3 +1764,4 @@
 - `2026-04-19 02:24` — dropdown menu update
 - `2026-04-19 02:24` — typography scale update
 - `2026-04-19 02:24` — disabled state styling
+- `2026-04-19 02:24` — font family swap
