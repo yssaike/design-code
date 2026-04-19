@@ -1761,3 +1761,4 @@
 - `2026-04-19 02:24` — tooltip design tweak
 - `2026-04-19 02:24` — hover state fix
 - `2026-04-19 02:24` — active state refinement
+- `2026-04-19 02:24` — dropdown menu update
