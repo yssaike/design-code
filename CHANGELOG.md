@@ -1735,3 +1735,4 @@
 - `2026-04-17 10:39` — brand spacing alignment
 - `2026-04-19 02:24` — scroll animation fix
 - `2026-04-19 02:24` — spacing token update
+- `2026-04-19 02:24` — badge design update
