@@ -1742,3 +1742,4 @@
 - `2026-04-19 02:24` — keyboard navigation fix
 - `2026-04-19 02:24` — focus ring update
 - `2026-04-19 02:24` — color change
+- `2026-04-19 02:24` — brand color alignment
