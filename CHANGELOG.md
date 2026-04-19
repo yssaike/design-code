@@ -1739,3 +1739,4 @@
 - `2026-04-19 02:24` — loading animation tweak
 - `2026-04-19 02:24` — brand spacing alignment
 - `2026-04-19 02:24` — responsive layout tweak
+- `2026-04-19 02:24` — keyboard navigation fix
