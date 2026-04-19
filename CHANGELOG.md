@@ -1737,3 +1737,4 @@
 - `2026-04-19 02:24` — spacing token update
 - `2026-04-19 02:24` — badge design update
 - `2026-04-19 02:24` — loading animation tweak
+- `2026-04-19 02:24` — brand spacing alignment
