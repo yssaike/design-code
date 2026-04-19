@@ -16,7 +16,7 @@
   "h2": {
     "fontFamily": "Inter, system-ui, sans-serif",
     "fontSize": "1rem",
-    "fontWeight": 300,
+    "fontWeight": 600,
     "lineHeight": "1.4",
     "letterSpacing": "-0.01em"
   },
