@@ -68,7 +68,7 @@
   "checkbox": {
     "borderRadius": "6px",
     "size": "1px",
-    "borderWidth": "2px",
+    "borderWidth": "1px",
     "gap": "24px"
   }
 }

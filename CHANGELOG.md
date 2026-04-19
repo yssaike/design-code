@@ -1759,3 +1759,4 @@
 - `2026-04-19 02:24` — color palette expansion
 - `2026-04-19 02:24` — padding consistency fix
 - `2026-04-19 02:24` — tooltip design tweak
+- `2026-04-19 02:24` — hover state fix
