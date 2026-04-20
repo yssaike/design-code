@@ -1781,3 +1781,4 @@
 - `2026-04-20 08:07` — scroll animation fix
 - `2026-04-20 08:07` — animation duration update
 - `2026-04-20 08:07` — aria attribute update
+- `2026-04-20 08:07` — surface color update
