@@ -1801,3 +1801,4 @@
 - `2026-04-20 08:07` — font weight adjustment
 - `2026-04-20 08:07` — accessibility contrast fix
 - `2026-04-20 08:07` — dark mode color tweak
+- `2026-04-20 08:07` — badge design update
