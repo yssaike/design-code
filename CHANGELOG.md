@@ -1787,3 +1787,4 @@
 - `2026-04-20 08:07` — layout spacing refinement
 - `2026-04-20 08:07` — shadow refinement
 - `2026-04-20 08:07` — screen reader label add
+- `2026-04-20 08:07` — heading hierarchy fix
