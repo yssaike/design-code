@@ -1792,3 +1792,4 @@
 - `2026-04-20 08:07` — line height refinement
 - `2026-04-20 08:07` — overflow fix
 - `2026-04-20 08:07` — color change
+- `2026-04-20 08:07` — brand font update
