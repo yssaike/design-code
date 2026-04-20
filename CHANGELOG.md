@@ -1794,3 +1794,4 @@
 - `2026-04-20 08:07` — color change
 - `2026-04-20 08:07` — brand font update
 - `2026-04-20 08:07` — alignment correction
+- `2026-04-20 08:07` — padding consistency fix
