@@ -1790,3 +1790,4 @@
 - `2026-04-20 08:07` — heading hierarchy fix
 - `2026-04-20 08:07` — transition easing change
 - `2026-04-20 08:07` — line height refinement
+- `2026-04-20 08:07` — overflow fix
