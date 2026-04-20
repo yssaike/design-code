@@ -1778,3 +1778,4 @@
 - `2026-04-19 02:24` — button style update
 - `2026-04-19 02:24` — layout spacing refinement
 - `2026-04-20 08:07` — typography scale update
+- `2026-04-20 08:07` — scroll animation fix
