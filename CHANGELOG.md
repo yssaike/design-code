@@ -1889,3 +1889,4 @@
 - `2026-04-22 15:58` — letter spacing tweak
 - `2026-04-22 15:58` — font weight adjustment
 - `2026-04-22 15:58` — brand token change
+- `2026-04-22 15:58` — tab component refinement
