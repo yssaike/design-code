@@ -1826,3 +1826,4 @@
 - `2026-04-21 22:13` — tooltip design tweak
 - `2026-04-21 22:13` — brand color alignment
 - `2026-04-21 22:13` — primary color update
+- `2026-04-21 22:13` — overflow fix
