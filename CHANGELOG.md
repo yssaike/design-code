@@ -1821,3 +1821,4 @@
 - `2026-04-21 22:13` — scroll animation fix
 - `2026-04-21 22:13` — keyboard navigation fix
 - `2026-04-21 22:13` — brand spacing alignment
+- `2026-04-21 22:13` — typography scale update
