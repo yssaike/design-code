@@ -1850,3 +1850,4 @@
 - `2026-04-22 08:36` — letter spacing tweak
 - `2026-04-22 08:36` — brand font update
 - `2026-04-22 08:36` — accessibility contrast fix
+- `2026-04-22 08:36` — focus indicator update
