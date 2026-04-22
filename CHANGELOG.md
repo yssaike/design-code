@@ -1829,3 +1829,4 @@
 - `2026-04-21 22:13` — overflow fix
 - `2026-04-21 22:13` — surface color update
 - `2026-04-21 22:13` — accessibility contrast fix
+- `2026-04-21 22:13` — heading hierarchy fix
