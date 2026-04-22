@@ -1858,3 +1858,4 @@
 - `2026-04-22 08:36` — transition easing change
 - `2026-04-22 08:36` — screen reader label add
 - `2026-04-22 08:36` — font weight adjustment
+- `2026-04-22 08:36` — color contrast fix
