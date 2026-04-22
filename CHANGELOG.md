@@ -1815,3 +1815,4 @@
 - `2026-04-21 22:13` — focus indicator update
 - `2026-04-21 22:13` — spacing token update
 - `2026-04-21 22:13` — body text improvement
+- `2026-04-21 22:13` — visual regression fix

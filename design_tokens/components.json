@@ -46,7 +46,7 @@
   },
   "avatar": {
     "borderRadius": "24px",
-    "borderWidth": "1px",
+    "borderWidth": "12px",
     "shadow": "4px 7px 5px rgba(0,0,0,0.06)",
     "size": "12px"
   },
