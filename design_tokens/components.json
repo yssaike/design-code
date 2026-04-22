@@ -48,7 +48,7 @@
     "borderRadius": "2px",
     "borderWidth": "12px",
     "shadow": "4px 7px 5px rgba(0,0,0,0.06)",
-    "size": "12px"
+    "size": "8px"
   },
   "dropdown": {
     "borderRadius": "12px",
