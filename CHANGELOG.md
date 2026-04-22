@@ -1849,3 +1849,4 @@
 - `2026-04-21 22:13` — grid gap adjustment
 - `2026-04-22 08:36` — letter spacing tweak
 - `2026-04-22 08:36` — brand font update
+- `2026-04-22 08:36` — accessibility contrast fix
