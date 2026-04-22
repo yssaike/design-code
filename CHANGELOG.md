@@ -1831,3 +1831,4 @@
 - `2026-04-21 22:13` — accessibility contrast fix
 - `2026-04-21 22:13` — heading hierarchy fix
 - `2026-04-21 22:13` — button style update
+- `2026-04-21 22:13` — modal design update
