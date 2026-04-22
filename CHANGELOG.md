@@ -1819,3 +1819,4 @@
 - `2026-04-21 22:13` — micro-interaction refinement
 - `2026-04-21 22:13` — font weight adjustment
 - `2026-04-21 22:13` — scroll animation fix
+- `2026-04-21 22:13` — keyboard navigation fix
