@@ -1908,3 +1908,4 @@
 - `2026-04-22 15:58` — letter spacing tweak
 - `2026-04-22 15:58` — hover state fix
 - `2026-04-22 15:58` — UI fixes
+- `2026-04-22 15:58` — layout spacing refinement
