@@ -1836,3 +1836,4 @@
 - `2026-04-21 22:13` — letter spacing tweak
 - `2026-04-21 22:13` — brand token change
 - `2026-04-21 22:13` — semantic color token fix
+- `2026-04-21 22:13` — color contrast fix
