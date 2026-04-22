@@ -1853,3 +1853,4 @@
 - `2026-04-22 08:36` — focus indicator update
 - `2026-04-22 08:36` — aria attribute update
 - `2026-04-22 08:36` — keyboard navigation fix
+- `2026-04-22 08:36` — hover state fix
