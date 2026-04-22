@@ -1839,3 +1839,4 @@
 - `2026-04-21 22:13` — color contrast fix
 - `2026-04-21 22:13` — disabled state styling
 - `2026-04-21 22:13` — navigation styling fix
+- `2026-04-21 22:13` — margin alignment
