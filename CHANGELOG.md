@@ -1906,3 +1906,4 @@
 - `2026-04-22 15:58` — spacing token update
 - `2026-04-22 15:58` — brand asset refresh
 - `2026-04-22 15:58` — letter spacing tweak
+- `2026-04-22 15:58` — hover state fix
