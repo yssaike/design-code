@@ -1866,3 +1866,4 @@
 - `2026-04-22 08:36` — dropdown menu update
 - `2026-04-22 08:36` — section spacing update
 - `2026-04-22 08:36` — badge design update
+- `2026-04-22 08:36` — secondary palette refinement
