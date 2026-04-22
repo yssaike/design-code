@@ -1890,3 +1890,4 @@
 - `2026-04-22 15:58` — font weight adjustment
 - `2026-04-22 15:58` — brand token change
 - `2026-04-22 15:58` — tab component refinement
+- `2026-04-22 15:58` — color contrast fix
