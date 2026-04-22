@@ -1877,3 +1877,4 @@
 - `2026-04-22 15:58` — line height refinement
 - `2026-04-22 15:58` — secondary palette refinement
 - `2026-04-22 15:58` — grid gap adjustment
+- `2026-04-22 15:58` — alignment correction
