@@ -1860,3 +1860,4 @@
 - `2026-04-22 08:36` — font weight adjustment
 - `2026-04-22 08:36` — color contrast fix
 - `2026-04-22 08:36` — tooltip design tweak
+- `2026-04-22 08:36` — spacing token update
