@@ -1911,3 +1911,4 @@
 - `2026-04-22 15:58` — layout spacing refinement
 - `2026-04-22 15:58` — semantic color token fix
 - `2026-04-22 15:58` — grid gap adjustment
+- `2026-04-22 15:58` — transition easing change
