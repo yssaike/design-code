@@ -1884,3 +1884,4 @@
 - `2026-04-22 15:58` — aria attribute update
 - `2026-04-22 15:58` — section spacing update
 - `2026-04-22 15:58` — heading hierarchy fix
+- `2026-04-22 15:58` — loading animation tweak
