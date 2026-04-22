@@ -1868,3 +1868,4 @@
 - `2026-04-22 08:36` — badge design update
 - `2026-04-22 08:36` — secondary palette refinement
 - `2026-04-22 08:36` — modal design update
+- `2026-04-22 08:36` — brand guideline sync
