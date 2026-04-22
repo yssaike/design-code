@@ -1903,3 +1903,4 @@
 - `2026-04-22 15:58` — font family swap
 - `2026-04-22 15:58` — modal design update
 - `2026-04-22 15:58` — alignment correction
+- `2026-04-22 15:58` — spacing token update
