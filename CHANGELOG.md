@@ -1899,3 +1899,4 @@
 - `2026-04-22 15:58` — margin alignment
 - `2026-04-22 15:58` — focus indicator update
 - `2026-04-22 15:58` — brand color alignment
+- `2026-04-22 15:58` — disabled state styling
