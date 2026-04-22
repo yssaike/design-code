@@ -1862,3 +1862,4 @@
 - `2026-04-22 08:36` — tooltip design tweak
 - `2026-04-22 08:36` — spacing token update
 - `2026-04-22 08:36` — brand spacing alignment
+- `2026-04-22 08:36` — brand token change
