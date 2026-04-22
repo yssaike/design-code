@@ -1817,3 +1817,4 @@
 - `2026-04-21 22:13` — body text improvement
 - `2026-04-21 22:13` — visual regression fix
 - `2026-04-21 22:13` — micro-interaction refinement
+- `2026-04-21 22:13` — font weight adjustment
