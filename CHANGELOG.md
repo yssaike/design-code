@@ -1813,3 +1813,4 @@
 - `2026-04-20 08:08` — brand asset refresh
 - `2026-04-21 22:13` — brand asset refresh
 - `2026-04-21 22:13` — focus indicator update
+- `2026-04-21 22:13` — spacing token update
