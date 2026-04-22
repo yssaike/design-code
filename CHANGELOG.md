@@ -1887,3 +1887,4 @@
 - `2026-04-22 15:58` — loading animation tweak
 - `2026-04-22 15:58` — badge design update
 - `2026-04-22 15:58` — letter spacing tweak
+- `2026-04-22 15:58` — font weight adjustment
