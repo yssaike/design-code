@@ -1811,3 +1811,4 @@
 - `2026-04-20 08:08` — font family swap
 - `2026-04-20 08:08` — letter spacing tweak
 - `2026-04-20 08:08` — brand asset refresh
+- `2026-04-21 22:13` — brand asset refresh
