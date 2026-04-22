@@ -1851,3 +1851,4 @@
 - `2026-04-22 08:36` — brand font update
 - `2026-04-22 08:36` — accessibility contrast fix
 - `2026-04-22 08:36` — focus indicator update
+- `2026-04-22 08:36` — aria attribute update
