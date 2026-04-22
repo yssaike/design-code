@@ -1856,3 +1856,4 @@
 - `2026-04-22 08:36` — hover state fix
 - `2026-04-22 08:36` — scroll animation fix
 - `2026-04-22 08:36` — transition easing change
+- `2026-04-22 08:36` — screen reader label add
