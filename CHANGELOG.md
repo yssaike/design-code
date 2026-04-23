@@ -1958,3 +1958,4 @@
 - `2026-04-23 08:29` — reorganize token file structure
 - `2026-04-23 08:29` — resolve token alias circular references
 - `2026-04-23 08:29` — body text improvement
+- `2026-04-23 08:29` — add focus token for custom components
