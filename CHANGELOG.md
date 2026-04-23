@@ -1956,3 +1956,4 @@
 - `2026-04-23 08:29` — add entrance animation for modal overlay
 - `2026-04-23 08:29` — brand font update
 - `2026-04-23 08:29` — reorganize token file structure
+- `2026-04-23 08:29` — resolve token alias circular references
