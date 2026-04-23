@@ -1917,3 +1917,4 @@
 - `2026-04-23 08:21` — accent color adjustment
 - `2026-04-23 08:21` — font family swap
 - `2026-04-23 08:21` — animation duration update
+- `2026-04-23 08:21` — navigation styling fix
