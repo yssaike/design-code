@@ -12,6 +12,9 @@ env/
 .DS_Store
 Thumbs.db
 
+# Commit cooldown tracker (local only)
+.commit_history.json
+
 # IDE
 .vscode/
 .idea/

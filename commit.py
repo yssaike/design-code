@@ -8,14 +8,13 @@ import os
 import random
 import subprocess
 import json
-from datetime import datetime
+from datetime import datetime, date, timedelta
 
 # ---------------------------------------------------------------------------
 # Design-themed commit messages grouped by category
 # ---------------------------------------------------------------------------
 COMMIT_MESSAGES = {
     "color": [
-        "color change",
         "primary color update",
         "secondary palette refinement",
         "accent color adjustment",
@@ -25,6 +24,17 @@ COMMIT_MESSAGES = {
         "brand color alignment",
         "surface color update",
         "semantic color token fix",
+        "update neutral palette to reflect new brand direction",
+        "fix off-brand blue in CTA components",
+        "tweak surface colors for better light-mode legibility",
+        "remap semantic color tokens to new primitives",
+        "sync color tokens with latest Figma variables export",
+        "bump gray scale contrast levels",
+        "adjust alpha values on overlay tokens",
+        "patch inconsistent error color across states",
+        "align info color with accessibility requirements",
+        "refine success and warning color tokens",
+        "update background color for elevated surfaces",
     ],
     "brand": [
         "brand token change",
@@ -32,6 +42,13 @@ COMMIT_MESSAGES = {
         "brand spacing alignment",
         "brand asset refresh",
         "brand guideline sync",
+        "sync brand tokens with latest identity refresh",
+        "update logo sizing constraints",
+        "pull latest brand variables from design system",
+        "align brand palette with updated guidelines",
+        "refresh brand gradient values",
+        "update wordmark sizing token",
+        "reconcile brand color with new creative direction",
     ],
     "typography": [
         "typography scale update",
@@ -41,6 +58,16 @@ COMMIT_MESSAGES = {
         "body text improvement",
         "font family swap",
         "letter spacing tweak",
+        "normalize font stack across platforms",
+        "fix responsive type scale breakpoints",
+        "update display heading tokens",
+        "audit and clean up unused type styles",
+        "bump body font size for readability",
+        "align caption text tokens with spec",
+        "tighten heading line height for large screens",
+        "update monospace font token",
+        "add fluid type scale tokens",
+        "fix missing italic weight token",
     ],
     "spacing": [
         "spacing token update",
@@ -49,6 +76,14 @@ COMMIT_MESSAGES = {
         "grid gap adjustment",
         "layout spacing refinement",
         "section spacing update",
+        "normalize spacing scale to 8pt grid",
+        "fix inconsistent inner padding on form elements",
+        "audit spacing tokens for duplicate values",
+        "tighten compact density spacing",
+        "update page-level layout margins",
+        "add missing spacing token for inline elements",
+        "fix content spacing inside card variants",
+        "align vertical rhythm tokens with type scale",
     ],
     "components": [
         "button style update",
@@ -61,9 +96,23 @@ COMMIT_MESSAGES = {
         "checkbox style refresh",
         "tab component refinement",
         "badge design update",
+        "update link component underline style",
+        "refine avatar sizing tokens",
+        "fix icon size inconsistency in nav",
+        "clean up form field error state styles",
+        "refresh skeleton loader animation timing",
+        "adjust chip component padding",
+        "fix inline alert padding",
+        "update stepper component tokens",
+        "refine popover arrow token values",
+        "patch divider component thickness",
+        "update progress bar color tokens",
+        "tighten list item component spacing",
+        "update switch component track tokens",
+        "fix breadcrumb separator sizing",
+        "refine table row hover state tokens",
     ],
     "ui_fixes": [
-        "UI fixes",
         "hover state fix",
         "focus ring update",
         "active state refinement",
@@ -75,6 +124,20 @@ COMMIT_MESSAGES = {
         "overflow fix",
         "alignment correction",
         "visual regression fix",
+        "fix broken outline on focus for keyboard users",
+        "patch stacking context issue in overlay",
+        "correct misaligned icon in button component",
+        "fix ghost button hover color",
+        "resolve visual glitch in dark mode",
+        "patch spacing regression from last merge",
+        "clean up leftover debug border",
+        "fix clipped text in compact variant",
+        "resolve color bleed on adjacent components",
+        "fix broken transition on theme toggle",
+        "patch off-by-one pixel alignment in grid",
+        "fix missing border on selected state",
+        "correct elevation token on sticky header",
+        "patch inconsistent corner radius in form inputs",
     ],
     "motion": [
         "animation duration update",
@@ -82,6 +145,15 @@ COMMIT_MESSAGES = {
         "micro-interaction refinement",
         "loading animation tweak",
         "scroll animation fix",
+        "add entrance animation for modal overlay",
+        "smooth out tab transition timing",
+        "remove jarring jump in accordion open",
+        "refine easing curve on drawer slide",
+        "update stagger delay for list animations",
+        "tune reduced-motion fallback tokens",
+        "fix bounce effect on toast notification",
+        "normalize exit animation duration tokens",
+        "update skeleton shimmer timing",
     ],
     "accessibility": [
         "accessibility contrast fix",
@@ -89,11 +161,100 @@ COMMIT_MESSAGES = {
         "screen reader label add",
         "aria attribute update",
         "keyboard navigation fix",
+        "improve color contrast on disabled text",
+        "add skip-to-content link tokens",
+        "fix missing label on icon-only button",
+        "update focus-visible styles for interactive elements",
+        "ensure touch target meets 44px minimum",
+        "audit color pairs for WCAG AA compliance",
+        "patch low-contrast placeholder text",
+        "add high-visibility focus token for forced-colors mode",
+    ],
+    "refactor": [
+        "clean up token naming inconsistencies",
+        "reorganize token file structure",
+        "remove deprecated spacing tokens",
+        "consolidate duplicate component tokens",
+        "rename tokens to match new naming convention",
+        "flatten nested token structure for clarity",
+        "split color tokens into primitives and semantics",
+        "move hardcoded values to tokens",
+        "deduplicate shadow definitions",
+        "normalize token key casing",
+        "extract repeated values into shared base tokens",
+        "tidy up token category groupings",
+    ],
+    "tooling": [
+        "update design token build script",
+        "fix token export pipeline",
+        "update Figma token sync config",
+        "improve token validation script",
+        "bump token schema version",
+        "add token format checks to pre-commit",
+        "fix broken token transformer",
+        "clean up generated output artifacts",
+        "update style dictionary config",
+        "fix output path in token build config",
+    ],
+    "docs": [
+        "update token documentation",
+        "add usage examples to component tokens",
+        "document new color semantics",
+        "update changelog format",
+        "add inline docs to spacing scale",
+        "document token alias conventions",
+        "update README with latest token structure",
+        "add migration notes for renamed tokens",
+        "document dark mode token usage",
+        "add token decision rationale to comments",
+    ],
+    "tokens": [
+        "export latest tokens from Figma",
+        "resolve token alias circular references",
+        "add missing dark mode token variants",
+        "add new surface token for overlay backgrounds",
+        "patch broken token reference in components",
+        "add responsive token breakpoints",
+        "add high-contrast mode token set",
+        "update token output format to CSS variables",
+        "sync token schema with style dictionary config",
+        "add compact density token tier",
+        "wire up new semantic elevation tokens",
+        "add focus token for custom components",
     ],
 }
 
 # Flatten for easy random selection
 ALL_MESSAGES = [msg for group in COMMIT_MESSAGES.values() for msg in group]
+
+# ---------------------------------------------------------------------------
+# Cooldown tracking — avoids repeating the same message within 3 weeks
+# ---------------------------------------------------------------------------
+HISTORY_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), ".commit_history.json")
+COOLDOWN_DAYS = 21
+
+
+def _load_history() -> dict:
+    if not os.path.exists(HISTORY_FILE):
+        return {}
+    with open(HISTORY_FILE) as f:
+        return json.load(f)
+
+
+def _save_history(history: dict) -> None:
+    with open(HISTORY_FILE, "w") as f:
+        json.dump(history, f, indent=2)
+
+
+def _is_on_cooldown(message: str, history: dict) -> bool:
+    if message not in history:
+        return False
+    last_used = datetime.strptime(history[message], "%Y-%m-%d").date()
+    return (date.today() - last_used).days < COOLDOWN_DAYS
+
+
+def _record_usage(message: str, history: dict) -> None:
+    history[message] = date.today().isoformat()
 
 
 # ---------------------------------------------------------------------------
@@ -102,7 +263,6 @@ ALL_MESSAGES = [msg for group in COMMIT_MESSAGES.values() for msg in group]
 # ---------------------------------------------------------------------------
 
 def _modify_colors(tokens_dir: str) -> None:
-    """Tweak a value inside colors.json."""
     path = os.path.join(tokens_dir, "colors.json")
     with open(path) as f:
         data = json.load(f)
@@ -120,7 +280,6 @@ def _modify_colors(tokens_dir: str) -> None:
 
 
 def _modify_typography(tokens_dir: str) -> None:
-    """Tweak a value inside typography.json."""
     path = os.path.join(tokens_dir, "typography.json")
     with open(path) as f:
         data = json.load(f)
@@ -143,7 +302,6 @@ def _modify_typography(tokens_dir: str) -> None:
 
 
 def _modify_spacing(tokens_dir: str) -> None:
-    """Tweak a value inside spacing.json."""
     path = os.path.join(tokens_dir, "spacing.json")
     with open(path) as f:
         data = json.load(f)
@@ -157,7 +315,6 @@ def _modify_spacing(tokens_dir: str) -> None:
 
 
 def _modify_components(tokens_dir: str) -> None:
-    """Tweak a value inside components.json."""
     path = os.path.join(tokens_dir, "components.json")
     with open(path) as f:
         data = json.load(f)
@@ -181,8 +338,11 @@ def _modify_components(tokens_dir: str) -> None:
         json.dump(data, f, indent=2)
 
 
+def _modify_random(tokens_dir: str) -> None:
+    random.choice([_modify_colors, _modify_typography, _modify_spacing, _modify_components])(tokens_dir)
+
+
 def _append_log(tokens_dir: str, message: str) -> None:
-    """Append an entry to the design changelog."""
     log_path = os.path.join(tokens_dir, "..", "CHANGELOG.md")
     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M")
     with open(log_path, "a") as f:
@@ -199,18 +359,43 @@ MODIFIERS = {
     "ui_fixes": _modify_components,
     "motion": _modify_components,
     "accessibility": _modify_components,
+    "refactor": _modify_random,
+    "tooling": _modify_random,
+    "docs": _modify_random,
+    "tokens": _modify_random,
 }
 
 
-def _pick_commit():
-    """Return (category, message)."""
-    category = random.choice(list(COMMIT_MESSAGES.keys()))
-    message = random.choice(COMMIT_MESSAGES[category])
+def _pick_commit(history: dict, session_used: set):
+    """
+    Return (category, message), skipping messages on 21-day cooldown
+    and messages already used this session.
+    Falls back to least-recently-used if the pool is exhausted.
+    """
+    all_pairs = [(cat, msg) for cat, msgs in COMMIT_MESSAGES.items() for msg in msgs]
+    available = [
+        (cat, msg) for cat, msg in all_pairs
+        if msg not in session_used and not _is_on_cooldown(msg, history)
+    ]
+
+    if not available:
+        # Everything is on cooldown — pick the least recently used
+        def last_used_date(pair):
+            _, msg = pair
+            return datetime.strptime(history.get(msg, "2000-01-01"), "%Y-%m-%d").date()
+
+        all_pairs.sort(key=last_used_date)
+        # Filter out at least session dupes if possible
+        filtered = [p for p in all_pairs if p[1] not in session_used]
+        pool = filtered if filtered else all_pairs
+        category, message = pool[0]
+        return category, message
+
+    category, message = random.choice(available)
     return category, message
 
 
 def _git(*args):
-    """Run a git command and return the result."""
     result = subprocess.run(
         ["git"] + list(args),
         capture_output=True,
@@ -226,7 +411,6 @@ def _git(*args):
 # ---------------------------------------------------------------------------
 
 def main():
-    # Make sure we're in the repo root
     repo_dir = os.path.dirname(os.path.abspath(__file__))
     os.chdir(repo_dir)
     tokens_dir = os.path.join(repo_dir, "design_tokens")
@@ -238,7 +422,6 @@ def main():
     print("  ╚══════════════════════════════════════╝")
     print()
 
-    # Ask how many commits
     while True:
         try:
             num = int(input("  How many commits would you like to make today? "))
@@ -250,28 +433,24 @@ def main():
             print("  Enter a number, e.g. 3")
 
     print()
-    used_messages = set()
+    history = _load_history()
+    session_used = set()
 
     for i in range(1, num + 1):
-        # Pick a unique message when possible
-        category, message = _pick_commit()
-        attempts = 0
-        while message in used_messages and attempts < 20:
-            category, message = _pick_commit()
-            attempts += 1
-        used_messages.add(message)
+        category, message = _pick_commit(history, session_used)
+        session_used.add(message)
+        _record_usage(message, history)
 
-        # Modify the relevant token file
-        modifier = MODIFIERS.get(category, _modify_components)
+        modifier = MODIFIERS.get(category, _modify_random)
         modifier(tokens_dir)
         _append_log(tokens_dir, message)
 
-        # Stage & commit
         _git("add", "-A")
         _git("commit", "-m", message)
         print(f"  [{i}/{num}] ✓ {message}")
 
-    # Push
+    _save_history(history)
+
     print()
     print("  Pushing to GitHub …")
     result = _git("push")
