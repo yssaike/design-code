@@ -1948,3 +1948,4 @@
 - `2026-04-23 08:21` — body text improvement
 - `2026-04-23 08:21` — brand font update
 - `2026-04-23 08:21` — hover state fix
+- `2026-04-23 08:21` — z-index adjustment
