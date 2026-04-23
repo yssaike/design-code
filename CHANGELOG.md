@@ -1953,3 +1953,4 @@
 - `2026-04-23 08:21` — focus indicator update
 - `2026-04-23 08:29` — audit color pairs for WCAG AA compliance
 - `2026-04-23 08:29` — fix broken transition on theme toggle
+- `2026-04-23 08:29` — add entrance animation for modal overlay
