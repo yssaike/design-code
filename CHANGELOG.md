@@ -1927,3 +1927,4 @@
 - `2026-04-23 08:21` — keyboard navigation fix
 - `2026-04-23 08:21` — semantic color token fix
 - `2026-04-23 08:21` — color contrast fix
+- `2026-04-23 08:21` — font weight adjustment
