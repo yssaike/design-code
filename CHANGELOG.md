@@ -1924,3 +1924,4 @@
 - `2026-04-23 08:21` — letter spacing tweak
 - `2026-04-23 08:21` — padding consistency fix
 - `2026-04-23 08:21` — transition easing change
+- `2026-04-23 08:21` — keyboard navigation fix
