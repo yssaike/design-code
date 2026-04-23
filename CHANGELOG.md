@@ -1957,3 +1957,4 @@
 - `2026-04-23 08:29` — brand font update
 - `2026-04-23 08:29` — reorganize token file structure
 - `2026-04-23 08:29` — resolve token alias circular references
+- `2026-04-23 08:29` — body text improvement
