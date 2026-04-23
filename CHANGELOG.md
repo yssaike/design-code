@@ -1962,3 +1962,4 @@
 - `2026-04-23 08:29` — button style update
 - `2026-04-23 08:29` — refresh brand gradient values
 - `2026-04-23 08:29` — bump body font size for readability
+- `2026-04-23 08:29` — loading animation tweak
