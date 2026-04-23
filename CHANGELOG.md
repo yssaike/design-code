@@ -1942,3 +1942,4 @@
 - `2026-04-23 08:21` — primary color update
 - `2026-04-23 08:21` — grid gap adjustment
 - `2026-04-23 08:21` — typography scale update
+- `2026-04-23 08:21` — button style update
