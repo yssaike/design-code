@@ -1919,3 +1919,4 @@
 - `2026-04-23 08:21` — animation duration update
 - `2026-04-23 08:21` — navigation styling fix
 - `2026-04-23 08:21` — scroll animation fix
+- `2026-04-23 08:21` — shadow refinement
