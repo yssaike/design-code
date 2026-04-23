@@ -1922,3 +1922,4 @@
 - `2026-04-23 08:21` — shadow refinement
 - `2026-04-23 08:21` — visual regression fix
 - `2026-04-23 08:21` — letter spacing tweak
+- `2026-04-23 08:21` — padding consistency fix
