@@ -1989,3 +1989,4 @@
 - `2026-04-26 00:51` — fix content spacing inside card variants
 - `2026-04-26 00:51` — tooltip design tweak
 - `2026-04-26 00:51` — resolve color bleed on adjacent components
+- `2026-04-26 00:51` — overflow fix
