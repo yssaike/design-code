@@ -2003,3 +2003,4 @@
 - `2026-04-26 00:51` — responsive layout tweak
 - `2026-04-26 00:51` — clean up token naming inconsistencies
 - `2026-04-26 00:51` — patch broken token reference in components
+- `2026-04-26 00:51` — correct elevation token on sticky header
