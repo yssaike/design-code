@@ -1995,3 +1995,4 @@
 - `2026-04-26 00:51` — update switch component track tokens
 - `2026-04-26 00:51` — input field refinement
 - `2026-04-26 00:51` — visual regression fix
+- `2026-04-26 00:51` — fix icon size inconsistency in nav
