@@ -2000,3 +2000,4 @@
 - `2026-04-26 00:51` — document new color semantics
 - `2026-04-26 00:51` — tighten heading line height for large screens
 - `2026-04-26 00:51` — tab component refinement
+- `2026-04-26 00:51` — responsive layout tweak
