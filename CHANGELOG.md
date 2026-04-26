@@ -1981,3 +1981,4 @@
 - `2026-04-26 00:51` — add migration notes for renamed tokens
 - `2026-04-26 00:51` — remove deprecated spacing tokens
 - `2026-04-26 00:51` — add new surface token for overlay backgrounds
+- `2026-04-26 00:51` — normalize spacing scale to 8pt grid
