@@ -1970,3 +1970,4 @@
 - `2026-04-26 00:51` — add inline docs to spacing scale
 - `2026-04-26 00:51` — micro-interaction refinement
 - `2026-04-26 00:51` — heading hierarchy fix
+- `2026-04-26 00:51` — grid gap adjustment
