@@ -1979,3 +1979,4 @@
 - `2026-04-26 00:51` — adjust alpha values on overlay tokens
 - `2026-04-26 00:51` — card component update
 - `2026-04-26 00:51` — add migration notes for renamed tokens
+- `2026-04-26 00:51` — remove deprecated spacing tokens
