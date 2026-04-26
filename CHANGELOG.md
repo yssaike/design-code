@@ -1976,3 +1976,4 @@
 - `2026-04-26 00:51` — color contrast fix
 - `2026-04-26 00:51` — update background color for elevated surfaces
 - `2026-04-26 00:51` — accent color adjustment
+- `2026-04-26 00:51` — adjust alpha values on overlay tokens
