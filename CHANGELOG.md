@@ -1993,3 +1993,4 @@
 - `2026-04-26 00:51` — patch stacking context issue in overlay
 - `2026-04-26 00:51` — update changelog format
 - `2026-04-26 00:51` — update switch component track tokens
+- `2026-04-26 00:51` — input field refinement
