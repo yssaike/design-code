@@ -1984,3 +1984,4 @@
 - `2026-04-26 00:51` — normalize spacing scale to 8pt grid
 - `2026-04-26 00:51` — update stagger delay for list animations
 - `2026-04-26 00:51` — export latest tokens from Figma
+- `2026-04-26 00:51` — align vertical rhythm tokens with type scale
