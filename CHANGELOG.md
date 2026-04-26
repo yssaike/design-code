@@ -1964,3 +1964,4 @@
 - `2026-04-23 08:29` — bump body font size for readability
 - `2026-04-23 08:29` — loading animation tweak
 - `2026-04-26 00:51` — add token format checks to pre-commit
+- `2026-04-26 00:51` — update neutral palette to reflect new brand direction
