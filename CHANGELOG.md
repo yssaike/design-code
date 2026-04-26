@@ -1987,3 +1987,4 @@
 - `2026-04-26 00:51` — align vertical rhythm tokens with type scale
 - `2026-04-26 00:51` — sync brand tokens with latest identity refresh
 - `2026-04-26 00:51` — fix content spacing inside card variants
+- `2026-04-26 00:51` — tooltip design tweak
