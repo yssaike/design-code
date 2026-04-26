@@ -1988,3 +1988,4 @@
 - `2026-04-26 00:51` — sync brand tokens with latest identity refresh
 - `2026-04-26 00:51` — fix content spacing inside card variants
 - `2026-04-26 00:51` — tooltip design tweak
+- `2026-04-26 00:51` — resolve color bleed on adjacent components
