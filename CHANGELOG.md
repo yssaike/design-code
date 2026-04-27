@@ -2031,3 +2031,4 @@
 - `2026-04-27 08:11` — update focus-visible styles for interactive elements
 - `2026-04-27 08:11` — update monospace font token
 - `2026-04-27 08:11` — update link component underline style
+- `2026-04-27 08:11` — bump token schema version
