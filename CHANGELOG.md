@@ -2011,3 +2011,4 @@
 - `2026-04-27 08:11` — sync color tokens with latest Figma variables export
 - `2026-04-27 08:11` — fix inconsistent inner padding on form elements
 - `2026-04-27 08:11` — improve token validation script
+- `2026-04-27 08:11` — update token output format to CSS variables
