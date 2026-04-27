@@ -2027,3 +2027,4 @@
 - `2026-04-27 08:11` — correct misaligned icon in button component
 - `2026-04-27 08:11` — font family swap
 - `2026-04-27 08:11` — wire up new semantic elevation tokens
+- `2026-04-27 08:11` — active state refinement
