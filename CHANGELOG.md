@@ -2008,3 +2008,4 @@
 - `2026-04-27 08:11` — patch spacing regression from last merge
 - `2026-04-27 08:11` — fix clipped text in compact variant
 - `2026-04-27 08:11` — rename tokens to match new naming convention
+- `2026-04-27 08:11` — sync color tokens with latest Figma variables export
