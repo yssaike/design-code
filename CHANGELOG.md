@@ -2019,3 +2019,4 @@
 - `2026-04-27 08:11` — spacing token update
 - `2026-04-27 08:11` — navigation styling fix
 - `2026-04-27 08:11` — fix missing label on icon-only button
+- `2026-04-27 08:11` — update style dictionary config
