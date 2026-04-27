@@ -2009,3 +2009,4 @@
 - `2026-04-27 08:11` — fix clipped text in compact variant
 - `2026-04-27 08:11` — rename tokens to match new naming convention
 - `2026-04-27 08:11` — sync color tokens with latest Figma variables export
+- `2026-04-27 08:11` — fix inconsistent inner padding on form elements
