@@ -2021,3 +2021,4 @@
 - `2026-04-27 08:11` — fix missing label on icon-only button
 - `2026-04-27 08:11` — update style dictionary config
 - `2026-04-27 08:11` — remap semantic color tokens to new primitives
+- `2026-04-27 08:11` — tune reduced-motion fallback tokens
