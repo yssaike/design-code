@@ -2023,3 +2023,4 @@
 - `2026-04-27 08:11` — remap semantic color tokens to new primitives
 - `2026-04-27 08:11` — tune reduced-motion fallback tokens
 - `2026-04-27 08:11` — update stepper component tokens
+- `2026-04-27 08:11` — document token alias conventions
