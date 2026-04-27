@@ -2015,3 +2015,4 @@
 - `2026-04-27 08:11` — add missing spacing token for inline elements
 - `2026-04-27 08:11` — focus indicator update
 - `2026-04-27 08:11` — add missing dark mode token variants
+- `2026-04-27 08:11` — clean up generated output artifacts
