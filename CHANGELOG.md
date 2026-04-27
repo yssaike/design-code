@@ -2005,3 +2005,4 @@
 - `2026-04-26 00:51` — patch broken token reference in components
 - `2026-04-26 00:51` — correct elevation token on sticky header
 - `2026-04-27 08:11` — primary color update
+- `2026-04-27 08:11` — patch spacing regression from last merge
