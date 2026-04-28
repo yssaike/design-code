@@ -2041,3 +2041,4 @@
 - `2026-04-28 08:10` — shadow refinement
 - `2026-04-28 08:10` — add token decision rationale to comments
 - `2026-04-28 08:10` — remove jarring jump in accordion open
+- `2026-04-28 08:10` — fix missing border on selected state
