@@ -2052,3 +2052,4 @@
 - `2026-04-28 08:10` — aria attribute update
 - `2026-04-28 08:10` — screen reader label add
 - `2026-04-28 08:10` — brand color alignment
+- `2026-04-28 08:10` — add skip-to-content link tokens
