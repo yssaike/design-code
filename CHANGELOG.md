@@ -2050,3 +2050,4 @@
 - `2026-04-28 08:10` — align caption text tokens with spec
 - `2026-04-28 08:10` — dropdown menu update
 - `2026-04-28 08:10` — aria attribute update
+- `2026-04-28 08:10` — screen reader label add
