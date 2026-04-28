@@ -2038,3 +2038,4 @@
 - `2026-04-28 08:10` — margin alignment
 - `2026-04-28 08:10` — add high-visibility focus token for forced-colors mode
 - `2026-04-28 08:10` — letter spacing tweak
+- `2026-04-28 08:10` — shadow refinement
