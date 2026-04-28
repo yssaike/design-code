@@ -2046,3 +2046,4 @@
 - `2026-04-28 08:10` — fix broken token transformer
 - `2026-04-28 08:10` — update design token build script
 - `2026-04-28 08:10` — clean up form field error state styles
+- `2026-04-28 08:10` — update README with latest token structure
