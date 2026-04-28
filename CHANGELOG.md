@@ -2059,3 +2059,4 @@
 - `2026-04-28 08:10` — clean up leftover debug border
 - `2026-04-28 08:10` — audit and clean up unused type styles
 - `2026-04-28 08:10` — move hardcoded values to tokens
+- `2026-04-28 08:10` — fix missing italic weight token
