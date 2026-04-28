@@ -2055,3 +2055,4 @@
 - `2026-04-28 08:10` — add skip-to-content link tokens
 - `2026-04-28 08:10` — fix token export pipeline
 - `2026-04-28 08:10` — disabled state styling
+- `2026-04-28 08:10` — fix broken outline on focus for keyboard users
