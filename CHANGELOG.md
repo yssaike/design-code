@@ -2036,3 +2036,4 @@
 - `2026-04-28 08:10` — flatten nested token structure for clarity
 - `2026-04-28 08:10` — hover state fix
 - `2026-04-28 08:10` — margin alignment
+- `2026-04-28 08:10` — add high-visibility focus token for forced-colors mode
