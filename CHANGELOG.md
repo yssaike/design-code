@@ -2033,3 +2033,4 @@
 - `2026-04-27 08:11` — update link component underline style
 - `2026-04-27 08:11` — bump token schema version
 - `2026-04-28 08:10` — add responsive token breakpoints
+- `2026-04-28 08:10` — flatten nested token structure for clarity
