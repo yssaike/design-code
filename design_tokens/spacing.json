@@ -16,6 +16,6 @@
   "containerPadding": "24px",
   "cardPadding": "48px",
   "inputPadding": "24px",
-  "buttonPaddingX": "48px",
+  "buttonPaddingX": "12px",
   "buttonPaddingY": "32px"
 }
