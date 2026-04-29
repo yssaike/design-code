@@ -2073,3 +2073,4 @@
 - `2026-04-29 09:51` — fix responsive type scale breakpoints
 - `2026-04-29 09:51` — focus ring update
 - `2026-04-29 09:51` — alignment correction
+- `2026-04-29 09:51` — normalize exit animation duration tokens
