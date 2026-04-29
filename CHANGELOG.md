@@ -2069,3 +2069,4 @@
 - `2026-04-29 09:51` — border radius update
 - `2026-04-29 09:51` — fix output path in token build config
 - `2026-04-29 09:51` — tighten compact density spacing
+- `2026-04-29 09:51` — tidy up token category groupings
