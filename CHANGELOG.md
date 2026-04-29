@@ -2061,3 +2061,4 @@
 - `2026-04-28 08:10` — move hardcoded values to tokens
 - `2026-04-28 08:10` — fix missing italic weight token
 - `2026-04-29 09:50` — refine avatar sizing tokens
+- `2026-04-29 09:50` — audit spacing tokens for duplicate values
