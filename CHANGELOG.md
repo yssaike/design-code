@@ -2066,3 +2066,4 @@
 - `2026-04-29 09:50` — update Figma token sync config
 - `2026-04-29 09:50` — bump gray scale contrast levels
 - `2026-04-29 09:51` — update wordmark sizing token
+- `2026-04-29 09:51` — border radius update
