@@ -2063,3 +2063,4 @@
 - `2026-04-29 09:50` — refine avatar sizing tokens
 - `2026-04-29 09:50` — audit spacing tokens for duplicate values
 - `2026-04-29 09:50` — update page-level layout margins
+- `2026-04-29 09:50` — update Figma token sync config
