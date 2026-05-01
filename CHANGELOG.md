@@ -2128,3 +2128,4 @@
 - `2026-05-01 08:16` — animation duration update
 - `2026-05-01 08:16` — update logo sizing constraints
 - `2026-05-01 08:16` — deduplicate shadow definitions
+- `2026-05-01 08:16` — update progress bar color tokens
