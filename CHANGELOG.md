@@ -2119,3 +2119,4 @@
 - `2026-05-01 08:16` — consolidate duplicate component tokens
 - `2026-05-01 08:16` — update token documentation
 - `2026-05-01 08:16` — document dark mode token usage
+- `2026-05-01 08:16` — brand token change
