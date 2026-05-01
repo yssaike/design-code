@@ -2094,3 +2094,4 @@
 - `2026-04-30 23:48` — secondary palette refinement
 - `2026-04-30 23:48` — modal design update
 - `2026-04-30 23:48` — reconcile brand color with new creative direction
+- `2026-04-30 23:48` — z-index adjustment
