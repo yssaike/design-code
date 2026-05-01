@@ -2097,3 +2097,4 @@
 - `2026-04-30 23:48` — z-index adjustment
 - `2026-04-30 23:48` — add usage examples to component tokens
 - `2026-04-30 23:48` — tweak surface colors for better light-mode legibility
+- `2026-04-30 23:48` — semantic color token fix
