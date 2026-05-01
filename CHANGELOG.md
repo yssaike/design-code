@@ -2133,3 +2133,4 @@
 - `2026-05-01 08:16` — padding consistency fix
 - `2026-05-01 08:16` — add compact density token tier
 - `2026-05-01 08:16` — align info color with accessibility requirements
+- `2026-05-01 08:16` — accessibility contrast fix
