@@ -2079,3 +2079,4 @@
 - `2026-04-30 23:48` — fix inline alert padding
 - `2026-04-30 23:48` — normalize token key casing
 - `2026-04-30 23:48` — line height refinement
+- `2026-04-30 23:48` — refresh skeleton loader animation timing
