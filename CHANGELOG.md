@@ -2084,3 +2084,4 @@
 - `2026-04-30 23:48` — update display heading tokens
 - `2026-04-30 23:48` — tighten list item component spacing
 - `2026-04-30 23:48` — fix breadcrumb separator sizing
+- `2026-04-30 23:48` — layout spacing refinement
