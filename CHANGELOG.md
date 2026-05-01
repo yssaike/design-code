@@ -2111,3 +2111,4 @@
 - `2026-04-30 23:48` — surface color update
 - `2026-04-30 23:48` — smooth out tab transition timing
 - `2026-04-30 23:48` — dark mode color tweak
+- `2026-04-30 23:48` — refine easing curve on drawer slide
