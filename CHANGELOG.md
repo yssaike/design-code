@@ -2110,3 +2110,4 @@
 - `2026-04-30 23:48` — add high-contrast mode token set
 - `2026-04-30 23:48` — surface color update
 - `2026-04-30 23:48` — smooth out tab transition timing
+- `2026-04-30 23:48` — dark mode color tweak
