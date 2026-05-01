@@ -2115,3 +2115,4 @@
 - `2026-05-01 08:16` — refine table row hover state tokens
 - `2026-05-01 08:16` — align brand palette with updated guidelines
 - `2026-05-01 08:16` — sync token schema with style dictionary config
+- `2026-05-01 08:16` — resolve visual glitch in dark mode
