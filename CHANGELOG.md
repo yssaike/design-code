@@ -2107,3 +2107,4 @@
 - `2026-04-30 23:48` — scroll animation fix
 - `2026-04-30 23:48` — typography scale update
 - `2026-04-30 23:48` — patch off-by-one pixel alignment in grid
+- `2026-04-30 23:48` — add high-contrast mode token set
