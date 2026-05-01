@@ -2124,3 +2124,4 @@
 - `2026-05-01 08:16` — section spacing update
 - `2026-05-01 08:16` — fix off-brand blue in CTA components
 - `2026-05-01 08:16` — patch inconsistent error color across states
+- `2026-05-01 08:16` — adjust chip component padding
