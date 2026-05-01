@@ -2149,3 +2149,4 @@
 - `2026-05-01 08:16` — add focus token for custom components
 - `2026-05-01 08:16` — accent color adjustment
 - `2026-05-01 08:16` — color contrast fix
+- `2026-05-01 08:16` — update neutral palette to reflect new brand direction
