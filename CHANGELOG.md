@@ -2122,3 +2122,4 @@
 - `2026-05-01 08:16` — brand token change
 - `2026-05-01 08:16` — brand guideline sync
 - `2026-05-01 08:16` — section spacing update
+- `2026-05-01 08:16` — fix off-brand blue in CTA components
