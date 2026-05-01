@@ -2137,3 +2137,4 @@
 - `2026-05-01 08:16` — fix bounce effect on toast notification
 - `2026-05-01 08:16` — brand font update
 - `2026-05-01 08:16` — refresh brand gradient values
+- `2026-05-01 08:16` — body text improvement
