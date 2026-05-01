@@ -2138,3 +2138,4 @@
 - `2026-05-01 08:16` — brand font update
 - `2026-05-01 08:16` — refresh brand gradient values
 - `2026-05-01 08:16` — body text improvement
+- `2026-05-01 08:16` — bump body font size for readability
