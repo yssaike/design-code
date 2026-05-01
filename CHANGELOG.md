@@ -2127,3 +2127,4 @@
 - `2026-05-01 08:16` — adjust chip component padding
 - `2026-05-01 08:16` — animation duration update
 - `2026-05-01 08:16` — update logo sizing constraints
+- `2026-05-01 08:16` — deduplicate shadow definitions
