@@ -2076,3 +2076,4 @@
 - `2026-04-29 09:51` — normalize exit animation duration tokens
 - `2026-04-30 23:48` — patch low-contrast placeholder text
 - `2026-04-30 23:48` — fix ghost button hover color
+- `2026-04-30 23:48` — fix inline alert padding
