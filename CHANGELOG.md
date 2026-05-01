@@ -2089,3 +2089,4 @@
 - `2026-04-30 23:48` — split color tokens into primitives and semantics
 - `2026-04-30 23:48` — transition easing change
 - `2026-04-30 23:48` — checkbox style refresh
+- `2026-04-30 23:48` — ensure touch target meets 44px minimum
