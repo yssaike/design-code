@@ -2102,3 +2102,4 @@
 - `2026-04-30 23:48` — improve color contrast on disabled text
 - `2026-04-30 23:48` — color palette expansion
 - `2026-04-30 23:48` — brand spacing alignment
+- `2026-04-30 23:48` — keyboard navigation fix
