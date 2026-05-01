@@ -2147,3 +2147,4 @@
 - `2026-05-01 08:16` — reorganize token file structure
 - `2026-05-01 08:16` — resolve token alias circular references
 - `2026-05-01 08:16` — add focus token for custom components
+- `2026-05-01 08:16` — accent color adjustment
