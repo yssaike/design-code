@@ -2135,3 +2135,4 @@
 - `2026-05-01 08:16` — align info color with accessibility requirements
 - `2026-05-01 08:16` — accessibility contrast fix
 - `2026-05-01 08:16` — fix bounce effect on toast notification
+- `2026-05-01 08:16` — brand font update
