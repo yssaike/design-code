@@ -2144,3 +2144,4 @@
 - `2026-05-01 08:16` — loading animation tweak
 - `2026-05-01 08:16` — add entrance animation for modal overlay
 - `2026-05-01 08:16` — audit color pairs for WCAG AA compliance
+- `2026-05-01 08:16` — reorganize token file structure
