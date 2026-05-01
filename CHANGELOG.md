@@ -2101,3 +2101,4 @@
 - `2026-04-30 23:48` — patch inconsistent corner radius in form inputs
 - `2026-04-30 23:48` — improve color contrast on disabled text
 - `2026-04-30 23:48` — color palette expansion
+- `2026-04-30 23:48` — brand spacing alignment
