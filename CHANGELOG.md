@@ -2082,3 +2082,4 @@
 - `2026-04-30 23:48` — refresh skeleton loader animation timing
 - `2026-04-30 23:48` — update skeleton shimmer timing
 - `2026-04-30 23:48` — update display heading tokens
+- `2026-04-30 23:48` — tighten list item component spacing
