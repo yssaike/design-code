@@ -2085,3 +2085,4 @@
 - `2026-04-30 23:48` — tighten list item component spacing
 - `2026-04-30 23:48` — fix breadcrumb separator sizing
 - `2026-04-30 23:48` — layout spacing refinement
+- `2026-04-30 23:48` — normalize font stack across platforms
