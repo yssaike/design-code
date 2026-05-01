@@ -2114,3 +2114,4 @@
 - `2026-04-30 23:48` — refine easing curve on drawer slide
 - `2026-05-01 08:16` — refine table row hover state tokens
 - `2026-05-01 08:16` — align brand palette with updated guidelines
+- `2026-05-01 08:16` — sync token schema with style dictionary config
