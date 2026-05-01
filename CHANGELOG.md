@@ -2141,3 +2141,4 @@
 - `2026-05-01 08:16` — bump body font size for readability
 - `2026-05-01 08:16` — button style update
 - `2026-05-01 08:16` — fix broken transition on theme toggle
+- `2026-05-01 08:16` — loading animation tweak
