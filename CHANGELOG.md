@@ -2104,3 +2104,4 @@
 - `2026-04-30 23:48` — brand spacing alignment
 - `2026-04-30 23:48` — keyboard navigation fix
 - `2026-04-30 23:48` — badge design update
+- `2026-04-30 23:48` — scroll animation fix
