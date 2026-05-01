@@ -2130,3 +2130,4 @@
 - `2026-05-01 08:16` — deduplicate shadow definitions
 - `2026-05-01 08:16` — update progress bar color tokens
 - `2026-05-01 08:16` — refine popover arrow token values
+- `2026-05-01 08:16` — padding consistency fix
