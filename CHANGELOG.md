@@ -2112,3 +2112,4 @@
 - `2026-04-30 23:48` — smooth out tab transition timing
 - `2026-04-30 23:48` — dark mode color tweak
 - `2026-04-30 23:48` — refine easing curve on drawer slide
+- `2026-05-01 08:16` — refine table row hover state tokens
