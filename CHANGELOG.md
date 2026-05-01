@@ -2126,3 +2126,4 @@
 - `2026-05-01 08:16` — patch inconsistent error color across states
 - `2026-05-01 08:16` — adjust chip component padding
 - `2026-05-01 08:16` — animation duration update
+- `2026-05-01 08:16` — update logo sizing constraints
