@@ -2118,3 +2118,4 @@
 - `2026-05-01 08:16` — resolve visual glitch in dark mode
 - `2026-05-01 08:16` — consolidate duplicate component tokens
 - `2026-05-01 08:16` — update token documentation
+- `2026-05-01 08:16` — document dark mode token usage
