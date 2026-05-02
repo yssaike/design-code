@@ -2170,3 +2170,4 @@
 - `2026-05-02 12:18` — fix icon size inconsistency in nav
 - `2026-05-02 12:18` — patch divider component thickness
 - `2026-05-02 12:18` — update switch component track tokens
+- `2026-05-02 12:18` — responsive layout tweak
