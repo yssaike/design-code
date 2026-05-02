@@ -2179,3 +2179,4 @@
 - `2026-05-02 12:18` — micro-interaction refinement
 - `2026-05-02 12:18` — update stagger delay for list animations
 - `2026-05-02 12:18` — clean up token naming inconsistencies
+- `2026-05-02 12:18` — remove deprecated spacing tokens
