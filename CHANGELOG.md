@@ -2150,3 +2150,4 @@
 - `2026-05-01 08:16` — accent color adjustment
 - `2026-05-01 08:16` — color contrast fix
 - `2026-05-01 08:16` — update neutral palette to reflect new brand direction
+- `2026-05-02 12:18` — adjust alpha values on overlay tokens
