@@ -2163,3 +2163,4 @@
 - `2026-05-02 12:18` — normalize spacing scale to 8pt grid
 - `2026-05-02 12:18` — fix content spacing inside card variants
 - `2026-05-02 12:18` — align vertical rhythm tokens with type scale
+- `2026-05-02 12:18` — input field refinement
