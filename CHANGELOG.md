@@ -2190,3 +2190,4 @@
 - `2026-05-02 12:18` — patch broken token reference in components
 - `2026-05-02 12:18` — primary color update
 - `2026-05-02 12:18` — remap semantic color tokens to new primitives
+- `2026-05-02 12:18` — sync color tokens with latest Figma variables export
