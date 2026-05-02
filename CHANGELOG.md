@@ -2159,3 +2159,4 @@
 - `2026-05-02 12:18` — heading hierarchy fix
 - `2026-05-02 12:18` — tighten heading line height for large screens
 - `2026-05-02 12:18` — add fluid type scale tokens
+- `2026-05-02 12:18` — grid gap adjustment
