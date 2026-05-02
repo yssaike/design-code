@@ -2160,3 +2160,4 @@
 - `2026-05-02 12:18` — tighten heading line height for large screens
 - `2026-05-02 12:18` — add fluid type scale tokens
 - `2026-05-02 12:18` — grid gap adjustment
+- `2026-05-02 12:18` — normalize spacing scale to 8pt grid
