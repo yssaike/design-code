@@ -2167,3 +2167,4 @@
 - `2026-05-02 12:18` — card component update
 - `2026-05-02 12:18` — tooltip design tweak
 - `2026-05-02 12:18` — tab component refinement
+- `2026-05-02 12:18` — fix icon size inconsistency in nav
