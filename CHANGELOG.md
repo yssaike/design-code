@@ -2188,3 +2188,4 @@
 - `2026-05-02 12:18` — export latest tokens from Figma
 - `2026-05-02 12:18` — add new surface token for overlay backgrounds
 - `2026-05-02 12:18` — patch broken token reference in components
+- `2026-05-02 12:18` — primary color update
