@@ -2183,3 +2183,4 @@
 - `2026-05-02 12:18` — add token format checks to pre-commit
 - `2026-05-02 12:18` — document new color semantics
 - `2026-05-02 12:18` — update changelog format
+- `2026-05-02 12:18` — add inline docs to spacing scale
