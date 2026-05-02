@@ -2155,3 +2155,4 @@
 - `2026-05-02 12:18` — update background color for elevated surfaces
 - `2026-05-02 12:18` — sync brand tokens with latest identity refresh
 - `2026-05-02 12:18` — pull latest brand variables from design system
+- `2026-05-02 12:18` — font weight adjustment
