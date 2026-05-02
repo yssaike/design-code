@@ -2191,3 +2191,4 @@
 - `2026-05-02 12:18` — primary color update
 - `2026-05-02 12:18` — remap semantic color tokens to new primitives
 - `2026-05-02 12:18` — sync color tokens with latest Figma variables export
+- `2026-05-02 12:18` — font family swap
