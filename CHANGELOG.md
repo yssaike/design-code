@@ -2195,3 +2195,4 @@
 - `2026-05-02 12:18` — update monospace font token
 - `2026-05-02 12:18` — spacing token update
 - `2026-05-02 12:18` — fix inconsistent inner padding on form elements
+- `2026-05-02 12:18` — add missing spacing token for inline elements
