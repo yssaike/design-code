@@ -2229,3 +2229,4 @@
 - `2026-05-04 08:11` — shadow refinement
 - `2026-05-04 08:11` — fix broken outline on focus for keyboard users
 - `2026-05-04 08:11` — clean up leftover debug border
+- `2026-05-04 08:11` — fix missing border on selected state
