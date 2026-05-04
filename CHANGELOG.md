@@ -2205,3 +2205,4 @@
 - `2026-05-03 18:28` — fix clipped text in compact variant
 - `2026-05-03 18:28` — tune reduced-motion fallback tokens
 - `2026-05-03 18:28` — focus indicator update
+- `2026-05-03 18:28` — fix missing label on icon-only button
