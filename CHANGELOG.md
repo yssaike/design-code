@@ -2222,3 +2222,4 @@
 - `2026-05-04 08:11` — align caption text tokens with spec
 - `2026-05-04 08:11` — fix missing italic weight token
 - `2026-05-04 08:11` — margin alignment
+- `2026-05-04 08:11` — dropdown menu update
