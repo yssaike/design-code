@@ -2216,3 +2216,4 @@
 - `2026-05-04 08:11` — add missing dark mode token variants
 - `2026-05-04 08:11` — update token output format to CSS variables
 - `2026-05-04 08:11` — wire up new semantic elevation tokens
+- `2026-05-04 08:11` — brand color alignment
