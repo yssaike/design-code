@@ -2201,3 +2201,4 @@
 - `2026-05-03 18:28` — update stepper component tokens
 - `2026-05-03 18:28` — active state refinement
 - `2026-05-03 18:28` — correct misaligned icon in button component
+- `2026-05-03 18:28` — patch spacing regression from last merge
