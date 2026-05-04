@@ -2224,3 +2224,4 @@
 - `2026-05-04 08:11` — margin alignment
 - `2026-05-04 08:11` — dropdown menu update
 - `2026-05-04 08:11` — clean up form field error state styles
+- `2026-05-04 08:11` — hover state fix
