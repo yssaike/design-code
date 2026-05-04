@@ -2226,3 +2226,4 @@
 - `2026-05-04 08:11` — clean up form field error state styles
 - `2026-05-04 08:11` — hover state fix
 - `2026-05-04 08:11` — disabled state styling
+- `2026-05-04 08:11` — shadow refinement
