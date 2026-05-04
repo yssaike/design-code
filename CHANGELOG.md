@@ -2211,3 +2211,4 @@
 - `2026-05-03 18:28` — improve token validation script
 - `2026-05-04 08:11` — bump token schema version
 - `2026-05-04 08:11` — clean up generated output artifacts
+- `2026-05-04 08:11` — update style dictionary config
