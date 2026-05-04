@@ -2203,3 +2203,4 @@
 - `2026-05-03 18:28` — correct misaligned icon in button component
 - `2026-05-03 18:28` — patch spacing regression from last merge
 - `2026-05-03 18:28` — fix clipped text in compact variant
+- `2026-05-03 18:28` — tune reduced-motion fallback tokens
