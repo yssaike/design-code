@@ -2218,3 +2218,4 @@
 - `2026-05-04 08:11` — wire up new semantic elevation tokens
 - `2026-05-04 08:11` — brand color alignment
 - `2026-05-04 08:11` — letter spacing tweak
+- `2026-05-04 08:11` — audit and clean up unused type styles
