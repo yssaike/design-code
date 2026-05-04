@@ -2199,3 +2199,4 @@
 - `2026-05-02 12:18` — navigation styling fix
 - `2026-05-03 18:28` — update link component underline style
 - `2026-05-03 18:28` — update stepper component tokens
+- `2026-05-03 18:28` — active state refinement
