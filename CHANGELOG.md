@@ -2209,3 +2209,4 @@
 - `2026-05-03 18:28` — update focus-visible styles for interactive elements
 - `2026-05-03 18:28` — rename tokens to match new naming convention
 - `2026-05-03 18:28` — improve token validation script
+- `2026-05-04 08:11` — bump token schema version
