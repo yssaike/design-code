@@ -2214,3 +2214,4 @@
 - `2026-05-04 08:11` — update style dictionary config
 - `2026-05-04 08:11` — document token alias conventions
 - `2026-05-04 08:11` — add missing dark mode token variants
+- `2026-05-04 08:11` — update token output format to CSS variables
