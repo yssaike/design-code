@@ -2221,3 +2221,4 @@
 - `2026-05-04 08:11` — audit and clean up unused type styles
 - `2026-05-04 08:11` — align caption text tokens with spec
 - `2026-05-04 08:11` — fix missing italic weight token
+- `2026-05-04 08:11` — margin alignment
