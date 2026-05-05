@@ -2275,3 +2275,4 @@
 - `2026-05-05 08:14` — modal design update
 - `2026-05-05 08:14` — checkbox style refresh
 - `2026-05-05 08:14` — badge design update
+- `2026-05-05 08:14` — refresh skeleton loader animation timing
