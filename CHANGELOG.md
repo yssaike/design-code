@@ -2262,3 +2262,4 @@
 - `2026-05-05 08:14` — dark mode color tweak
 - `2026-05-05 08:14` — color palette expansion
 - `2026-05-05 08:14` — surface color update
+- `2026-05-05 08:14` — semantic color token fix
