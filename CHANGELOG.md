@@ -2263,3 +2263,4 @@
 - `2026-05-05 08:14` — color palette expansion
 - `2026-05-05 08:14` — surface color update
 - `2026-05-05 08:14` — semantic color token fix
+- `2026-05-05 08:14` — tweak surface colors for better light-mode legibility
