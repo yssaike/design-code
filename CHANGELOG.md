@@ -2238,3 +2238,4 @@
 - `2026-05-04 08:11` — flatten nested token structure for clarity
 - `2026-05-05 08:13` — move hardcoded values to tokens
 - `2026-05-05 08:13` — extract repeated values into shared base tokens
+- `2026-05-05 08:13` — update design token build script
