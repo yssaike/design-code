@@ -2266,3 +2266,4 @@
 - `2026-05-05 08:14` — tweak surface colors for better light-mode legibility
 - `2026-05-05 08:14` — brand spacing alignment
 - `2026-05-05 08:14` — brand asset refresh
+- `2026-05-05 08:14` — reconcile brand color with new creative direction
