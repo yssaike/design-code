@@ -2256,3 +2256,4 @@
 - `2026-05-05 08:14` — alignment correction
 - `2026-05-05 08:14` — normalize exit animation duration tokens
 - `2026-05-05 08:14` — tidy up token category groupings
+- `2026-05-05 08:14` — update Figma token sync config
