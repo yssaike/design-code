@@ -2244,3 +2244,4 @@
 - `2026-05-05 08:13` — update README with latest token structure
 - `2026-05-05 08:13` — add token decision rationale to comments
 - `2026-05-05 08:13` — add responsive token breakpoints
+- `2026-05-05 08:13` — bump gray scale contrast levels
