@@ -2272,3 +2272,4 @@
 - `2026-05-05 08:14` — normalize font stack across platforms
 - `2026-05-05 08:14` — update display heading tokens
 - `2026-05-05 08:14` — layout spacing refinement
+- `2026-05-05 08:14` — modal design update
