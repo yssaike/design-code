@@ -2237,3 +2237,4 @@
 - `2026-05-04 08:11` — add high-visibility focus token for forced-colors mode
 - `2026-05-04 08:11` — flatten nested token structure for clarity
 - `2026-05-05 08:13` — move hardcoded values to tokens
+- `2026-05-05 08:13` — extract repeated values into shared base tokens
