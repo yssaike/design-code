@@ -2258,3 +2258,4 @@
 - `2026-05-05 08:14` — tidy up token category groupings
 - `2026-05-05 08:14` — update Figma token sync config
 - `2026-05-05 08:14` — fix output path in token build config
+- `2026-05-05 08:14` — secondary palette refinement
