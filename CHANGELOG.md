@@ -2260,3 +2260,4 @@
 - `2026-05-05 08:14` — fix output path in token build config
 - `2026-05-05 08:14` — secondary palette refinement
 - `2026-05-05 08:14` — dark mode color tweak
+- `2026-05-05 08:14` — color palette expansion
