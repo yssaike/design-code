@@ -2242,3 +2242,4 @@
 - `2026-05-05 08:13` — fix token export pipeline
 - `2026-05-05 08:13` — fix broken token transformer
 - `2026-05-05 08:13` — update README with latest token structure
+- `2026-05-05 08:13` — add token decision rationale to comments
