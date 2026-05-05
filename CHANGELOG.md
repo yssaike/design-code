@@ -2278,3 +2278,4 @@
 - `2026-05-05 08:14` — refresh skeleton loader animation timing
 - `2026-05-05 08:14` — fix inline alert padding
 - `2026-05-05 08:14` — tighten list item component spacing
+- `2026-05-05 08:14` — fix breadcrumb separator sizing
