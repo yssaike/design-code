@@ -2239,3 +2239,4 @@
 - `2026-05-05 08:13` — move hardcoded values to tokens
 - `2026-05-05 08:13` — extract repeated values into shared base tokens
 - `2026-05-05 08:13` — update design token build script
+- `2026-05-05 08:13` — fix token export pipeline
