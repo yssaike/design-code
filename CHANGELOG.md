@@ -2240,3 +2240,4 @@
 - `2026-05-05 08:13` — extract repeated values into shared base tokens
 - `2026-05-05 08:13` — update design token build script
 - `2026-05-05 08:13` — fix token export pipeline
+- `2026-05-05 08:13` — fix broken token transformer
