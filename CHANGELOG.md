@@ -2253,3 +2253,4 @@
 - `2026-05-05 08:14` — refine avatar sizing tokens
 - `2026-05-05 08:14` — focus ring update
 - `2026-05-05 08:14` — border radius update
+- `2026-05-05 08:14` — alignment correction
