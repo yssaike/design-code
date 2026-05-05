@@ -2250,3 +2250,4 @@
 - `2026-05-05 08:13` — audit spacing tokens for duplicate values
 - `2026-05-05 08:13` — tighten compact density spacing
 - `2026-05-05 08:13` — update page-level layout margins
+- `2026-05-05 08:14` — refine avatar sizing tokens
