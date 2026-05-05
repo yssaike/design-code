@@ -2270,3 +2270,4 @@
 - `2026-05-05 08:14` — typography scale update
 - `2026-05-05 08:14` — line height refinement
 - `2026-05-05 08:14` — normalize font stack across platforms
+- `2026-05-05 08:14` — update display heading tokens
