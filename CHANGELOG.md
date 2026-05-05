@@ -2268,3 +2268,4 @@
 - `2026-05-05 08:14` — brand asset refresh
 - `2026-05-05 08:14` — reconcile brand color with new creative direction
 - `2026-05-05 08:14` — typography scale update
+- `2026-05-05 08:14` — line height refinement
