@@ -2302,3 +2302,4 @@
 - `2026-05-06 08:13` — fix off-brand blue in CTA components
 - `2026-05-06 08:13` — patch inconsistent error color across states
 - `2026-05-06 08:13` — align info color with accessibility requirements
+- `2026-05-06 08:13` — brand token change
