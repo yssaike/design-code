@@ -2299,3 +2299,4 @@
 - `2026-05-06 08:13` — accent color adjustment
 - `2026-05-06 08:13` — color contrast fix
 - `2026-05-06 08:13` — update neutral palette to reflect new brand direction
+- `2026-05-06 08:13` — fix off-brand blue in CTA components
