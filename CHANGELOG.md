@@ -2310,3 +2310,4 @@
 - `2026-05-06 08:13` — refresh brand gradient values
 - `2026-05-06 08:13` — body text improvement
 - `2026-05-06 08:13` — bump body font size for readability
+- `2026-05-06 08:13` — padding consistency fix
