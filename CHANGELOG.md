@@ -2295,3 +2295,4 @@
 - `2026-05-06 08:13` — split color tokens into primitives and semantics
 - `2026-05-06 08:13` — normalize token key casing
 - `2026-05-06 08:13` — add usage examples to component tokens
+- `2026-05-06 08:13` — add high-contrast mode token set
