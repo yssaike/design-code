@@ -2304,3 +2304,4 @@
 - `2026-05-06 08:13` — align info color with accessibility requirements
 - `2026-05-06 08:13` — brand token change
 - `2026-05-06 08:13` — brand font update
+- `2026-05-06 08:13` — brand guideline sync
