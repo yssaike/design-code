@@ -2280,3 +2280,4 @@
 - `2026-05-05 08:14` — tighten list item component spacing
 - `2026-05-05 08:14` — fix breadcrumb separator sizing
 - `2026-05-06 08:13` — z-index adjustment
+- `2026-05-06 08:13` — fix ghost button hover color
