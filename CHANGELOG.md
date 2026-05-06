@@ -2284,3 +2284,4 @@
 - `2026-05-06 08:13` — patch off-by-one pixel alignment in grid
 - `2026-05-06 08:13` — patch inconsistent corner radius in form inputs
 - `2026-05-06 08:13` — transition easing change
+- `2026-05-06 08:13` — scroll animation fix
