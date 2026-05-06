@@ -2290,3 +2290,4 @@
 - `2026-05-06 08:13` — update skeleton shimmer timing
 - `2026-05-06 08:13` — keyboard navigation fix
 - `2026-05-06 08:13` — improve color contrast on disabled text
+- `2026-05-06 08:13` — ensure touch target meets 44px minimum
