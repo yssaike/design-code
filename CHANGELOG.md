@@ -2333,3 +2333,4 @@
 - `2026-05-07 08:00` — resolve token alias circular references
 - `2026-05-07 08:00` — sync token schema with style dictionary config
 - `2026-05-07 08:00` — add compact density token tier
+- `2026-05-07 08:00` — add focus token for custom components
