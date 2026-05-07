@@ -2336,3 +2336,4 @@
 - `2026-05-07 08:00` — add focus token for custom components
 - `2026-05-07 08:00` — primary color update
 - `2026-05-07 08:00` — remap semantic color tokens to new primitives
+- `2026-05-07 08:00` — sync color tokens with latest Figma variables export
