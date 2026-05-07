@@ -2327,3 +2327,4 @@
 - `2026-05-07 08:00` — audit color pairs for WCAG AA compliance
 - `2026-05-07 08:00` — reorganize token file structure
 - `2026-05-07 08:00` — consolidate duplicate component tokens
+- `2026-05-07 08:00` — deduplicate shadow definitions
