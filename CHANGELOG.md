@@ -2321,3 +2321,4 @@
 - `2026-05-07 08:00` — fix broken transition on theme toggle
 - `2026-05-07 08:00` — animation duration update
 - `2026-05-07 08:00` — loading animation tweak
+- `2026-05-07 08:00` — add entrance animation for modal overlay
