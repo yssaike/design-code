@@ -2360,3 +2360,4 @@
 - `2026-05-08 08:15` — tooltip design tweak
 - `2026-05-08 08:15` — navigation styling fix
 - `2026-05-08 08:15` — tab component refinement
+- `2026-05-08 08:15` — fix icon size inconsistency in nav
