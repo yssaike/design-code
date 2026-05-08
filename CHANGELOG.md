@@ -2357,3 +2357,4 @@
 - `2026-05-08 08:15` — align vertical rhythm tokens with type scale
 - `2026-05-08 08:15` — input field refinement
 - `2026-05-08 08:15` — card component update
+- `2026-05-08 08:15` — tooltip design tweak
