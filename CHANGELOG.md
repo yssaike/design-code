@@ -2368,3 +2368,4 @@
 - `2026-05-08 08:15` — visual regression fix
 - `2026-05-08 08:15` — patch stacking context issue in overlay
 - `2026-05-08 08:15` — resolve color bleed on adjacent components
+- `2026-05-08 08:15` — correct elevation token on sticky header
