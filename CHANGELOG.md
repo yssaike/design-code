@@ -2343,3 +2343,4 @@
 - `2026-05-07 08:00` — sync brand tokens with latest identity refresh
 - `2026-05-07 08:00` — pull latest brand variables from design system
 - `2026-05-07 08:00` — font weight adjustment
+- `2026-05-08 08:15` — heading hierarchy fix
