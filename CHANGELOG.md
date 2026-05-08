@@ -2350,3 +2350,4 @@
 - `2026-05-08 08:15` — add fluid type scale tokens
 - `2026-05-08 08:15` — spacing token update
 - `2026-05-08 08:15` — grid gap adjustment
+- `2026-05-08 08:15` — normalize spacing scale to 8pt grid
