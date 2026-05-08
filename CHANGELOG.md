@@ -2382,3 +2382,4 @@
 - `2026-05-08 08:15` — add new surface token for overlay backgrounds
 - `2026-05-08 08:15` — patch broken token reference in components
 - `2026-05-08 08:15` — update link component underline style
+- `2026-05-08 08:15` — update stepper component tokens
