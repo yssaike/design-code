@@ -2370,3 +2370,4 @@
 - `2026-05-08 08:15` — resolve color bleed on adjacent components
 - `2026-05-08 08:15` — correct elevation token on sticky header
 - `2026-05-08 08:15` — micro-interaction refinement
+- `2026-05-08 08:15` — update stagger delay for list animations
