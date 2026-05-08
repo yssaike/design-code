@@ -2386,3 +2386,4 @@
 - `2026-05-08 08:15` — active state refinement
 - `2026-05-08 08:15` — correct misaligned icon in button component
 - `2026-05-08 08:15` — patch spacing regression from last merge
+- `2026-05-08 08:15` — fix clipped text in compact variant
