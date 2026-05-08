@@ -2345,3 +2345,4 @@
 - `2026-05-07 08:00` — font weight adjustment
 - `2026-05-08 08:15` — heading hierarchy fix
 - `2026-05-08 08:15` — font family swap
+- `2026-05-08 08:15` — tighten heading line height for large screens
