@@ -2379,3 +2379,4 @@
 - `2026-05-08 08:15` — add inline docs to spacing scale
 - `2026-05-08 08:15` — add migration notes for renamed tokens
 - `2026-05-08 08:15` — export latest tokens from Figma
+- `2026-05-08 08:15` — add new surface token for overlay backgrounds
