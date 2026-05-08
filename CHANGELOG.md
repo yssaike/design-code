@@ -2362,3 +2362,4 @@
 - `2026-05-08 08:15` — tab component refinement
 - `2026-05-08 08:15` — fix icon size inconsistency in nav
 - `2026-05-08 08:15` — patch divider component thickness
+- `2026-05-08 08:15` — update switch component track tokens
