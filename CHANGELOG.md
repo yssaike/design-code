@@ -2388,3 +2388,4 @@
 - `2026-05-08 08:15` — patch spacing regression from last merge
 - `2026-05-08 08:15` — fix clipped text in compact variant
 - `2026-05-08 08:15` — tune reduced-motion fallback tokens
+- `2026-05-08 08:15` — focus indicator update
