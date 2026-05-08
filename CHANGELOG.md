@@ -2377,3 +2377,4 @@
 - `2026-05-08 08:15` — document new color semantics
 - `2026-05-08 08:15` — update changelog format
 - `2026-05-08 08:15` — add inline docs to spacing scale
+- `2026-05-08 08:15` — add migration notes for renamed tokens
