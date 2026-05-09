@@ -2395,3 +2395,4 @@
 - `2026-05-09 14:04` — improve token validation script
 - `2026-05-09 14:04` — brand color alignment
 - `2026-05-09 14:04` — letter spacing tweak
+- `2026-05-09 14:04` — audit and clean up unused type styles
