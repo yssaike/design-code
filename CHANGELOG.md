@@ -2396,3 +2396,4 @@
 - `2026-05-09 14:04` — brand color alignment
 - `2026-05-09 14:04` — letter spacing tweak
 - `2026-05-09 14:04` — audit and clean up unused type styles
+- `2026-05-09 14:04` — align caption text tokens with spec
