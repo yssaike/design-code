@@ -2390,3 +2390,4 @@
 - `2026-05-08 08:15` — tune reduced-motion fallback tokens
 - `2026-05-08 08:15` — focus indicator update
 - `2026-05-08 08:15` — fix missing label on icon-only button
+- `2026-05-09 14:04` — update focus-visible styles for interactive elements
