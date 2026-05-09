@@ -2394,3 +2394,4 @@
 - `2026-05-09 14:04` — rename tokens to match new naming convention
 - `2026-05-09 14:04` — improve token validation script
 - `2026-05-09 14:04` — brand color alignment
+- `2026-05-09 14:04` — letter spacing tweak
