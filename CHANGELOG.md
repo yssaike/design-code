@@ -2409,3 +2409,4 @@
 - `2026-05-10 21:30` — fix missing border on selected state
 - `2026-05-10 21:30` — remove jarring jump in accordion open
 - `2026-05-10 21:30` — screen reader label add
+- `2026-05-10 21:30` — aria attribute update
