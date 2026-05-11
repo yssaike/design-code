@@ -2434,3 +2434,4 @@
 - `2026-05-11 08:16` — typography scale update
 - `2026-05-11 08:16` — line height refinement
 - `2026-05-11 08:16` — normalize font stack across platforms
+- `2026-05-11 08:16` — fix responsive type scale breakpoints
