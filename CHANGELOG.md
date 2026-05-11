@@ -2433,3 +2433,4 @@
 - `2026-05-11 08:16` — reconcile brand color with new creative direction
 - `2026-05-11 08:16` — typography scale update
 - `2026-05-11 08:16` — line height refinement
+- `2026-05-11 08:16` — normalize font stack across platforms
