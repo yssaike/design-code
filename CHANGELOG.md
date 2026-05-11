@@ -2416,3 +2416,4 @@
 - `2026-05-10 21:30` — bump token schema version
 - `2026-05-10 21:30` — clean up generated output artifacts
 - `2026-05-10 21:30` — update style dictionary config
+- `2026-05-10 21:30` — document token alias conventions
