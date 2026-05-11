@@ -2451,3 +2451,4 @@
 - `2026-05-11 08:17` — focus ring update
 - `2026-05-11 08:17` — border radius update
 - `2026-05-11 08:17` — alignment correction
+- `2026-05-11 08:17` — normalize exit animation duration tokens
