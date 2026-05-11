@@ -2407,3 +2407,4 @@
 - `2026-05-10 21:30` — fix broken outline on focus for keyboard users
 - `2026-05-10 21:30` — clean up leftover debug border
 - `2026-05-10 21:30` — fix missing border on selected state
+- `2026-05-10 21:30` — remove jarring jump in accordion open
