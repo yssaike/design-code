@@ -2428,3 +2428,4 @@
 - `2026-05-10 21:30` — tweak surface colors for better light-mode legibility
 - `2026-05-10 21:30` — bump gray scale contrast levels
 - `2026-05-10 21:30` — brand spacing alignment
+- `2026-05-10 21:30` — brand asset refresh
