@@ -2419,3 +2419,4 @@
 - `2026-05-10 21:30` — document token alias conventions
 - `2026-05-10 21:30` — add missing dark mode token variants
 - `2026-05-10 21:30` — update token output format to CSS variables
+- `2026-05-10 21:30` — wire up new semantic elevation tokens
