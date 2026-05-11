@@ -2450,3 +2450,4 @@
 - `2026-05-11 08:17` — fix breadcrumb separator sizing
 - `2026-05-11 08:17` — focus ring update
 - `2026-05-11 08:17` — border radius update
+- `2026-05-11 08:17` — alignment correction
