@@ -2442,3 +2442,4 @@
 - `2026-05-11 08:17` — update page-level layout margins
 - `2026-05-11 08:17` — modal design update
 - `2026-05-11 08:17` — checkbox style refresh
+- `2026-05-11 08:17` — badge design update
