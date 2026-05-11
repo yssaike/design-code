@@ -2448,3 +2448,4 @@
 - `2026-05-11 08:17` — fix inline alert padding
 - `2026-05-11 08:17` — tighten list item component spacing
 - `2026-05-11 08:17` — fix breadcrumb separator sizing
+- `2026-05-11 08:17` — focus ring update
