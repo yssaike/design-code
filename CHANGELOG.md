@@ -2411,3 +2411,4 @@
 - `2026-05-10 21:30` — screen reader label add
 - `2026-05-10 21:30` — aria attribute update
 - `2026-05-10 21:30` — add skip-to-content link tokens
+- `2026-05-10 21:30` — add high-visibility focus token for forced-colors mode
