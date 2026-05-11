@@ -2422,3 +2422,4 @@
 - `2026-05-10 21:30` — wire up new semantic elevation tokens
 - `2026-05-10 21:30` — secondary palette refinement
 - `2026-05-10 21:30` — dark mode color tweak
+- `2026-05-10 21:30` — color palette expansion
