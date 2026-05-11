@@ -2440,3 +2440,4 @@
 - `2026-05-11 08:17` — audit spacing tokens for duplicate values
 - `2026-05-11 08:17` — tighten compact density spacing
 - `2026-05-11 08:17` — update page-level layout margins
+- `2026-05-11 08:17` — modal design update
