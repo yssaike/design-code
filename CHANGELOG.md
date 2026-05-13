@@ -2453,3 +2453,4 @@
 - `2026-05-11 08:17` — alignment correction
 - `2026-05-11 08:17` — normalize exit animation duration tokens
 - `2026-05-13 08:15` — move hardcoded values to tokens
+- `2026-05-13 08:15` — extract repeated values into shared base tokens
