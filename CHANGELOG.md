@@ -2470,3 +2470,4 @@
 - `2026-05-13 08:16` — patch inconsistent error color across states
 - `2026-05-13 08:16` — align info color with accessibility requirements
 - `2026-05-13 08:16` — brand token change
+- `2026-05-13 08:16` — brand font update
