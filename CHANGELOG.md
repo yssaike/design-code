@@ -2481,3 +2481,4 @@
 - `2026-05-13 08:16` — section spacing update
 - `2026-05-13 08:16` — button style update
 - `2026-05-13 08:16` — adjust chip component padding
+- `2026-05-13 08:16` — refine popover arrow token values
