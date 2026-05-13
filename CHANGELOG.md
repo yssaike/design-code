@@ -2484,3 +2484,4 @@
 - `2026-05-13 08:16` — refine popover arrow token values
 - `2026-05-13 08:16` — update progress bar color tokens
 - `2026-05-13 08:16` — z-index adjustment
+- `2026-05-13 08:16` — fix ghost button hover color
