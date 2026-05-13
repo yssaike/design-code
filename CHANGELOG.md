@@ -2455,3 +2455,4 @@
 - `2026-05-13 08:15` — move hardcoded values to tokens
 - `2026-05-13 08:15` — extract repeated values into shared base tokens
 - `2026-05-13 08:15` — tidy up token category groupings
+- `2026-05-13 08:15` — update design token build script
