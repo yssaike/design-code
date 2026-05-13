@@ -2485,3 +2485,4 @@
 - `2026-05-13 08:16` — update progress bar color tokens
 - `2026-05-13 08:16` — z-index adjustment
 - `2026-05-13 08:16` — fix ghost button hover color
+- `2026-05-13 08:16` — patch off-by-one pixel alignment in grid
