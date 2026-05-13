@@ -2465,3 +2465,4 @@
 - `2026-05-13 08:16` — add responsive token breakpoints
 - `2026-05-13 08:16` — accent color adjustment
 - `2026-05-13 08:16` — color contrast fix
+- `2026-05-13 08:16` — update neutral palette to reflect new brand direction
