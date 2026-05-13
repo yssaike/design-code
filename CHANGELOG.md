@@ -2461,3 +2461,4 @@
 - `2026-05-13 08:15` — fix broken token transformer
 - `2026-05-13 08:16` — fix output path in token build config
 - `2026-05-13 08:16` — update README with latest token structure
+- `2026-05-13 08:16` — add token decision rationale to comments
