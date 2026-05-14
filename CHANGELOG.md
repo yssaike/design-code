@@ -2496,3 +2496,4 @@
 - `2026-05-14 08:15` — improve color contrast on disabled text
 - `2026-05-14 08:15` — ensure touch target meets 44px minimum
 - `2026-05-14 08:15` — patch low-contrast placeholder text
+- `2026-05-14 08:15` — split color tokens into primitives and semantics
