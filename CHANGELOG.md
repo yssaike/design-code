@@ -2492,3 +2492,4 @@
 - `2026-05-14 08:15` — smooth out tab transition timing
 - `2026-05-14 08:15` — refine easing curve on drawer slide
 - `2026-05-14 08:15` — update skeleton shimmer timing
+- `2026-05-14 08:15` — keyboard navigation fix
