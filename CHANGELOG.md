@@ -2512,3 +2512,4 @@
 - `2026-05-14 08:15` — refine table row hover state tokens
 - `2026-05-14 08:15` — resolve visual glitch in dark mode
 - `2026-05-14 08:15` — fix broken transition on theme toggle
+- `2026-05-14 08:16` — animation duration update
