@@ -2516,3 +2516,4 @@
 - `2026-05-14 08:16` — loading animation tweak
 - `2026-05-14 08:16` — add entrance animation for modal overlay
 - `2026-05-14 08:16` — fix bounce effect on toast notification
+- `2026-05-14 08:16` — accessibility contrast fix
