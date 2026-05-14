@@ -2489,3 +2489,4 @@
 - `2026-05-13 08:16` — patch inconsistent corner radius in form inputs
 - `2026-05-13 08:16` — transition easing change
 - `2026-05-13 08:16` — scroll animation fix
+- `2026-05-14 08:15` — smooth out tab transition timing
