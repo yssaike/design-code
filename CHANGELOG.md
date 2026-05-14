@@ -2501,3 +2501,4 @@
 - `2026-05-14 08:15` — add usage examples to component tokens
 - `2026-05-14 08:15` — add high-contrast mode token set
 - `2026-05-14 08:15` — primary color update
+- `2026-05-14 08:15` — remap semantic color tokens to new primitives
