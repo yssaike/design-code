@@ -2527,3 +2527,4 @@
 - `2026-05-15 08:15` — sync token schema with style dictionary config
 - `2026-05-15 08:15` — add compact density token tier
 - `2026-05-15 08:15` — add focus token for custom components
+- `2026-05-15 08:15` — heading hierarchy fix
