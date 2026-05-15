@@ -2518,3 +2518,4 @@
 - `2026-05-14 08:16` — fix bounce effect on toast notification
 - `2026-05-14 08:16` — accessibility contrast fix
 - `2026-05-15 08:15` — audit color pairs for WCAG AA compliance
+- `2026-05-15 08:15` — reorganize token file structure
