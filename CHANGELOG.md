@@ -2545,3 +2545,4 @@
 - `2026-05-15 08:15` — navigation styling fix
 - `2026-05-15 08:15` — tab component refinement
 - `2026-05-15 08:15` — update link component underline style
+- `2026-05-15 08:15` — fix icon size inconsistency in nav
