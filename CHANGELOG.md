@@ -2524,3 +2524,4 @@
 - `2026-05-15 08:15` — update token documentation
 - `2026-05-15 08:15` — document dark mode token usage
 - `2026-05-15 08:15` — resolve token alias circular references
+- `2026-05-15 08:15` — sync token schema with style dictionary config
