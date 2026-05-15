@@ -2522,3 +2522,4 @@
 - `2026-05-15 08:15` — consolidate duplicate component tokens
 - `2026-05-15 08:15` — deduplicate shadow definitions
 - `2026-05-15 08:15` — update token documentation
+- `2026-05-15 08:15` — document dark mode token usage
