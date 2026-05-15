@@ -2530,3 +2530,4 @@
 - `2026-05-15 08:15` — heading hierarchy fix
 - `2026-05-15 08:15` — font family swap
 - `2026-05-15 08:15` — tighten heading line height for large screens
+- `2026-05-15 08:15` — update monospace font token
