@@ -2544,3 +2544,4 @@
 - `2026-05-15 08:15` — tooltip design tweak
 - `2026-05-15 08:15` — navigation styling fix
 - `2026-05-15 08:15` — tab component refinement
+- `2026-05-15 08:15` — update link component underline style
