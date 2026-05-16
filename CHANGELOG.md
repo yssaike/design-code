@@ -2561,3 +2561,4 @@
 - `2026-05-16 15:48` — correct elevation token on sticky header
 - `2026-05-16 15:48` — micro-interaction refinement
 - `2026-05-16 15:48` — update stagger delay for list animations
+- `2026-05-16 15:48` — tune reduced-motion fallback tokens
