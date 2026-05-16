@@ -2586,3 +2586,4 @@
 - `2026-05-16 15:48` — update focus-visible styles for interactive elements
 - `2026-05-16 15:48` — rename tokens to match new naming convention
 - `2026-05-16 15:48` — improve token validation script
+- `2026-05-16 15:48` — secondary palette refinement
