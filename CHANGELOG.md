@@ -2614,3 +2614,4 @@
 - `2026-05-16 15:48` — update token output format to CSS variables
 - `2026-05-16 15:48` — wire up new semantic elevation tokens
 - `2026-05-16 15:48` — update wordmark sizing token
+- `2026-05-16 15:48` — reconcile brand color with new creative direction
