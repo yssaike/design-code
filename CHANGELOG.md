@@ -2562,3 +2562,4 @@
 - `2026-05-16 15:48` — micro-interaction refinement
 - `2026-05-16 15:48` — update stagger delay for list animations
 - `2026-05-16 15:48` — tune reduced-motion fallback tokens
+- `2026-05-16 15:48` — focus indicator update
