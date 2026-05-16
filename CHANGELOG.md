@@ -2565,3 +2565,4 @@
 - `2026-05-16 15:48` — focus indicator update
 - `2026-05-16 15:48` — fix missing label on icon-only button
 - `2026-05-16 15:48` — clean up token naming inconsistencies
+- `2026-05-16 15:48` — remove deprecated spacing tokens
