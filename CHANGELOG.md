@@ -2597,3 +2597,4 @@
 - `2026-05-16 15:48` — brand asset refresh
 - `2026-05-16 15:48` — disabled state styling
 - `2026-05-16 15:48` — shadow refinement
+- `2026-05-16 15:48` — fix broken outline on focus for keyboard users
