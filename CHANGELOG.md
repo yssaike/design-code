@@ -2567,3 +2567,4 @@
 - `2026-05-16 15:48` — clean up token naming inconsistencies
 - `2026-05-16 15:48` — remove deprecated spacing tokens
 - `2026-05-16 15:48` — add token format checks to pre-commit
+- `2026-05-16 15:48` — document new color semantics
