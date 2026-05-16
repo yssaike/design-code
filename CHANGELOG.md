@@ -2575,3 +2575,4 @@
 - `2026-05-16 15:48` — add new surface token for overlay backgrounds
 - `2026-05-16 15:48` — patch broken token reference in components
 - `2026-05-16 15:48` — brand color alignment
+- `2026-05-16 15:48` — letter spacing tweak
