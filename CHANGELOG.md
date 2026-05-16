@@ -2563,3 +2563,4 @@
 - `2026-05-16 15:48` — update stagger delay for list animations
 - `2026-05-16 15:48` — tune reduced-motion fallback tokens
 - `2026-05-16 15:48` — focus indicator update
+- `2026-05-16 15:48` — fix missing label on icon-only button
