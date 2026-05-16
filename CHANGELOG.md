@@ -2605,3 +2605,4 @@
 - `2026-05-16 15:48` — aria attribute update
 - `2026-05-16 15:48` — add skip-to-content link tokens
 - `2026-05-16 15:48` — add high-visibility focus token for forced-colors mode
+- `2026-05-16 15:48` — flatten nested token structure for clarity
