@@ -2559,3 +2559,4 @@
 - `2026-05-16 15:48` — fix clipped text in compact variant
 - `2026-05-16 15:48` — resolve color bleed on adjacent components
 - `2026-05-16 15:48` — correct elevation token on sticky header
+- `2026-05-16 15:48` — micro-interaction refinement
