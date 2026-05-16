@@ -2596,3 +2596,4 @@
 - `2026-05-16 15:48` — brand spacing alignment
 - `2026-05-16 15:48` — brand asset refresh
 - `2026-05-16 15:48` — disabled state styling
+- `2026-05-16 15:48` — shadow refinement
