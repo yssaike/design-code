@@ -2574,3 +2574,4 @@
 - `2026-05-16 15:48` — export latest tokens from Figma
 - `2026-05-16 15:48` — add new surface token for overlay backgrounds
 - `2026-05-16 15:48` — patch broken token reference in components
+- `2026-05-16 15:48` — brand color alignment
