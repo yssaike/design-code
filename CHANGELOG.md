@@ -2557,3 +2557,4 @@
 - `2026-05-16 15:48` — correct misaligned icon in button component
 - `2026-05-16 15:48` — patch spacing regression from last merge
 - `2026-05-16 15:48` — fix clipped text in compact variant
+- `2026-05-16 15:48` — resolve color bleed on adjacent components
