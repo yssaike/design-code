@@ -2584,3 +2584,4 @@
 - `2026-05-16 15:48` — clean up form field error state styles
 - `2026-05-16 15:48` — hover state fix
 - `2026-05-16 15:48` — update focus-visible styles for interactive elements
+- `2026-05-16 15:48` — rename tokens to match new naming convention
