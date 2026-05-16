@@ -2610,3 +2610,4 @@
 - `2026-05-16 15:48` — clean up generated output artifacts
 - `2026-05-16 15:48` — update style dictionary config
 - `2026-05-16 15:48` — document token alias conventions
+- `2026-05-16 15:48` — add missing dark mode token variants
