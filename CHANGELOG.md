@@ -2601,3 +2601,4 @@
 - `2026-05-16 15:48` — clean up leftover debug border
 - `2026-05-16 15:48` — fix missing border on selected state
 - `2026-05-16 15:48` — remove jarring jump in accordion open
+- `2026-05-16 15:48` — screen reader label add
