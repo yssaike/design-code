@@ -2603,3 +2603,4 @@
 - `2026-05-16 15:48` — remove jarring jump in accordion open
 - `2026-05-16 15:48` — screen reader label add
 - `2026-05-16 15:48` — aria attribute update
+- `2026-05-16 15:48` — add skip-to-content link tokens
