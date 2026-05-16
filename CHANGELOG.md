@@ -2613,3 +2613,4 @@
 - `2026-05-16 15:48` — add missing dark mode token variants
 - `2026-05-16 15:48` — update token output format to CSS variables
 - `2026-05-16 15:48` — wire up new semantic elevation tokens
+- `2026-05-16 15:48` — update wordmark sizing token
