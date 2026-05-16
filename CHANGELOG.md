@@ -2568,3 +2568,4 @@
 - `2026-05-16 15:48` — remove deprecated spacing tokens
 - `2026-05-16 15:48` — add token format checks to pre-commit
 - `2026-05-16 15:48` — document new color semantics
+- `2026-05-16 15:48` — update changelog format
