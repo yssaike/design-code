@@ -2690,3 +2690,4 @@
 - `2026-05-18 08:16` — add entrance animation for modal overlay
 - `2026-05-18 08:16` — smooth out tab transition timing
 - `2026-05-18 08:16` — refine easing curve on drawer slide
+- `2026-05-18 08:16` — fix bounce effect on toast notification
