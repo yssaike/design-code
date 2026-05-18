@@ -2637,3 +2637,4 @@
 - `2026-05-17 23:11` — alignment correction
 - `2026-05-17 23:11` — normalize exit animation duration tokens
 - `2026-05-17 23:11` — accent color adjustment
+- `2026-05-17 23:11` — color contrast fix
