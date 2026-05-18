@@ -2625,3 +2625,4 @@
 - `2026-05-17 23:11` — tighten compact density spacing
 - `2026-05-17 23:11` — update page-level layout margins
 - `2026-05-17 23:11` — modal design update
+- `2026-05-17 23:11` — checkbox style refresh
