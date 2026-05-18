@@ -2622,3 +2622,4 @@
 - `2026-05-17 23:11` — update display heading tokens
 - `2026-05-17 23:11` — layout spacing refinement
 - `2026-05-17 23:11` — audit spacing tokens for duplicate values
+- `2026-05-17 23:11` — tighten compact density spacing
