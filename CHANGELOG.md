@@ -2620,3 +2620,4 @@
 - `2026-05-16 15:48` — normalize font stack across platforms
 - `2026-05-17 23:11` — fix responsive type scale breakpoints
 - `2026-05-17 23:11` — update display heading tokens
+- `2026-05-17 23:11` — layout spacing refinement
