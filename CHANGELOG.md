@@ -2660,3 +2660,4 @@
 - `2026-05-17 23:11` — fix ghost button hover color
 - `2026-05-17 23:11` — patch off-by-one pixel alignment in grid
 - `2026-05-17 23:11` — patch inconsistent corner radius in form inputs
+- `2026-05-17 23:11` — transition easing change
