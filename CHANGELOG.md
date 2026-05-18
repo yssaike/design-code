@@ -2656,3 +2656,4 @@
 - `2026-05-17 23:11` — adjust chip component padding
 - `2026-05-17 23:11` — refine popover arrow token values
 - `2026-05-17 23:11` — update progress bar color tokens
+- `2026-05-17 23:11` — z-index adjustment
