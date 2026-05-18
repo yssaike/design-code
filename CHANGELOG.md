@@ -2664,3 +2664,4 @@
 - `2026-05-17 23:11` — scroll animation fix
 - `2026-05-17 23:11` — move hardcoded values to tokens
 - `2026-05-17 23:11` — extract repeated values into shared base tokens
+- `2026-05-17 23:11` — tidy up token category groupings
