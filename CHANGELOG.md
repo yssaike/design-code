@@ -2669,3 +2669,4 @@
 - `2026-05-18 08:16` — fix token export pipeline
 - `2026-05-18 08:16` — update Figma token sync config
 - `2026-05-18 08:16` — fix broken token transformer
+- `2026-05-18 08:16` — fix output path in token build config
