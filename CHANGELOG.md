@@ -2645,3 +2645,4 @@
 - `2026-05-17 23:11` — brand token change
 - `2026-05-17 23:11` — brand font update
 - `2026-05-17 23:11` — brand guideline sync
+- `2026-05-17 23:11` — update logo sizing constraints
