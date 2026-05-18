@@ -2674,3 +2674,4 @@
 - `2026-05-18 08:16` — add token decision rationale to comments
 - `2026-05-18 08:16` — add responsive token breakpoints
 - `2026-05-18 08:16` — primary color update
+- `2026-05-18 08:16` — remap semantic color tokens to new primitives
