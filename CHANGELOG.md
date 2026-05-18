@@ -2673,3 +2673,4 @@
 - `2026-05-18 08:16` — update README with latest token structure
 - `2026-05-18 08:16` — add token decision rationale to comments
 - `2026-05-18 08:16` — add responsive token breakpoints
+- `2026-05-18 08:16` — primary color update
