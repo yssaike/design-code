@@ -2630,3 +2630,4 @@
 - `2026-05-17 23:11` — refine avatar sizing tokens
 - `2026-05-17 23:11` — refresh skeleton loader animation timing
 - `2026-05-17 23:11` — fix inline alert padding
+- `2026-05-17 23:11` — tighten list item component spacing
