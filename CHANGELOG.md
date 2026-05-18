@@ -2621,3 +2621,4 @@
 - `2026-05-17 23:11` — fix responsive type scale breakpoints
 - `2026-05-17 23:11` — update display heading tokens
 - `2026-05-17 23:11` — layout spacing refinement
+- `2026-05-17 23:11` — audit spacing tokens for duplicate values
