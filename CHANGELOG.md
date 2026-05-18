@@ -2662,3 +2662,4 @@
 - `2026-05-17 23:11` — patch inconsistent corner radius in form inputs
 - `2026-05-17 23:11` — transition easing change
 - `2026-05-17 23:11` — scroll animation fix
+- `2026-05-17 23:11` — move hardcoded values to tokens
