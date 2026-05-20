@@ -2734,3 +2734,4 @@
 - `2026-05-19 21:19` — deduplicate shadow definitions
 - `2026-05-19 21:19` — update token documentation
 - `2026-05-19 21:19` — document dark mode token usage
+- `2026-05-19 21:19` — resolve token alias circular references
