@@ -2699,3 +2699,4 @@
 - `2026-05-19 21:18` — patch low-contrast placeholder text
 - `2026-05-19 21:18` — split color tokens into primitives and semantics
 - `2026-05-19 21:18` — normalize token key casing
+- `2026-05-19 21:18` — add usage examples to component tokens
