@@ -2738,3 +2738,4 @@
 - `2026-05-19 21:19` — sync token schema with style dictionary config
 - `2026-05-19 21:19` — add compact density token tier
 - `2026-05-20 10:20` — add focus token for custom components
+- `2026-05-20 10:20` — secondary palette refinement
