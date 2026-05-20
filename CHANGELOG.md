@@ -2729,3 +2729,4 @@
 - `2026-05-19 21:19` — visual regression fix
 - `2026-05-19 21:19` — patch stacking context issue in overlay
 - `2026-05-19 21:19` — audit color pairs for WCAG AA compliance
+- `2026-05-19 21:19` — reorganize token file structure
