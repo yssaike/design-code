@@ -2736,3 +2736,4 @@
 - `2026-05-19 21:19` — document dark mode token usage
 - `2026-05-19 21:19` — resolve token alias circular references
 - `2026-05-19 21:19` — sync token schema with style dictionary config
+- `2026-05-19 21:19` — add compact density token tier
