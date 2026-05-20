@@ -2696,3 +2696,4 @@
 - `2026-05-18 08:16` — keyboard navigation fix
 - `2026-05-19 21:18` — improve color contrast on disabled text
 - `2026-05-19 21:18` — ensure touch target meets 44px minimum
+- `2026-05-19 21:18` — patch low-contrast placeholder text
