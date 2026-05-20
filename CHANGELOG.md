@@ -2694,3 +2694,4 @@
 - `2026-05-18 08:16` — update skeleton shimmer timing
 - `2026-05-18 08:16` — accessibility contrast fix
 - `2026-05-18 08:16` — keyboard navigation fix
+- `2026-05-19 21:18` — improve color contrast on disabled text
