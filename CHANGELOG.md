@@ -2732,3 +2732,4 @@
 - `2026-05-19 21:19` — reorganize token file structure
 - `2026-05-19 21:19` — consolidate duplicate component tokens
 - `2026-05-19 21:19` — deduplicate shadow definitions
+- `2026-05-19 21:19` — update token documentation
