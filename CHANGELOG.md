@@ -2780,3 +2780,4 @@
 - `2026-05-20 10:20` — color palette expansion
 - `2026-05-20 10:20` — brand color alignment
 - `2026-05-20 10:20` — surface color update
+- `2026-05-20 10:20` — semantic color token fix
