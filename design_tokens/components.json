@@ -62,7 +62,7 @@
     "paddingX": "4px",
     "paddingY": "20px",
     "gap": "20px",
-    "fontSize": "4px",
+    "fontSize": "1px",
     "fontWeight": "1px"
   },
   "checkbox": {
