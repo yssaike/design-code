@@ -2701,3 +2701,4 @@
 - `2026-05-19 21:18` — normalize token key casing
 - `2026-05-19 21:18` — add usage examples to component tokens
 - `2026-05-19 21:18` — add high-contrast mode token set
+- `2026-05-19 21:18` — heading hierarchy fix
