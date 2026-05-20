@@ -2756,3 +2756,4 @@
 - `2026-05-20 10:20` — normalize font stack across platforms
 - `2026-05-20 10:20` — audit and clean up unused type styles
 - `2026-05-20 10:20` — align caption text tokens with spec
+- `2026-05-20 10:20` — fix missing italic weight token
