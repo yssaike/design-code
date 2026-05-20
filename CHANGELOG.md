@@ -2718,3 +2718,4 @@
 - `2026-05-19 21:18` — tooltip design tweak
 - `2026-05-19 21:18` — navigation styling fix
 - `2026-05-19 21:18` — tab component refinement
+- `2026-05-19 21:18` — update link component underline style
