@@ -2725,3 +2725,4 @@
 - `2026-05-19 21:18` — update switch component track tokens
 - `2026-05-19 21:18` — active state refinement
 - `2026-05-19 21:19` — responsive layout tweak
+- `2026-05-19 21:19` — overflow fix
