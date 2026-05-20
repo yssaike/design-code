@@ -2785,3 +2785,4 @@
 - `2026-05-20 10:20` — bump gray scale contrast levels
 - `2026-05-20 10:20` — brand spacing alignment
 - `2026-05-20 10:20` — brand asset refresh
+- `2026-05-20 10:21` — update wordmark sizing token
