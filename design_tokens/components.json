@@ -18,7 +18,7 @@
   },
   "card": {
     "borderRadius": "24px",
-    "padding": "8px",
+    "padding": "24px",
     "shadow": "4px 3px 24px rgba(0,0,0,0.12)",
     "borderWidth": "2px",
     "gap": "20px"
@@ -46,7 +46,7 @@
   },
   "avatar": {
     "borderRadius": "16px",
-    "borderWidth": "4px",
+    "borderWidth": "1px",
     "shadow": "1px 6px 18px rgba(0,0,0,0.06)",
     "size": "12px"
   },
