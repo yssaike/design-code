@@ -2754,3 +2754,4 @@
 - `2026-05-20 10:20` — line height refinement
 - `2026-05-20 10:20` — letter spacing tweak
 - `2026-05-20 10:20` — normalize font stack across platforms
+- `2026-05-20 10:20` — audit and clean up unused type styles
