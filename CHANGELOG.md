@@ -2716,3 +2716,4 @@
 - `2026-05-19 21:18` — input field refinement
 - `2026-05-19 21:18` — card component update
 - `2026-05-19 21:18` — tooltip design tweak
+- `2026-05-19 21:18` — navigation styling fix
