@@ -2765,3 +2765,4 @@
 - `2026-05-20 10:20` — shadow refinement
 - `2026-05-20 10:20` — fix broken outline on focus for keyboard users
 - `2026-05-20 10:20` — correct misaligned icon in button component
+- `2026-05-20 10:20` — patch spacing regression from last merge
