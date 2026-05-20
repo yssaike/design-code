@@ -2776,3 +2776,4 @@
 - `2026-05-20 10:20` — update stagger delay for list animations
 - `2026-05-20 10:20` — add focus token for custom components
 - `2026-05-20 10:20` — secondary palette refinement
+- `2026-05-20 10:20` — dark mode color tweak
