@@ -8,7 +8,7 @@
   },
   "h1": {
     "fontFamily": "Inter, system-ui, sans-serif",
-    "fontSize": "3rem",
+    "fontSize": "0.75rem",
     "fontWeight": 500,
     "lineHeight": "1.2",
     "letterSpacing": "-0.01em"

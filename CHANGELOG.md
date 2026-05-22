@@ -2792,3 +2792,4 @@
 - `2026-05-22 08:22` — letter spacing tweak
 - `2026-05-22 08:22` — normalize font stack across platforms
 - `2026-05-22 08:22` — audit and clean up unused type styles
+- `2026-05-22 08:22` — align caption text tokens with spec
