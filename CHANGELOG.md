@@ -2805,3 +2805,4 @@
 - `2026-05-22 08:22` — patch spacing regression from last merge
 - `2026-05-22 08:22` — clean up leftover debug border
 - `2026-05-22 08:22` — fix clipped text in compact variant
+- `2026-05-22 08:22` — resolve color bleed on adjacent components
