@@ -2788,3 +2788,4 @@
 - `2026-05-20 10:21` — update wordmark sizing token
 - `2026-05-22 08:22` — reconcile brand color with new creative direction
 - `2026-05-22 08:22` — typography scale update
+- `2026-05-22 08:22` — line height refinement
