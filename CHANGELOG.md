@@ -2813,3 +2813,4 @@
 - `2026-05-22 08:22` — update stagger delay for list animations
 - `2026-05-22 08:22` — tune reduced-motion fallback tokens
 - `2026-05-22 08:22` — focus indicator update
+- `2026-05-22 08:22` — screen reader label add
