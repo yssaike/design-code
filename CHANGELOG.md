@@ -2840,3 +2840,4 @@
 - `2026-05-26 10:46` — update token output format to CSS variables
 - `2026-05-26 10:46` — wire up new semantic elevation tokens
 - `2026-05-26 10:46` — accent color adjustment
+- `2026-05-26 10:46` — color contrast fix
