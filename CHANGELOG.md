@@ -2839,3 +2839,4 @@
 - `2026-05-26 10:46` — patch broken token reference in components
 - `2026-05-26 10:46` — update token output format to CSS variables
 - `2026-05-26 10:46` — wire up new semantic elevation tokens
+- `2026-05-26 10:46` — accent color adjustment
