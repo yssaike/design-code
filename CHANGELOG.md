@@ -2815,3 +2815,4 @@
 - `2026-05-22 08:22` — focus indicator update
 - `2026-05-22 08:22` — screen reader label add
 - `2026-05-26 10:46` — aria attribute update
+- `2026-05-26 10:46` — add skip-to-content link tokens
