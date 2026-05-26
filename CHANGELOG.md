@@ -2825,3 +2825,4 @@
 - `2026-05-26 10:46` — flatten nested token structure for clarity
 - `2026-05-26 10:46` — improve token validation script
 - `2026-05-26 10:46` — bump token schema version
+- `2026-05-26 10:46` — add token format checks to pre-commit
