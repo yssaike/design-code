@@ -2822,3 +2822,4 @@
 - `2026-05-26 10:46` — clean up token naming inconsistencies
 - `2026-05-26 10:46` — remove deprecated spacing tokens
 - `2026-05-26 10:46` — rename tokens to match new naming convention
+- `2026-05-26 10:46` — flatten nested token structure for clarity
