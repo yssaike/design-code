@@ -2874,3 +2874,4 @@
 - `2026-05-28 07:14` — tighten list item component spacing
 - `2026-05-28 07:14` — fix breadcrumb separator sizing
 - `2026-05-28 07:14` — focus ring update
+- `2026-05-28 07:14` — border radius update
