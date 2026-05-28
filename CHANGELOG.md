@@ -2861,3 +2861,4 @@
 - `2026-05-28 07:14` — audit spacing tokens for duplicate values
 - `2026-05-28 07:14` — tighten compact density spacing
 - `2026-05-28 07:14` — update page-level layout margins
+- `2026-05-28 07:14` — button style update
