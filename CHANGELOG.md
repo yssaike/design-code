@@ -2856,3 +2856,4 @@
 - `2026-05-28 07:14` — update display heading tokens
 - `2026-05-28 07:14` — bump body font size for readability
 - `2026-05-28 07:14` — padding consistency fix
+- `2026-05-28 07:14` — layout spacing refinement
