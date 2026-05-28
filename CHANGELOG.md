@@ -2851,3 +2851,4 @@
 - `2026-05-26 10:46` — update logo sizing constraints
 - `2026-05-26 10:46` — align brand palette with updated guidelines
 - `2026-05-26 10:46` — refresh brand gradient values
+- `2026-05-28 07:14` — body text improvement
