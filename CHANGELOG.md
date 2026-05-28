@@ -2865,3 +2865,4 @@
 - `2026-05-28 07:14` — modal design update
 - `2026-05-28 07:14` — checkbox style refresh
 - `2026-05-28 07:14` — badge design update
+- `2026-05-28 07:14` — refine avatar sizing tokens
