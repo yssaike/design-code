@@ -2888,3 +2888,4 @@
 - `2026-05-29 08:16` — tidy up token category groupings
 - `2026-05-29 08:16` — update design token build script
 - `2026-05-29 08:16` — primary color update
+- `2026-05-29 08:16` — remap semantic color tokens to new primitives
