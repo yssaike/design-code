@@ -2882,3 +2882,4 @@
 - `2026-05-29 08:16` — patch inconsistent corner radius in form inputs
 - `2026-05-29 08:16` — transition easing change
 - `2026-05-29 08:16` — scroll animation fix
+- `2026-05-29 08:16` — normalize exit animation duration tokens
