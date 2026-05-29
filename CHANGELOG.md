@@ -2898,3 +2898,4 @@
 - `2026-05-29 08:16` — font weight adjustment
 - `2026-05-29 08:16` — refine table row hover state tokens
 - `2026-05-29 08:16` — resolve visual glitch in dark mode
+- `2026-05-29 08:16` — fix broken transition on theme toggle
