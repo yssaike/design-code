@@ -2884,3 +2884,4 @@
 - `2026-05-29 08:16` — scroll animation fix
 - `2026-05-29 08:16` — normalize exit animation duration tokens
 - `2026-05-29 08:16` — move hardcoded values to tokens
+- `2026-05-29 08:16` — extract repeated values into shared base tokens
