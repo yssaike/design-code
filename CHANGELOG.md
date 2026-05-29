@@ -2883,3 +2883,4 @@
 - `2026-05-29 08:16` — transition easing change
 - `2026-05-29 08:16` — scroll animation fix
 - `2026-05-29 08:16` — normalize exit animation duration tokens
+- `2026-05-29 08:16` — move hardcoded values to tokens
