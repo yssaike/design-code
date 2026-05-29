@@ -2900,3 +2900,4 @@
 - `2026-05-29 08:16` — resolve visual glitch in dark mode
 - `2026-05-29 08:16` — fix broken transition on theme toggle
 - `2026-05-29 08:16` — animation duration update
+- `2026-05-29 08:16` — loading animation tweak
