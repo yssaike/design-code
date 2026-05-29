@@ -2878,3 +2878,4 @@
 - `2026-05-28 07:14` — z-index adjustment
 - `2026-05-28 07:14` — alignment correction
 - `2026-05-28 07:14` — fix ghost button hover color
+- `2026-05-29 08:16` — patch off-by-one pixel alignment in grid
