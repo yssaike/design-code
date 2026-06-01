@@ -2910,3 +2910,4 @@
 - `2026-06-01 12:12` — keyboard navigation fix
 - `2026-06-01 12:12` — fix token export pipeline
 - `2026-06-01 12:12` — update Figma token sync config
+- `2026-06-01 12:12` — fix broken token transformer
