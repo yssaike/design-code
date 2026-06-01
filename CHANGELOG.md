@@ -2926,3 +2926,4 @@
 - `2026-06-01 12:12` — fix inconsistent inner padding on form elements
 - `2026-06-01 12:12` — add missing spacing token for inline elements
 - `2026-06-01 12:12` — fix content spacing inside card variants
+- `2026-06-01 12:12` — align vertical rhythm tokens with type scale
