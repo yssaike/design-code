@@ -2923,3 +2923,4 @@
 - `2026-06-01 12:12` — spacing token update
 - `2026-06-01 12:12` — grid gap adjustment
 - `2026-06-01 12:12` — normalize spacing scale to 8pt grid
+- `2026-06-01 12:12` — fix inconsistent inner padding on form elements
