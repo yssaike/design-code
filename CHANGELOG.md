@@ -2920,3 +2920,4 @@
 - `2026-06-01 12:12` — tighten heading line height for large screens
 - `2026-06-01 12:12` — update monospace font token
 - `2026-06-01 12:12` — add fluid type scale tokens
+- `2026-06-01 12:12` — spacing token update
