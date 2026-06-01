@@ -2917,3 +2917,4 @@
 - `2026-06-01 12:12` — add responsive token breakpoints
 - `2026-06-01 12:12` — heading hierarchy fix
 - `2026-06-01 12:12` — font family swap
+- `2026-06-01 12:12` — tighten heading line height for large screens
