@@ -2912,3 +2912,4 @@
 - `2026-06-01 12:12` — update Figma token sync config
 - `2026-06-01 12:12` — fix broken token transformer
 - `2026-06-01 12:12` — fix output path in token build config
+- `2026-06-01 12:12` — update README with latest token structure
