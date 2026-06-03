@@ -2931,3 +2931,4 @@
 - `2026-06-01 12:12` — card component update
 - `2026-06-01 12:12` — tooltip design tweak
 - `2026-06-03 16:04` — navigation styling fix
+- `2026-06-03 16:04` — tab component refinement
