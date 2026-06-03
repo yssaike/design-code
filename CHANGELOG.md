@@ -2966,3 +2966,4 @@
 - `2026-06-03 16:04` — semantic color token fix
 - `2026-06-03 16:04` — tweak surface colors for better light-mode legibility
 - `2026-06-03 16:04` — bump gray scale contrast levels
+- `2026-06-03 16:04` — brand spacing alignment
