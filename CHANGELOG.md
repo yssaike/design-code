@@ -2961,3 +2961,4 @@
 - `2026-06-03 16:04` — secondary palette refinement
 - `2026-06-03 16:04` — dark mode color tweak
 - `2026-06-03 16:04` — color palette expansion
+- `2026-06-03 16:04` — brand color alignment
