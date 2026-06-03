@@ -2959,3 +2959,4 @@
 - `2026-06-03 16:04` — sync token schema with style dictionary config
 - `2026-06-03 16:04` — add compact density token tier
 - `2026-06-03 16:04` — secondary palette refinement
+- `2026-06-03 16:04` — dark mode color tweak
