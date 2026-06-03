@@ -2947,3 +2947,4 @@
 - `2026-06-03 16:04` — audit color pairs for WCAG AA compliance
 - `2026-06-03 16:04` — patch low-contrast placeholder text
 - `2026-06-03 16:04` — reorganize token file structure
+- `2026-06-03 16:04` — consolidate duplicate component tokens
