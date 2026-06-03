@@ -2935,3 +2935,4 @@
 - `2026-06-03 16:04` — update link component underline style
 - `2026-06-03 16:04` — fix icon size inconsistency in nav
 - `2026-06-03 16:04` — update stepper component tokens
+- `2026-06-03 16:04` — patch divider component thickness
