@@ -2950,3 +2950,4 @@
 - `2026-06-03 16:04` — consolidate duplicate component tokens
 - `2026-06-03 16:04` — split color tokens into primitives and semantics
 - `2026-06-03 16:04` — deduplicate shadow definitions
+- `2026-06-03 16:04` — normalize token key casing
