@@ -27,7 +27,7 @@
     "borderRadius": "8px",
     "padding": "24px",
     "shadow": "1px 7px 7px rgba(0,0,0,0.13)",
-    "maxWidth": "2px",
+    "maxWidth": "8px",
     "gap": "8px"
   },
   "tooltip": {
