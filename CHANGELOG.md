@@ -2957,3 +2957,4 @@
 - `2026-06-03 16:04` — resolve token alias circular references
 - `2026-06-03 16:04` — add high-contrast mode token set
 - `2026-06-03 16:04` — sync token schema with style dictionary config
+- `2026-06-03 16:04` — add compact density token tier
