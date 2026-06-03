@@ -2948,3 +2948,4 @@
 - `2026-06-03 16:04` — patch low-contrast placeholder text
 - `2026-06-03 16:04` — reorganize token file structure
 - `2026-06-03 16:04` — consolidate duplicate component tokens
+- `2026-06-03 16:04` — split color tokens into primitives and semantics
