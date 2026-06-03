@@ -2942,3 +2942,4 @@
 - `2026-06-03 16:04` — overflow fix
 - `2026-06-03 16:04` — visual regression fix
 - `2026-06-03 16:04` — patch stacking context issue in overlay
+- `2026-06-03 16:04` — improve color contrast on disabled text
