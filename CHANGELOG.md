@@ -2994,3 +2994,4 @@
 - `2026-06-04 16:35` — correct elevation token on sticky header
 - `2026-06-04 16:35` — micro-interaction refinement
 - `2026-06-04 16:35` — remove jarring jump in accordion open
+- `2026-06-04 16:35` — update stagger delay for list animations
