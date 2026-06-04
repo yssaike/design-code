@@ -2998,3 +2998,4 @@
 - `2026-06-04 16:35` — tune reduced-motion fallback tokens
 - `2026-06-04 16:35` — focus indicator update
 - `2026-06-04 16:35` — screen reader label add
+- `2026-06-04 16:35` — accent color adjustment
