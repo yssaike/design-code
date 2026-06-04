@@ -2978,3 +2978,4 @@
 - `2026-06-04 16:35` — audit and clean up unused type styles
 - `2026-06-04 16:35` — align caption text tokens with spec
 - `2026-06-04 16:35` — fix missing italic weight token
+- `2026-06-04 16:35` — margin alignment
