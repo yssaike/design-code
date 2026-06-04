@@ -3001,3 +3001,4 @@
 - `2026-06-04 16:35` — accent color adjustment
 - `2026-06-04 16:35` — color contrast fix
 - `2026-06-04 16:35` — update neutral palette to reflect new brand direction
+- `2026-06-04 16:35` — fix off-brand blue in CTA components
