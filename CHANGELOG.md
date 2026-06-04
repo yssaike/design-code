@@ -2970,3 +2970,4 @@
 - `2026-06-03 16:04` — brand asset refresh
 - `2026-06-04 16:35` — update wordmark sizing token
 - `2026-06-04 16:35` — add focus token for custom components
+- `2026-06-04 16:35` — reconcile brand color with new creative direction
