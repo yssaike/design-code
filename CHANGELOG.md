@@ -2987,3 +2987,4 @@
 - `2026-06-04 16:35` — fix broken outline on focus for keyboard users
 - `2026-06-04 16:35` — correct misaligned icon in button component
 - `2026-06-04 16:35` — patch spacing regression from last merge
+- `2026-06-04 16:35` — clean up leftover debug border
