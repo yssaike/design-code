@@ -2985,3 +2985,4 @@
 - `2026-06-04 16:35` — disabled state styling
 - `2026-06-04 16:35` — shadow refinement
 - `2026-06-04 16:35` — fix broken outline on focus for keyboard users
+- `2026-06-04 16:35` — correct misaligned icon in button component
