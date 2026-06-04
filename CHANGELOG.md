@@ -3003,3 +3003,4 @@
 - `2026-06-04 16:35` — update neutral palette to reflect new brand direction
 - `2026-06-04 16:35` — fix off-brand blue in CTA components
 - `2026-06-04 16:35` — patch inconsistent error color across states
+- `2026-06-04 16:35` — align info color with accessibility requirements
