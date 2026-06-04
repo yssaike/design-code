@@ -3000,3 +3000,4 @@
 - `2026-06-04 16:35` — screen reader label add
 - `2026-06-04 16:35` — accent color adjustment
 - `2026-06-04 16:35` — color contrast fix
+- `2026-06-04 16:35` — update neutral palette to reflect new brand direction
