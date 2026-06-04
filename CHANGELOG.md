@@ -2995,3 +2995,4 @@
 - `2026-06-04 16:35` — micro-interaction refinement
 - `2026-06-04 16:35` — remove jarring jump in accordion open
 - `2026-06-04 16:35` — update stagger delay for list animations
+- `2026-06-04 16:35` — tune reduced-motion fallback tokens
