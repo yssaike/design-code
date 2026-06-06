@@ -3020,3 +3020,4 @@
 - `2026-06-05 21:55` — rename tokens to match new naming convention
 - `2026-06-05 21:55` — flatten nested token structure for clarity
 - `2026-06-05 21:55` — improve token validation script
+- `2026-06-05 21:55` — bump token schema version
