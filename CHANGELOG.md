@@ -3015,3 +3015,4 @@
 - `2026-06-05 21:55` — fix missing label on icon-only button
 - `2026-06-05 21:55` — update focus-visible styles for interactive elements
 - `2026-06-05 21:55` — add high-visibility focus token for forced-colors mode
+- `2026-06-05 21:55` — clean up token naming inconsistencies
