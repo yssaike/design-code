@@ -3034,3 +3034,4 @@
 - `2026-06-05 21:55` — add new surface token for overlay backgrounds
 - `2026-06-05 21:55` — patch broken token reference in components
 - `2026-06-05 21:55` — update token output format to CSS variables
+- `2026-06-05 21:55` — wire up new semantic elevation tokens
