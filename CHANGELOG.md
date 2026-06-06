@@ -3032,3 +3032,4 @@
 - `2026-06-05 21:55` — export latest tokens from Figma
 - `2026-06-05 21:55` — add missing dark mode token variants
 - `2026-06-05 21:55` — add new surface token for overlay backgrounds
+- `2026-06-05 21:55` — patch broken token reference in components
