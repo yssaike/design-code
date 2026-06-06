@@ -3037,3 +3037,4 @@
 - `2026-06-05 21:55` — wire up new semantic elevation tokens
 - `2026-06-05 21:55` — body text improvement
 - `2026-06-05 21:55` — fix responsive type scale breakpoints
+- `2026-06-05 21:55` — update display heading tokens
