@@ -3017,3 +3017,4 @@
 - `2026-06-05 21:55` — add high-visibility focus token for forced-colors mode
 - `2026-06-05 21:55` — clean up token naming inconsistencies
 - `2026-06-05 21:55` — remove deprecated spacing tokens
+- `2026-06-05 21:55` — rename tokens to match new naming convention
