@@ -18,7 +18,7 @@
   },
   "card": {
     "borderRadius": "4px",
-    "padding": "24px",
+    "padding": "20px",
     "shadow": "4px 5px 23px rgba(0,0,0,0.15)",
     "borderWidth": "8px",
     "gap": "20px"
