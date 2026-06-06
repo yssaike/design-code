@@ -3011,3 +3011,4 @@
 - `2026-06-05 21:55` — align brand palette with updated guidelines
 - `2026-06-05 21:55` — refresh brand gradient values
 - `2026-06-05 21:55` — aria attribute update
+- `2026-06-05 21:55` — add skip-to-content link tokens
