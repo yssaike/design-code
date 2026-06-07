@@ -3089,3 +3089,4 @@
 - `2026-06-07 16:04` — extract repeated values into shared base tokens
 - `2026-06-07 16:04` — tidy up token category groupings
 - `2026-06-07 16:04` — update design token build script
+- `2026-06-07 16:04` — heading hierarchy fix
