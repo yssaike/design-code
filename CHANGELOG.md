@@ -3045,3 +3045,4 @@
 - `2026-06-05 21:55` — audit spacing tokens for duplicate values
 - `2026-06-06 23:17` — tighten compact density spacing
 - `2026-06-06 23:17` — update page-level layout margins
+- `2026-06-06 23:17` — button style update
