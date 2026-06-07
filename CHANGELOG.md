@@ -3057,3 +3057,4 @@
 - `2026-06-06 23:17` — update progress bar color tokens
 - `2026-06-06 23:17` — tighten list item component spacing
 - `2026-06-06 23:17` — fix breadcrumb separator sizing
+- `2026-06-07 16:04` — focus ring update
