@@ -3087,3 +3087,4 @@
 - `2026-06-07 16:04` — normalize exit animation duration tokens
 - `2026-06-07 16:04` — move hardcoded values to tokens
 - `2026-06-07 16:04` — extract repeated values into shared base tokens
+- `2026-06-07 16:04` — tidy up token category groupings
