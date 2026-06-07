@@ -3099,3 +3099,4 @@
 - `2026-06-07 16:04` — normalize spacing scale to 8pt grid
 - `2026-06-07 16:04` — fix inconsistent inner padding on form elements
 - `2026-06-07 16:04` — add missing spacing token for inline elements
+- `2026-06-07 16:04` — fix content spacing inside card variants
