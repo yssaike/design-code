@@ -3082,3 +3082,4 @@
 - `2026-06-07 16:04` — scroll animation fix
 - `2026-06-07 16:04` — add entrance animation for modal overlay
 - `2026-06-07 16:04` — smooth out tab transition timing
+- `2026-06-07 16:04` — refine easing curve on drawer slide
