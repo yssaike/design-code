@@ -3055,3 +3055,4 @@
 - `2026-06-06 23:17` — fix inline alert padding
 - `2026-06-06 23:17` — refine popover arrow token values
 - `2026-06-06 23:17` — update progress bar color tokens
+- `2026-06-06 23:17` — tighten list item component spacing
