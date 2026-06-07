@@ -3063,3 +3063,4 @@
 - `2026-06-07 16:04` — alignment correction
 - `2026-06-07 16:04` — fix ghost button hover color
 - `2026-06-07 16:04` — primary color update
+- `2026-06-07 16:04` — remap semantic color tokens to new primitives
