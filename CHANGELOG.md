@@ -3064,3 +3064,4 @@
 - `2026-06-07 16:04` — fix ghost button hover color
 - `2026-06-07 16:04` — primary color update
 - `2026-06-07 16:04` — remap semantic color tokens to new primitives
+- `2026-06-07 16:04` — sync color tokens with latest Figma variables export
