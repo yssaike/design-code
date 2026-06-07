@@ -3079,3 +3079,4 @@
 - `2026-06-07 16:04` — animation duration update
 - `2026-06-07 16:04` — transition easing change
 - `2026-06-07 16:04` — loading animation tweak
+- `2026-06-07 16:04` — scroll animation fix
