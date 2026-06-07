@@ -3059,3 +3059,4 @@
 - `2026-06-06 23:17` — fix breadcrumb separator sizing
 - `2026-06-07 16:04` — focus ring update
 - `2026-06-07 16:04` — border radius update
+- `2026-06-07 16:04` — z-index adjustment
