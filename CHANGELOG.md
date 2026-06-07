@@ -3043,3 +3043,4 @@
 - `2026-06-05 21:55` — layout spacing refinement
 - `2026-06-05 21:55` — section spacing update
 - `2026-06-05 21:55` — audit spacing tokens for duplicate values
+- `2026-06-06 23:17` — tighten compact density spacing
