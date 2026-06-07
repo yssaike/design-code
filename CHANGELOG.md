@@ -3072,3 +3072,4 @@
 - `2026-06-07 16:04` — pull latest brand variables from design system
 - `2026-06-07 16:04` — font weight adjustment
 - `2026-06-07 16:04` — refine table row hover state tokens
+- `2026-06-07 16:04` — resolve visual glitch in dark mode
