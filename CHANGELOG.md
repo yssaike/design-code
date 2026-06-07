@@ -3074,3 +3074,4 @@
 - `2026-06-07 16:04` — refine table row hover state tokens
 - `2026-06-07 16:04` — resolve visual glitch in dark mode
 - `2026-06-07 16:04` — fix broken transition on theme toggle
+- `2026-06-07 16:04` — patch off-by-one pixel alignment in grid
