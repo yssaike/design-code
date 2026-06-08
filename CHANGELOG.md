@@ -3104,3 +3104,4 @@
 - `2026-06-07 16:04` — input field refinement
 - `2026-06-07 16:04` — card component update
 - `2026-06-07 16:04` — tooltip design tweak
+- `2026-06-08 15:27` — update skeleton shimmer timing
