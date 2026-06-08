@@ -3108,3 +3108,4 @@
 - `2026-06-08 15:27` — accessibility contrast fix
 - `2026-06-08 15:27` — keyboard navigation fix
 - `2026-06-08 15:27` — fix token export pipeline
+- `2026-06-08 15:27` — update Figma token sync config
