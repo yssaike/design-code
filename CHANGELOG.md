@@ -3120,3 +3120,4 @@
 - `2026-06-09 12:16` — brand color alignment
 - `2026-06-09 12:16` — surface color update
 - `2026-06-09 12:16` — semantic color token fix
+- `2026-06-09 12:16` — tweak surface colors for better light-mode legibility
