@@ -3134,3 +3134,4 @@
 - `2026-06-09 12:16` — active state refinement
 - `2026-06-09 12:16` — responsive layout tweak
 - `2026-06-09 12:16` — overflow fix
+- `2026-06-09 12:16` — visual regression fix
