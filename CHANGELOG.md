@@ -3135,3 +3135,4 @@
 - `2026-06-09 12:16` — responsive layout tweak
 - `2026-06-09 12:16` — overflow fix
 - `2026-06-09 12:16` — visual regression fix
+- `2026-06-09 12:16` — patch stacking context issue in overlay
