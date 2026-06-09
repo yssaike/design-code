@@ -3125,3 +3125,4 @@
 - `2026-06-09 12:16` — brand spacing alignment
 - `2026-06-09 12:16` — brand asset refresh
 - `2026-06-09 12:16` — navigation styling fix
+- `2026-06-09 12:16` — tab component refinement
