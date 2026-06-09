@@ -3130,3 +3130,4 @@
 - `2026-06-09 12:16` — fix icon size inconsistency in nav
 - `2026-06-09 12:16` — update stepper component tokens
 - `2026-06-09 12:16` — patch divider component thickness
+- `2026-06-09 12:16` — update switch component track tokens
