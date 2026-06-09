@@ -3126,3 +3126,4 @@
 - `2026-06-09 12:16` — brand asset refresh
 - `2026-06-09 12:16` — navigation styling fix
 - `2026-06-09 12:16` — tab component refinement
+- `2026-06-09 12:16` — update link component underline style
