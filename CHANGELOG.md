@@ -3137,3 +3137,4 @@
 - `2026-06-09 12:16` — visual regression fix
 - `2026-06-09 12:16` — patch stacking context issue in overlay
 - `2026-06-09 12:16` — improve color contrast on disabled text
+- `2026-06-09 12:16` — ensure touch target meets 44px minimum
