@@ -3143,3 +3143,4 @@
 - `2026-06-09 12:16` — reorganize token file structure
 - `2026-06-09 12:16` — consolidate duplicate component tokens
 - `2026-06-09 12:16` — split color tokens into primitives and semantics
+- `2026-06-10 08:15` — deduplicate shadow definitions
