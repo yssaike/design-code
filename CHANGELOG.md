@@ -3172,3 +3172,4 @@
 - `2026-06-10 08:15` — dropdown menu update
 - `2026-06-10 08:15` — clean up form field error state styles
 - `2026-06-10 08:15` — hover state fix
+- `2026-06-10 08:15` — disabled state styling
