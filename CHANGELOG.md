@@ -3170,3 +3170,4 @@
 - `2026-06-10 08:15` — fix missing italic weight token
 - `2026-06-10 08:15` — margin alignment
 - `2026-06-10 08:15` — dropdown menu update
+- `2026-06-10 08:15` — clean up form field error state styles
