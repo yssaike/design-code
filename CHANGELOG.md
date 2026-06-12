@@ -3178,3 +3178,4 @@
 - `2026-06-11 23:01` — correct misaligned icon in button component
 - `2026-06-11 23:01` — patch spacing regression from last merge
 - `2026-06-11 23:01` — clean up leftover debug border
+- `2026-06-11 23:01` — fix clipped text in compact variant
