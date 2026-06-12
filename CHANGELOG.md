@@ -3190,3 +3190,4 @@
 - `2026-06-11 23:01` — screen reader label add
 - `2026-06-11 23:01` — add focus token for custom components
 - `2026-06-11 23:01` — brand font update
+- `2026-06-11 23:01` — brand guideline sync
