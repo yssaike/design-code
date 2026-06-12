@@ -3198,3 +3198,4 @@
 - `2026-06-11 23:01` — fix responsive type scale breakpoints
 - `2026-06-11 23:01` — update display heading tokens
 - `2026-06-11 23:01` — bump body font size for readability
+- `2026-06-11 23:01` — padding consistency fix
