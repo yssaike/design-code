@@ -3182,3 +3182,4 @@
 - `2026-06-11 23:01` — resolve color bleed on adjacent components
 - `2026-06-11 23:01` — fix missing border on selected state
 - `2026-06-11 23:01` — correct elevation token on sticky header
+- `2026-06-11 23:01` — micro-interaction refinement
