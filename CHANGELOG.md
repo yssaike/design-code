@@ -3205,3 +3205,4 @@
 - `2026-06-12 23:34` — aria attribute update
 - `2026-06-12 23:34` — add skip-to-content link tokens
 - `2026-06-12 23:34` — fix missing label on icon-only button
+- `2026-06-12 23:34` — update focus-visible styles for interactive elements
