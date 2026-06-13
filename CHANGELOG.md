@@ -3231,3 +3231,4 @@
 - `2026-06-12 23:34` — update page-level layout margins
 - `2026-06-12 23:34` — button style update
 - `2026-06-12 23:34` — modal design update
+- `2026-06-12 23:34` — checkbox style refresh
