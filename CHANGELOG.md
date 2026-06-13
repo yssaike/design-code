@@ -3218,3 +3218,4 @@
 - `2026-06-12 23:34` — update style dictionary config
 - `2026-06-12 23:34` — document new color semantics
 - `2026-06-12 23:34` — update changelog format
+- `2026-06-12 23:34` — add inline docs to spacing scale
