@@ -3237,3 +3237,4 @@
 - `2026-06-12 23:34` — refresh skeleton loader animation timing
 - `2026-06-12 23:34` — adjust chip component padding
 - `2026-06-12 23:34` — fix inline alert padding
+- `2026-06-12 23:34` — refine popover arrow token values
