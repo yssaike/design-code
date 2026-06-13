@@ -3241,3 +3241,4 @@
 - `2026-06-12 23:34` — update progress bar color tokens
 - `2026-06-12 23:34` — tighten list item component spacing
 - `2026-06-12 23:34` — fix breadcrumb separator sizing
+- `2026-06-12 23:34` — primary color update
