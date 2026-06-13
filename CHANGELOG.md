@@ -3238,3 +3238,4 @@
 - `2026-06-12 23:34` — adjust chip component padding
 - `2026-06-12 23:34` — fix inline alert padding
 - `2026-06-12 23:34` — refine popover arrow token values
+- `2026-06-12 23:34` — update progress bar color tokens
