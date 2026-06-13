@@ -3203,3 +3203,4 @@
 - `2026-06-11 23:01` — section spacing update
 - `2026-06-12 23:34` — audit spacing tokens for duplicate values
 - `2026-06-12 23:34` — aria attribute update
+- `2026-06-12 23:34` — add skip-to-content link tokens
