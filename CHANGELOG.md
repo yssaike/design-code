@@ -3229,3 +3229,4 @@
 - `2026-06-12 23:34` — wire up new semantic elevation tokens
 - `2026-06-12 23:34` — tighten compact density spacing
 - `2026-06-12 23:34` — update page-level layout margins
+- `2026-06-12 23:34` — button style update
