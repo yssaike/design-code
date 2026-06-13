@@ -3204,3 +3204,4 @@
 - `2026-06-12 23:34` — audit spacing tokens for duplicate values
 - `2026-06-12 23:34` — aria attribute update
 - `2026-06-12 23:34` — add skip-to-content link tokens
+- `2026-06-12 23:34` — fix missing label on icon-only button
