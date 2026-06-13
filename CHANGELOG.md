@@ -3243,3 +3243,4 @@
 - `2026-06-12 23:34` — fix breadcrumb separator sizing
 - `2026-06-12 23:34` — primary color update
 - `2026-06-12 23:34` — remap semantic color tokens to new primitives
+- `2026-06-12 23:34` — sync color tokens with latest Figma variables export
