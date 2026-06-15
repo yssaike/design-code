@@ -15,7 +15,7 @@
   "sectionGap": "32px",
   "containerPadding": "40px",
   "cardPadding": "2px",
-  "inputPadding": "16px",
+  "inputPadding": "4px",
   "buttonPaddingX": "2px",
   "buttonPaddingY": "6px"
 }
