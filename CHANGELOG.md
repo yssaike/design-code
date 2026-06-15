@@ -3288,3 +3288,4 @@
 - `2026-06-15 07:12` — extract repeated values into shared base tokens
 - `2026-06-15 07:12` — tidy up token category groupings
 - `2026-06-15 07:12` — update design token build script
+- `2026-06-15 07:12` — secondary palette refinement
