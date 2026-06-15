@@ -3301,3 +3301,4 @@
 - `2026-06-15 07:12` — update README with latest token structure
 - `2026-06-15 07:12` — add token decision rationale to comments
 - `2026-06-15 07:12` — add responsive token breakpoints
+- `2026-06-15 07:12` — brand color alignment
