@@ -3291,3 +3291,4 @@
 - `2026-06-15 07:12` — secondary palette refinement
 - `2026-06-15 07:12` — dark mode color tweak
 - `2026-06-15 07:12` — color palette expansion
+- `2026-06-15 07:12` — update skeleton shimmer timing
