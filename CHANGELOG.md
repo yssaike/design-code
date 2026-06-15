@@ -3308,3 +3308,4 @@
 - `2026-06-15 07:12` — bump gray scale contrast levels
 - `2026-06-15 07:12` — brand spacing alignment
 - `2026-06-15 07:12` — brand asset refresh
+- `2026-06-15 07:12` — navigation styling fix
