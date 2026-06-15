@@ -3279,3 +3279,4 @@
 - `2026-06-14 18:05` — transition easing change
 - `2026-06-14 18:05` — loading animation tweak
 - `2026-06-14 18:05` — scroll animation fix
+- `2026-06-14 18:05` — add entrance animation for modal overlay
