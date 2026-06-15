@@ -3251,3 +3251,4 @@
 - `2026-06-14 18:04` — pull latest brand variables from design system
 - `2026-06-14 18:04` — font weight adjustment
 - `2026-06-14 18:04` — heading hierarchy fix
+- `2026-06-14 18:04` — font family swap
