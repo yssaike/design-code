@@ -3273,3 +3273,4 @@
 - `2026-06-14 18:05` — fix ghost button hover color
 - `2026-06-14 18:05` — resolve visual glitch in dark mode
 - `2026-06-14 18:05` — fix broken transition on theme toggle
+- `2026-06-14 18:05` — patch off-by-one pixel alignment in grid
