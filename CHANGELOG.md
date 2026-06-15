@@ -3293,3 +3293,4 @@
 - `2026-06-15 07:12` — color palette expansion
 - `2026-06-15 07:12` — update skeleton shimmer timing
 - `2026-06-15 07:12` — accessibility contrast fix
+- `2026-06-15 07:12` — keyboard navigation fix
