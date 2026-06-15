@@ -12,7 +12,7 @@
     "borderRadius": "6px",
     "paddingX": "4px",
     "paddingY": "24px",
-    "borderWidth": "8px",
+    "borderWidth": "4px",
     "fontSize": "1px",
     "shadow": "3px 8px 22px rgba(0,0,0,0.04)"
   },
