@@ -3303,3 +3303,4 @@
 - `2026-06-15 07:12` — add responsive token breakpoints
 - `2026-06-15 07:12` — brand color alignment
 - `2026-06-15 07:12` — surface color update
+- `2026-06-15 07:12` — semantic color token fix
