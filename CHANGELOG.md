@@ -3295,3 +3295,4 @@
 - `2026-06-15 07:12` — accessibility contrast fix
 - `2026-06-15 07:12` — keyboard navigation fix
 - `2026-06-15 07:12` — fix token export pipeline
+- `2026-06-15 07:12` — update Figma token sync config
