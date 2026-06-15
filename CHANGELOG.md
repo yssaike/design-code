@@ -3248,3 +3248,4 @@
 - `2026-06-12 23:34` — refine success and warning color tokens
 - `2026-06-12 23:34` — update background color for elevated surfaces
 - `2026-06-12 23:34` — sync brand tokens with latest identity refresh
+- `2026-06-14 18:04` — pull latest brand variables from design system
