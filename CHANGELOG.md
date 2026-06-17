@@ -3327,3 +3327,4 @@
 - `2026-06-17 06:24` — reorganize token file structure
 - `2026-06-17 06:24` — consolidate duplicate component tokens
 - `2026-06-17 06:24` — split color tokens into primitives and semantics
+- `2026-06-17 06:24` — accent color adjustment
