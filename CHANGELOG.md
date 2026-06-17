@@ -3335,3 +3335,4 @@
 - `2026-06-17 06:24` — align info color with accessibility requirements
 - `2026-06-17 06:24` — brand token change
 - `2026-06-17 06:24` — update wordmark sizing token
+- `2026-06-17 06:24` — reconcile brand color with new creative direction
