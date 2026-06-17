@@ -3331,3 +3331,4 @@
 - `2026-06-17 06:24` — color contrast fix
 - `2026-06-17 06:24` — update neutral palette to reflect new brand direction
 - `2026-06-17 06:24` — fix off-brand blue in CTA components
+- `2026-06-17 06:24` — patch inconsistent error color across states
