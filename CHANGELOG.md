@@ -3336,3 +3336,4 @@
 - `2026-06-17 06:24` — brand token change
 - `2026-06-17 06:24` — update wordmark sizing token
 - `2026-06-17 06:24` — reconcile brand color with new creative direction
+- `2026-06-17 06:24` — typography scale update
