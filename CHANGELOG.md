@@ -3355,3 +3355,4 @@
 - `2026-06-18 16:01` — add usage examples to component tokens
 - `2026-06-18 16:01` — document dark mode token usage
 - `2026-06-18 16:01` — resolve token alias circular references
+- `2026-06-18 16:01` — add high-contrast mode token set
