@@ -3351,3 +3351,4 @@
 - `2026-06-18 16:00` — shadow refinement
 - `2026-06-18 16:00` — deduplicate shadow definitions
 - `2026-06-18 16:01` — normalize token key casing
+- `2026-06-18 16:01` — update token documentation
