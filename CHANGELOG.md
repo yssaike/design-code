@@ -3360,3 +3360,4 @@
 - `2026-06-18 16:01` — add compact density token tier
 - `2026-06-18 16:01` — brand font update
 - `2026-06-18 16:01` — brand guideline sync
+- `2026-06-18 16:01` — update logo sizing constraints
