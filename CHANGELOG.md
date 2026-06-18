@@ -3348,3 +3348,4 @@
 - `2026-06-18 16:00` — clean up form field error state styles
 - `2026-06-18 16:00` — hover state fix
 - `2026-06-18 16:00` — disabled state styling
+- `2026-06-18 16:00` — shadow refinement
