@@ -3369,3 +3369,4 @@
 - `2026-06-18 16:01` — bump body font size for readability
 - `2026-06-18 16:01` — padding consistency fix
 - `2026-06-18 16:01` — layout spacing refinement
+- `2026-06-20 12:49` — section spacing update
