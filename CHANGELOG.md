@@ -3382,3 +3382,4 @@
 - `2026-06-20 12:49` — remove jarring jump in accordion open
 - `2026-06-20 12:49` — update stagger delay for list animations
 - `2026-06-20 12:49` — tune reduced-motion fallback tokens
+- `2026-06-20 12:49` — focus indicator update
