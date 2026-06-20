@@ -3372,3 +3372,4 @@
 - `2026-06-20 12:49` — section spacing update
 - `2026-06-20 12:49` — fix broken outline on focus for keyboard users
 - `2026-06-20 12:49` — correct misaligned icon in button component
+- `2026-06-20 12:49` — patch spacing regression from last merge
