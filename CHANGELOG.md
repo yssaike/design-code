@@ -3433,3 +3433,4 @@
 - `2026-06-21 12:45` — update token output format to CSS variables
 - `2026-06-21 12:45` — wire up new semantic elevation tokens
 - `2026-06-21 12:45` — pull latest brand variables from design system
+- `2026-06-21 12:45` — font weight adjustment
