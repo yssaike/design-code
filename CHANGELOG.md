@@ -3430,3 +3430,4 @@
 - `2026-06-21 12:45` — add missing dark mode token variants
 - `2026-06-21 12:45` — add new surface token for overlay backgrounds
 - `2026-06-21 12:45` — patch broken token reference in components
+- `2026-06-21 12:45` — update token output format to CSS variables
