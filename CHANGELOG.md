@@ -3409,3 +3409,4 @@
 - `2026-06-21 12:45` — fix breadcrumb separator sizing
 - `2026-06-21 12:45` — aria attribute update
 - `2026-06-21 12:45` — add skip-to-content link tokens
+- `2026-06-21 12:45` — fix missing label on icon-only button
