@@ -3400,3 +3400,4 @@
 - `2026-06-21 12:45` — checkbox style refresh
 - `2026-06-21 12:45` — badge design update
 - `2026-06-21 12:45` — refine avatar sizing tokens
+- `2026-06-21 12:45` — refresh skeleton loader animation timing
