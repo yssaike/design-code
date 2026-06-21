@@ -3422,3 +3422,4 @@
 - `2026-06-21 12:45` — clean up generated output artifacts
 - `2026-06-21 12:45` — update style dictionary config
 - `2026-06-21 12:45` — document new color semantics
+- `2026-06-21 12:45` — update changelog format
