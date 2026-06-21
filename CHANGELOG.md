@@ -3424,3 +3424,4 @@
 - `2026-06-21 12:45` — document new color semantics
 - `2026-06-21 12:45` — update changelog format
 - `2026-06-21 12:45` — add inline docs to spacing scale
+- `2026-06-21 12:45` — document token alias conventions
