@@ -3407,3 +3407,4 @@
 - `2026-06-21 12:45` — update progress bar color tokens
 - `2026-06-21 12:45` — tighten list item component spacing
 - `2026-06-21 12:45` — fix breadcrumb separator sizing
+- `2026-06-21 12:45` — aria attribute update

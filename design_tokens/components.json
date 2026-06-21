@@ -20,7 +20,7 @@
     "borderRadius": "4px",
     "padding": "24px",
     "shadow": "4px 5px 5px rgba(0,0,0,0.08)",
-    "borderWidth": "8px",
+    "borderWidth": "4px",
     "gap": "4px"
   },
   "modal": {
