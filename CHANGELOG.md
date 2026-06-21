@@ -3402,3 +3402,4 @@
 - `2026-06-21 12:45` — refine avatar sizing tokens
 - `2026-06-21 12:45` — refresh skeleton loader animation timing
 - `2026-06-21 12:45` — adjust chip component padding
+- `2026-06-21 12:45` — fix inline alert padding
