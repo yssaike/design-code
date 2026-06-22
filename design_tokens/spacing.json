@@ -12,7 +12,7 @@
   "5xl": "2px",
   "6xl": "6px",
   "7xl": "2px",
-  "sectionGap": "32px",
+  "sectionGap": "24px",
   "containerPadding": "64px",
   "cardPadding": "2px",
   "inputPadding": "10px",
