@@ -3434,3 +3434,4 @@
 - `2026-06-21 12:45` — wire up new semantic elevation tokens
 - `2026-06-21 12:45` — pull latest brand variables from design system
 - `2026-06-21 12:45` — font weight adjustment
+- `2026-06-22 07:15` — heading hierarchy fix
