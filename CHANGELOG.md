@@ -3462,3 +3462,4 @@
 - `2026-06-22 07:15` — animation duration update
 - `2026-06-22 07:15` — transition easing change
 - `2026-06-22 07:15` — loading animation tweak
+- `2026-06-22 07:15` — scroll animation fix
