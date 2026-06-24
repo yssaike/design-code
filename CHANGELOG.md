@@ -3466,3 +3466,4 @@
 - `2026-06-23 23:59` — add entrance animation for modal overlay
 - `2026-06-23 23:59` — smooth out tab transition timing
 - `2026-06-23 23:59` — refine easing curve on drawer slide
+- `2026-06-23 23:59` — secondary palette refinement
