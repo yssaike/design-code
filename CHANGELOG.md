@@ -3498,3 +3498,4 @@
 - `2026-06-27 01:48` — update README with latest token structure
 - `2026-06-27 01:48` — add token decision rationale to comments
 - `2026-06-27 01:48` — add responsive token breakpoints
+- `2026-06-27 01:48` — accent color adjustment
