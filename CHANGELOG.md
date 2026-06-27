@@ -3473,3 +3473,4 @@
 - `2026-06-23 23:59` — surface color update
 - `2026-06-27 01:48` — semantic color token fix
 - `2026-06-27 01:48` — tweak surface colors for better light-mode legibility
+- `2026-06-27 01:48` — bump gray scale contrast levels
