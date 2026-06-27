@@ -3513,3 +3513,4 @@
 - `2026-06-27 01:48` — normalize font stack across platforms
 - `2026-06-27 01:48` — audit and clean up unused type styles
 - `2026-06-27 01:48` — update switch component track tokens
+- `2026-06-27 01:48` — active state refinement
