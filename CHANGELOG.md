@@ -3476,3 +3476,4 @@
 - `2026-06-27 01:48` — bump gray scale contrast levels
 - `2026-06-27 01:48` — brand spacing alignment
 - `2026-06-27 01:48` — brand asset refresh
+- `2026-06-27 01:48` — navigation styling fix
