@@ -3510,3 +3510,4 @@
 - `2026-06-27 01:48` — typography scale update
 - `2026-06-27 01:48` — line height refinement
 - `2026-06-27 01:48` — letter spacing tweak
+- `2026-06-27 01:48` — normalize font stack across platforms
