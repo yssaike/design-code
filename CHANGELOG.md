@@ -3486,3 +3486,4 @@
 - `2026-06-27 01:48` — normalize exit animation duration tokens
 - `2026-06-27 01:48` — update skeleton shimmer timing
 - `2026-06-27 01:48` — accessibility contrast fix
+- `2026-06-27 01:48` — keyboard navigation fix

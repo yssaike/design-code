@@ -26,7 +26,7 @@
   "modal": {
     "borderRadius": "8px",
     "padding": "4px",
-    "shadow": "4px 2px 21px rgba(0,0,0,0.19)",
+    "shadow": "3px 2px 9px rgba(0,0,0,0.17)",
     "maxWidth": "1px",
     "gap": "12px"
   },
