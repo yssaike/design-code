@@ -3505,3 +3505,4 @@
 - `2026-06-27 01:48` — patch inconsistent error color across states
 - `2026-06-27 01:48` — align info color with accessibility requirements
 - `2026-06-27 01:48` — brand token change
+- `2026-06-27 01:48` — update wordmark sizing token
