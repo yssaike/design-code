@@ -3529,3 +3529,4 @@
 - `2026-06-28 12:07` — brand guideline sync
 - `2026-06-28 12:07` — update logo sizing constraints
 - `2026-06-28 12:07` — align brand palette with updated guidelines
+- `2026-06-28 12:07` — refresh brand gradient values
