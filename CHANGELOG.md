@@ -3527,3 +3527,4 @@
 - `2026-06-28 12:07` — split color tokens into primitives and semantics
 - `2026-06-28 12:07` — brand font update
 - `2026-06-28 12:07` — brand guideline sync
+- `2026-06-28 12:07` — update logo sizing constraints
