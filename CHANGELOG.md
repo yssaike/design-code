@@ -3547,3 +3547,4 @@
 - `2026-06-28 12:07` — deduplicate shadow definitions
 - `2026-06-28 12:07` — normalize token key casing
 - `2026-06-28 12:07` — update token documentation
+- `2026-06-28 12:07` — add usage examples to component tokens
