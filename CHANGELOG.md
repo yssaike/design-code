@@ -3548,3 +3548,4 @@
 - `2026-06-28 12:07` — normalize token key casing
 - `2026-06-28 12:07` — update token documentation
 - `2026-06-28 12:07` — add usage examples to component tokens
+- `2026-06-28 12:07` — document dark mode token usage
