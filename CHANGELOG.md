@@ -3544,3 +3544,4 @@
 - `2026-06-28 12:07` — hover state fix
 - `2026-06-28 12:07` — disabled state styling
 - `2026-06-28 12:07` — shadow refinement
+- `2026-06-28 12:07` — deduplicate shadow definitions
