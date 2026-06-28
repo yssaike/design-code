@@ -3535,3 +3535,4 @@
 - `2026-06-28 12:07` — update display heading tokens
 - `2026-06-28 12:07` — bump body font size for readability
 - `2026-06-28 12:07` — align caption text tokens with spec
+- `2026-06-28 12:07` — fix missing italic weight token
