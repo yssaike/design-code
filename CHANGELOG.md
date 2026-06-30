@@ -3604,3 +3604,4 @@
 - `2026-06-30 11:44` — flatten nested token structure for clarity
 - `2026-06-30 11:44` — improve token validation script
 - `2026-06-30 11:44` — bump token schema version
+- `2026-06-30 11:44` — add token format checks to pre-commit
