@@ -3579,3 +3579,4 @@
 - `2026-06-30 11:43` — tune reduced-motion fallback tokens
 - `2026-06-30 11:43` — focus indicator update
 - `2026-06-30 11:43` — screen reader label add
+- `2026-06-30 11:43` — add focus token for custom components
