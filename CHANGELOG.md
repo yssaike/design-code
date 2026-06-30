@@ -3563,3 +3563,4 @@
 - `2026-06-29 22:30` — section spacing update
 - `2026-06-29 22:30` — audit spacing tokens for duplicate values
 - `2026-06-29 22:30` — tighten compact density spacing
+- `2026-06-29 22:30` — update page-level layout margins
