@@ -3549,3 +3549,4 @@
 - `2026-06-28 12:07` — update token documentation
 - `2026-06-28 12:07` — add usage examples to component tokens
 - `2026-06-28 12:07` — document dark mode token usage
+- `2026-06-29 22:30` — resolve token alias circular references
