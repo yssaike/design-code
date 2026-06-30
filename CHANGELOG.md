@@ -3562,3 +3562,4 @@
 - `2026-06-29 22:30` — sync brand tokens with latest identity refresh
 - `2026-06-29 22:30` — section spacing update
 - `2026-06-29 22:30` — audit spacing tokens for duplicate values
+- `2026-06-29 22:30` — tighten compact density spacing
