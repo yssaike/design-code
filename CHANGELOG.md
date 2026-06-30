@@ -3606,3 +3606,4 @@
 - `2026-06-30 11:44` — bump token schema version
 - `2026-06-30 11:44` — add token format checks to pre-commit
 - `2026-06-30 11:44` — clean up generated output artifacts
+- `2026-06-30 11:44` — update style dictionary config
