@@ -14,7 +14,7 @@
     "paddingY": "16px",
     "borderWidth": "1px",
     "fontSize": "8px",
-    "shadow": "3px 5px 10px rgba(0,0,0,0.16)"
+    "shadow": "2px 4px 8px rgba(0,0,0,0.2)"
   },
   "card": {
     "borderRadius": "4px",
