@@ -3582,3 +3582,4 @@
 - `2026-06-30 11:43` — add focus token for custom components
 - `2026-06-30 11:43` — pull latest brand variables from design system
 - `2026-06-30 11:43` — font weight adjustment
+- `2026-06-30 11:43` — modal design update
