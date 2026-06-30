@@ -3584,3 +3584,4 @@
 - `2026-06-30 11:43` — font weight adjustment
 - `2026-06-30 11:43` — modal design update
 - `2026-06-30 11:43` — checkbox style refresh
+- `2026-06-30 11:43` — badge design update
