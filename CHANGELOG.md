@@ -3587,3 +3587,4 @@
 - `2026-06-30 11:43` — badge design update
 - `2026-06-30 11:43` — refine avatar sizing tokens
 - `2026-06-30 11:43` — refresh skeleton loader animation timing
+- `2026-06-30 11:43` — adjust chip component padding
