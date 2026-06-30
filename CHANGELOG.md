@@ -3601,3 +3601,4 @@
 - `2026-06-30 11:44` — clean up token naming inconsistencies
 - `2026-06-30 11:44` — remove deprecated spacing tokens
 - `2026-06-30 11:44` — rename tokens to match new naming convention
+- `2026-06-30 11:44` — flatten nested token structure for clarity
