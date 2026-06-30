@@ -3565,3 +3565,4 @@
 - `2026-06-29 22:30` — tighten compact density spacing
 - `2026-06-29 22:30` — update page-level layout margins
 - `2026-06-29 22:30` — button style update
+- `2026-06-29 22:30` — fix broken outline on focus for keyboard users
