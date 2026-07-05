@@ -3624,3 +3624,4 @@
 - `2026-07-04 17:01` — update monospace font token
 - `2026-07-04 17:01` — add fluid type scale tokens
 - `2026-07-04 17:01` — spacing token update
+- `2026-07-04 17:01` — grid gap adjustment
