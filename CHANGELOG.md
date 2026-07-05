@@ -3647,3 +3647,4 @@
 - `2026-07-04 17:01` — transition easing change
 - `2026-07-04 17:01` — loading animation tweak
 - `2026-07-04 17:01` — scroll animation fix
+- `2026-07-04 17:01` — secondary palette refinement
