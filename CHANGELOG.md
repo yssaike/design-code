@@ -3618,3 +3618,4 @@
 - `2026-07-04 17:01` — patch broken token reference in components
 - `2026-07-04 17:01` — update token output format to CSS variables
 - `2026-07-04 17:01` — wire up new semantic elevation tokens
+- `2026-07-04 17:01` — heading hierarchy fix
