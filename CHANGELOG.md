@@ -3638,3 +3638,4 @@
 - `2026-07-04 17:01` — border radius update
 - `2026-07-04 17:01` — z-index adjustment
 - `2026-07-04 17:01` — alignment correction
+- `2026-07-04 17:01` — fix ghost button hover color
