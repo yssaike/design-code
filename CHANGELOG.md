@@ -3631,3 +3631,4 @@
 - `2026-07-04 17:01` — fix content spacing inside card variants
 - `2026-07-04 17:01` — align vertical rhythm tokens with type scale
 - `2026-07-04 17:01` — input field refinement
+- `2026-07-04 17:01` — card component update
