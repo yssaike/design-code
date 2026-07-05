@@ -3614,3 +3614,4 @@
 - `2026-06-30 11:44` — add migration notes for renamed tokens
 - `2026-06-30 11:44` — export latest tokens from Figma
 - `2026-06-30 11:44` — add missing dark mode token variants
+- `2026-07-04 17:01` — add new surface token for overlay backgrounds
