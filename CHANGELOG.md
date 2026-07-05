@@ -3643,3 +3643,4 @@
 - `2026-07-04 17:01` — fix broken transition on theme toggle
 - `2026-07-04 17:01` — patch off-by-one pixel alignment in grid
 - `2026-07-04 17:01` — patch inconsistent corner radius in form inputs
+- `2026-07-04 17:01` — animation duration update
