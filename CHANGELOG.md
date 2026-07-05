@@ -3649,3 +3649,4 @@
 - `2026-07-04 17:01` — scroll animation fix
 - `2026-07-04 17:01` — secondary palette refinement
 - `2026-07-04 17:01` — dark mode color tweak
+- `2026-07-04 17:01` — color palette expansion
