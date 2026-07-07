@@ -3669,3 +3669,4 @@
 - `2026-07-06 22:48` — brand asset refresh
 - `2026-07-06 22:48` — update wordmark sizing token
 - `2026-07-06 22:48` — reconcile brand color with new creative direction
+- `2026-07-06 22:48` — typography scale update
