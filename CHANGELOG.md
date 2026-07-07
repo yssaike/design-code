@@ -3675,3 +3675,4 @@
 - `2026-07-06 22:48` — normalize font stack across platforms
 - `2026-07-06 22:48` — audit and clean up unused type styles
 - `2026-07-06 22:48` — navigation styling fix
+- `2026-07-06 22:48` — tab component refinement
