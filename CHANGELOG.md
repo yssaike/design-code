@@ -3655,3 +3655,4 @@
 - `2026-07-04 17:01` — add entrance animation for modal overlay
 - `2026-07-06 22:48` — smooth out tab transition timing
 - `2026-07-06 22:48` — refine easing curve on drawer slide
+- `2026-07-06 22:48` — accent color adjustment
