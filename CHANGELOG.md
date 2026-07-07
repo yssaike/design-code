@@ -3663,3 +3663,4 @@
 - `2026-07-06 22:48` — tweak surface colors for better light-mode legibility
 - `2026-07-06 22:48` — bump gray scale contrast levels
 - `2026-07-06 22:48` — patch inconsistent error color across states
+- `2026-07-06 22:48` — align info color with accessibility requirements
