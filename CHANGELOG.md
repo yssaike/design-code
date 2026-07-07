@@ -3658,3 +3658,4 @@
 - `2026-07-06 22:48` — accent color adjustment
 - `2026-07-06 22:48` — color contrast fix
 - `2026-07-06 22:48` — semantic color token fix
+- `2026-07-06 22:48` — update neutral palette to reflect new brand direction
