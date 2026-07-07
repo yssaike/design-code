@@ -3678,3 +3678,4 @@
 - `2026-07-06 22:48` — tab component refinement
 - `2026-07-06 22:48` — update link component underline style
 - `2026-07-06 22:48` — fix icon size inconsistency in nav
+- `2026-07-06 22:48` — update stepper component tokens
