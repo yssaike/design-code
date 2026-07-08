@@ -3719,3 +3719,4 @@
 - `2026-07-08 11:29` — margin alignment
 - `2026-07-08 11:29` — layout spacing refinement
 - `2026-07-08 11:29` — dropdown menu update
+- `2026-07-08 11:29` — clean up form field error state styles
