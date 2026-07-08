@@ -3705,3 +3705,4 @@
 - `2026-07-08 11:28` — add token decision rationale to comments
 - `2026-07-08 11:28` — add responsive token breakpoints
 - `2026-07-08 11:28` — brand font update
+- `2026-07-08 11:28` — brand guideline sync
