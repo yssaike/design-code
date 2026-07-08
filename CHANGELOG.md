@@ -3718,3 +3718,4 @@
 - `2026-07-08 11:29` — padding consistency fix
 - `2026-07-08 11:29` — margin alignment
 - `2026-07-08 11:29` — layout spacing refinement
+- `2026-07-08 11:29` — dropdown menu update
