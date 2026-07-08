@@ -3712,3 +3712,4 @@
 - `2026-07-08 11:29` — body text improvement
 - `2026-07-08 11:29` — fix responsive type scale breakpoints
 - `2026-07-08 11:29` — update display heading tokens
+- `2026-07-08 11:29` — bump body font size for readability
