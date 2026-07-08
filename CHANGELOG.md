@@ -3688,3 +3688,4 @@
 - `2026-07-08 11:28` — patch stacking context issue in overlay
 - `2026-07-08 11:28` — fix bounce effect on toast notification
 - `2026-07-08 11:28` — normalize exit animation duration tokens
+- `2026-07-08 11:28` — update skeleton shimmer timing
