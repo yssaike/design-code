@@ -3710,3 +3710,4 @@
 - `2026-07-08 11:28` — align brand palette with updated guidelines
 - `2026-07-08 11:29` — refresh brand gradient values
 - `2026-07-08 11:29` — body text improvement
+- `2026-07-08 11:29` — fix responsive type scale breakpoints
