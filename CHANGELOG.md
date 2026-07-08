@@ -3700,3 +3700,4 @@
 - `2026-07-08 11:28` — fix token export pipeline
 - `2026-07-08 11:28` — update Figma token sync config
 - `2026-07-08 11:28` — fix broken token transformer
+- `2026-07-08 11:28` — fix output path in token build config
