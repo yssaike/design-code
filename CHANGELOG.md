@@ -3711,3 +3711,4 @@
 - `2026-07-08 11:29` — refresh brand gradient values
 - `2026-07-08 11:29` — body text improvement
 - `2026-07-08 11:29` — fix responsive type scale breakpoints
+- `2026-07-08 11:29` — update display heading tokens
