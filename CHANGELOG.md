@@ -3696,3 +3696,4 @@
 - `2026-07-08 11:28` — move hardcoded values to tokens
 - `2026-07-08 11:28` — extract repeated values into shared base tokens
 - `2026-07-08 11:28` — tidy up token category groupings
+- `2026-07-08 11:28` — update design token build script
