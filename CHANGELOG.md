@@ -3693,3 +3693,4 @@
 - `2026-07-08 11:28` — keyboard navigation fix
 - `2026-07-08 11:28` — improve color contrast on disabled text
 - `2026-07-08 11:28` — ensure touch target meets 44px minimum
+- `2026-07-08 11:28` — move hardcoded values to tokens
