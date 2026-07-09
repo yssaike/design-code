@@ -3738,3 +3738,4 @@
 - `2026-07-09 09:11` — sync color tokens with latest Figma variables export
 - `2026-07-09 09:11` — adjust alpha values on overlay tokens
 - `2026-07-09 09:11` — refine success and warning color tokens
+- `2026-07-09 09:11` — update background color for elevated surfaces
