@@ -3746,3 +3746,4 @@
 - `2026-07-09 09:11` — update page-level layout margins
 - `2026-07-09 09:11` — button style update
 - `2026-07-09 09:11` — fix broken outline on focus for keyboard users
+- `2026-07-09 09:11` — correct misaligned icon in button component
