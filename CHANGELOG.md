@@ -3724,3 +3724,4 @@
 - `2026-07-09 09:11` — disabled state styling
 - `2026-07-09 09:11` — shadow refinement
 - `2026-07-09 09:11` — audit color pairs for WCAG AA compliance
+- `2026-07-09 09:11` — patch low-contrast placeholder text
