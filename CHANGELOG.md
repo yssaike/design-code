@@ -3733,3 +3733,4 @@
 - `2026-07-09 09:11` — update token documentation
 - `2026-07-09 09:11` — add usage examples to component tokens
 - `2026-07-09 09:11` — document dark mode token usage
+- `2026-07-09 09:11` — primary color update
