@@ -3742,3 +3742,4 @@
 - `2026-07-09 09:11` — sync brand tokens with latest identity refresh
 - `2026-07-09 09:11` — section spacing update
 - `2026-07-09 09:11` — audit spacing tokens for duplicate values
+- `2026-07-09 09:11` — tighten compact density spacing
