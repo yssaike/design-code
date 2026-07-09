@@ -3720,3 +3720,4 @@
 - `2026-07-08 11:29` — layout spacing refinement
 - `2026-07-08 11:29` — dropdown menu update
 - `2026-07-08 11:29` — clean up form field error state styles
+- `2026-07-09 09:11` — hover state fix
