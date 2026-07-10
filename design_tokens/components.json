@@ -5,7 +5,7 @@
     "paddingY": "4px",
     "shadow": "3px 8px 5px rgba(0,0,0,0.05)",
     "fontSize": "2px",
-    "fontWeight": "8px",
+    "fontWeight": "12px",
     "gap": "12px"
   },
   "input": {
