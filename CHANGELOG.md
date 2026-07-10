@@ -3762,3 +3762,4 @@
 - `2026-07-10 08:21` — add compact density token tier
 - `2026-07-10 08:21` — pull latest brand variables from design system
 - `2026-07-10 08:21` — font weight adjustment
+- `2026-07-10 08:21` — modal design update
