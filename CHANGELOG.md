@@ -3757,3 +3757,4 @@
 - `2026-07-09 09:11` — remove jarring jump in accordion open
 - `2026-07-09 09:11` — update stagger delay for list animations
 - `2026-07-09 09:11` — resolve token alias circular references
+- `2026-07-10 08:21` — add high-contrast mode token set
