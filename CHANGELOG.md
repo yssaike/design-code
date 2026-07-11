@@ -3777,3 +3777,4 @@
 - `2026-07-11 14:44` — focus indicator update
 - `2026-07-11 14:44` — screen reader label add
 - `2026-07-11 14:44` — aria attribute update
+- `2026-07-11 14:44` — add skip-to-content link tokens
