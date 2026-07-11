@@ -3785,3 +3785,4 @@
 - `2026-07-11 14:44` — remove deprecated spacing tokens
 - `2026-07-11 14:44` — rename tokens to match new naming convention
 - `2026-07-11 14:44` — flatten nested token structure for clarity
+- `2026-07-11 14:44` — improve token validation script
