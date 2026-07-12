@@ -3804,3 +3804,4 @@
 - `2026-07-12 01:55` — brand color alignment
 - `2026-07-12 01:55` — surface color update
 - `2026-07-12 01:55` — heading hierarchy fix
+- `2026-07-12 01:55` — font family swap
