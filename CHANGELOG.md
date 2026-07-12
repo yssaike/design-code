@@ -3798,3 +3798,4 @@
 - `2026-07-11 14:44` — export latest tokens from Figma
 - `2026-07-11 14:44` — add missing dark mode token variants
 - `2026-07-12 01:55` — add focus token for custom components
+- `2026-07-12 01:55` — secondary palette refinement
