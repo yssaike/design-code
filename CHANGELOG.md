@@ -3815,3 +3815,4 @@
 - `2026-07-12 01:55` — add missing spacing token for inline elements
 - `2026-07-12 01:55` — fix content spacing inside card variants
 - `2026-07-15 09:18` — align vertical rhythm tokens with type scale
+- `2026-07-15 09:18` — input field refinement
