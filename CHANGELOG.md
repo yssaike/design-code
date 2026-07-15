@@ -3845,3 +3845,4 @@
 - `2026-07-15 09:18` — tweak surface colors for better light-mode legibility
 - `2026-07-15 09:18` — bump gray scale contrast levels
 - `2026-07-15 09:18` — patch inconsistent error color across states
+- `2026-07-15 09:18` — align info color with accessibility requirements
