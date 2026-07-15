@@ -3839,3 +3839,4 @@
 - `2026-07-15 09:18` — wire up new semantic elevation tokens
 - `2026-07-15 09:18` — accent color adjustment
 - `2026-07-15 09:18` — color contrast fix
+- `2026-07-15 09:18` — semantic color token fix
