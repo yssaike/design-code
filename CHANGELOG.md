@@ -3822,3 +3822,4 @@
 - `2026-07-15 09:18` — focus ring update
 - `2026-07-15 09:18` — border radius update
 - `2026-07-15 09:18` — z-index adjustment
+- `2026-07-15 09:18` — alignment correction
