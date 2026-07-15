@@ -3841,3 +3841,4 @@
 - `2026-07-15 09:18` — color contrast fix
 - `2026-07-15 09:18` — semantic color token fix
 - `2026-07-15 09:18` — update neutral palette to reflect new brand direction
+- `2026-07-15 09:18` — fix off-brand blue in CTA components
