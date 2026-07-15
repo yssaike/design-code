@@ -3824,3 +3824,4 @@
 - `2026-07-15 09:18` — z-index adjustment
 - `2026-07-15 09:18` — alignment correction
 - `2026-07-15 09:18` — fix ghost button hover color
+- `2026-07-15 09:18` — resolve visual glitch in dark mode
