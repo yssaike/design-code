@@ -3834,3 +3834,4 @@
 - `2026-07-15 09:18` — scroll animation fix
 - `2026-07-15 09:18` — add entrance animation for modal overlay
 - `2026-07-15 09:18` — add new surface token for overlay backgrounds
+- `2026-07-15 09:18` — patch broken token reference in components
