@@ -3830,3 +3830,4 @@
 - `2026-07-15 09:18` — patch inconsistent corner radius in form inputs
 - `2026-07-15 09:18` — animation duration update
 - `2026-07-15 09:18` — transition easing change
+- `2026-07-15 09:18` — loading animation tweak
