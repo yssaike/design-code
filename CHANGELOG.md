@@ -3848,3 +3848,4 @@
 - `2026-07-15 09:18` — align info color with accessibility requirements
 - `2026-07-15 09:18` — brand token change
 - `2026-07-15 09:18` — brand spacing alignment
+- `2026-07-15 09:18` — brand asset refresh
