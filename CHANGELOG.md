@@ -3858,3 +3858,4 @@
 - `2026-07-16 08:03` — audit and clean up unused type styles
 - `2026-07-16 08:03` — navigation styling fix
 - `2026-07-16 08:03` — tab component refinement
+- `2026-07-16 08:03` — update link component underline style
