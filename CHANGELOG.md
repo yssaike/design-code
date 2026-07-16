@@ -3877,3 +3877,4 @@
 - `2026-07-16 08:03` — bump body font size for readability
 - `2026-07-16 08:03` — align caption text tokens with spec
 - `2026-07-16 08:03` — fix missing italic weight token
+- `2026-07-16 08:03` — padding consistency fix
