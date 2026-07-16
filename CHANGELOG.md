@@ -3864,3 +3864,4 @@
 - `2026-07-16 08:03` — patch divider component thickness
 - `2026-07-16 08:03` — update switch component track tokens
 - `2026-07-16 08:03` — active state refinement
+- `2026-07-16 08:03` — smooth out tab transition timing
