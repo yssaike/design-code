@@ -3866,3 +3866,4 @@
 - `2026-07-16 08:03` — active state refinement
 - `2026-07-16 08:03` — smooth out tab transition timing
 - `2026-07-16 08:03` — refine easing curve on drawer slide
+- `2026-07-16 08:03` — brand font update
