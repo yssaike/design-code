@@ -3869,3 +3869,4 @@
 - `2026-07-16 08:03` — brand font update
 - `2026-07-16 08:03` — brand guideline sync
 - `2026-07-16 08:03` — update logo sizing constraints
+- `2026-07-16 08:03` — align brand palette with updated guidelines
