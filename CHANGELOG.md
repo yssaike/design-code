@@ -3868,3 +3868,4 @@
 - `2026-07-16 08:03` — refine easing curve on drawer slide
 - `2026-07-16 08:03` — brand font update
 - `2026-07-16 08:03` — brand guideline sync
+- `2026-07-16 08:03` — update logo sizing constraints
