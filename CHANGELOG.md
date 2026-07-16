@@ -3853,3 +3853,4 @@
 - `2026-07-15 09:18` — reconcile brand color with new creative direction
 - `2026-07-16 08:03` — typography scale update
 - `2026-07-16 08:03` — line height refinement
+- `2026-07-16 08:03` — letter spacing tweak
