@@ -3898,3 +3898,4 @@
 - `2026-07-17 11:17` — tidy up token category groupings
 - `2026-07-17 11:17` — update design token build script
 - `2026-07-17 11:17` — fix token export pipeline
+- `2026-07-17 11:17` — update Figma token sync config
