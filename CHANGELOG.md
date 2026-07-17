@@ -3903,3 +3903,4 @@
 - `2026-07-17 11:17` — fix output path in token build config
 - `2026-07-17 11:17` — update README with latest token structure
 - `2026-07-17 11:17` — add token decision rationale to comments
+- `2026-07-17 11:17` — add responsive token breakpoints
