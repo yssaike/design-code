@@ -41,7 +41,7 @@
     "borderRadius": "6px",
     "paddingX": "12px",
     "paddingY": "4px",
-    "fontSize": "2px",
+    "fontSize": "4px",
     "fontWeight": "16px"
   },
   "avatar": {
