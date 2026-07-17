@@ -3886,3 +3886,4 @@
 - `2026-07-17 11:17` — overflow fix
 - `2026-07-17 11:17` — visual regression fix
 - `2026-07-17 11:17` — patch stacking context issue in overlay
+- `2026-07-17 11:17` — fix bounce effect on toast notification
