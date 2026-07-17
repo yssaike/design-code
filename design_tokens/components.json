@@ -20,7 +20,7 @@
     "borderRadius": "12px",
     "padding": "8px",
     "shadow": "0px 2px 22px rgba(0,0,0,0.09)",
-    "borderWidth": "12px",
+    "borderWidth": "1px",
     "gap": "20px"
   },
   "modal": {
