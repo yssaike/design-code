@@ -3895,3 +3895,4 @@
 - `2026-07-17 11:17` — ensure touch target meets 44px minimum
 - `2026-07-17 11:17` — move hardcoded values to tokens
 - `2026-07-17 11:17` — extract repeated values into shared base tokens
+- `2026-07-17 11:17` — tidy up token category groupings
