@@ -3910,3 +3910,4 @@
 - `2026-07-17 11:17` — adjust alpha values on overlay tokens
 - `2026-07-17 11:17` — refine success and warning color tokens
 - `2026-07-17 11:17` — update background color for elevated surfaces
+- `2026-07-17 11:17` — sync brand tokens with latest identity refresh
