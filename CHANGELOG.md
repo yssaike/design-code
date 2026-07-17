@@ -3883,3 +3883,4 @@
 - `2026-07-16 08:03` — dropdown menu update
 - `2026-07-16 08:03` — clean up form field error state styles
 - `2026-07-17 11:17` — responsive layout tweak
+- `2026-07-17 11:17` — overflow fix
