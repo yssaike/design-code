@@ -3917,3 +3917,4 @@
 - `2026-07-19 11:45` — update page-level layout margins
 - `2026-07-19 11:45` — button style update
 - `2026-07-19 11:45` — hover state fix
+- `2026-07-19 11:45` — disabled state styling
