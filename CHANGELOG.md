@@ -3932,3 +3932,4 @@
 - `2026-07-21 08:15` — update stagger delay for list animations
 - `2026-07-21 08:15` — audit color pairs for WCAG AA compliance
 - `2026-07-21 08:15` — patch low-contrast placeholder text
+- `2026-07-21 08:15` — reorganize token file structure
