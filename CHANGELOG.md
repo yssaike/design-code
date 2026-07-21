@@ -3934,3 +3934,4 @@
 - `2026-07-21 08:15` — patch low-contrast placeholder text
 - `2026-07-21 08:15` — reorganize token file structure
 - `2026-07-21 08:15` — consolidate duplicate component tokens
+- `2026-07-21 08:15` — split color tokens into primitives and semantics
