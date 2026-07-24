@@ -3945,3 +3945,4 @@
 - `2026-07-24 14:41` — font weight adjustment
 - `2026-07-24 14:41` — modal design update
 - `2026-07-24 14:41` — checkbox style refresh
+- `2026-07-24 14:41` — badge design update
