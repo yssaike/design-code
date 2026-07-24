@@ -3955,3 +3955,4 @@
 - `2026-07-24 14:41` — add compact density token tier
 - `2026-07-24 14:41` — refine popover arrow token values
 - `2026-07-24 14:41` — update progress bar color tokens
+- `2026-07-24 14:42` — tighten list item component spacing
