@@ -3951,3 +3951,4 @@
 - `2026-07-24 14:41` — adjust chip component padding
 - `2026-07-24 14:41` — fix inline alert padding
 - `2026-07-24 14:41` — add high-contrast mode token set
+- `2026-07-24 14:41` — sync token schema with style dictionary config
