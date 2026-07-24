@@ -3954,3 +3954,4 @@
 - `2026-07-24 14:41` — sync token schema with style dictionary config
 - `2026-07-24 14:41` — add compact density token tier
 - `2026-07-24 14:41` — refine popover arrow token values
+- `2026-07-24 14:41` — update progress bar color tokens
