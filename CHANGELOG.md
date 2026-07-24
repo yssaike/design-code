@@ -3956,3 +3956,4 @@
 - `2026-07-24 14:41` — refine popover arrow token values
 - `2026-07-24 14:41` — update progress bar color tokens
 - `2026-07-24 14:42` — tighten list item component spacing
+- `2026-07-24 14:42` — fix breadcrumb separator sizing
