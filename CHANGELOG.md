@@ -3997,3 +3997,4 @@
 - `2026-07-25 12:43` — fix inconsistent inner padding on form elements
 - `2026-07-25 12:43` — add missing spacing token for inline elements
 - `2026-07-25 12:43` — fix content spacing inside card variants
+- `2026-07-25 12:43` — add focus token for custom components
