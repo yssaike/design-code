@@ -3979,3 +3979,4 @@
 - `2026-07-25 12:43` — add inline docs to spacing scale
 - `2026-07-25 12:43` — document token alias conventions
 - `2026-07-25 12:43` — add migration notes for renamed tokens
+- `2026-07-25 12:43` — export latest tokens from Figma
