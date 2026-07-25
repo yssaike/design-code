@@ -4003,3 +4003,4 @@
 - `2026-07-25 12:43` — semantic color token fix
 - `2026-07-25 12:43` — update neutral palette to reflect new brand direction
 - `2026-07-25 12:43` — fix off-brand blue in CTA components
+- `2026-07-25 12:43` — tweak surface colors for better light-mode legibility
