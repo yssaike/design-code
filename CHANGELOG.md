@@ -3988,3 +3988,4 @@
 - `2026-07-25 12:43` — surface color update
 - `2026-07-25 12:43` — heading hierarchy fix
 - `2026-07-25 12:43` — font family swap
+- `2026-07-25 12:43` — tighten heading line height for large screens
