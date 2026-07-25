@@ -3962,3 +3962,4 @@
 - `2026-07-25 12:43` — screen reader label add
 - `2026-07-25 12:43` — aria attribute update
 - `2026-07-25 12:43` — add skip-to-content link tokens
+- `2026-07-25 12:43` — fix missing label on icon-only button
