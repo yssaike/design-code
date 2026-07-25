@@ -3960,3 +3960,4 @@
 - `2026-07-24 14:42` — tune reduced-motion fallback tokens
 - `2026-07-24 14:42` — focus indicator update
 - `2026-07-25 12:43` — screen reader label add
+- `2026-07-25 12:43` — aria attribute update
