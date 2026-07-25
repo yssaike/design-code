@@ -3987,3 +3987,4 @@
 - `2026-07-25 12:43` — brand color alignment
 - `2026-07-25 12:43` — surface color update
 - `2026-07-25 12:43` — heading hierarchy fix
+- `2026-07-25 12:43` — font family swap
