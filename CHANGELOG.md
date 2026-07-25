@@ -3978,3 +3978,4 @@
 - `2026-07-25 12:43` — update changelog format
 - `2026-07-25 12:43` — add inline docs to spacing scale
 - `2026-07-25 12:43` — document token alias conventions
+- `2026-07-25 12:43` — add migration notes for renamed tokens
