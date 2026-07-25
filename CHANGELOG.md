@@ -3985,3 +3985,4 @@
 - `2026-07-25 12:43` — dark mode color tweak
 - `2026-07-25 12:43` — color palette expansion
 - `2026-07-25 12:43` — brand color alignment
+- `2026-07-25 12:43` — surface color update
