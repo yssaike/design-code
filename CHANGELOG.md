@@ -3983,3 +3983,4 @@
 - `2026-07-25 12:43` — add missing dark mode token variants
 - `2026-07-25 12:43` — secondary palette refinement
 - `2026-07-25 12:43` — dark mode color tweak
+- `2026-07-25 12:43` — color palette expansion
