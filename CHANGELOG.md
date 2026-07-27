@@ -4010,3 +4010,4 @@
 - `2026-07-26 22:43` — brand token change
 - `2026-07-26 22:43` — brand spacing alignment
 - `2026-07-26 22:43` — brand asset refresh
+- `2026-07-26 22:43` — update wordmark sizing token
