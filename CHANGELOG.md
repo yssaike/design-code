@@ -4042,3 +4042,4 @@
 - `2026-07-26 22:43` — refresh brand gradient values
 - `2026-07-27 08:08` — typography scale update
 - `2026-07-27 08:08` — line height refinement
+- `2026-07-27 08:08` — body text improvement
