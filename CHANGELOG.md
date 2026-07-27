@@ -4025,3 +4025,4 @@
 - `2026-07-26 22:43` — resolve visual glitch in dark mode
 - `2026-07-26 22:43` — fix broken transition on theme toggle
 - `2026-07-26 22:43` — patch off-by-one pixel alignment in grid
+- `2026-07-26 22:43` — patch inconsistent corner radius in form inputs
