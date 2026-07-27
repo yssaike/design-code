@@ -4048,3 +4048,4 @@
 - `2026-07-27 08:08` — fix responsive type scale breakpoints
 - `2026-07-27 08:08` — update display heading tokens
 - `2026-07-27 08:08` — audit and clean up unused type styles
+- `2026-07-27 08:08` — bump body font size for readability
