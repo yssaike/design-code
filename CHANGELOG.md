@@ -4045,3 +4045,4 @@
 - `2026-07-27 08:08` — body text improvement
 - `2026-07-27 08:08` — letter spacing tweak
 - `2026-07-27 08:08` — normalize font stack across platforms
+- `2026-07-27 08:08` — fix responsive type scale breakpoints
