@@ -4009,3 +4009,4 @@
 - `2026-07-26 22:43` — align info color with accessibility requirements
 - `2026-07-26 22:43` — brand token change
 - `2026-07-26 22:43` — brand spacing alignment
+- `2026-07-26 22:43` — brand asset refresh
