@@ -4058,3 +4058,4 @@
 - `2026-07-27 08:08` — dropdown menu update
 - `2026-07-27 08:08` — tab component refinement
 - `2026-07-27 08:08` — update link component underline style
+- `2026-07-27 08:08` — fix icon size inconsistency in nav
