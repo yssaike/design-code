@@ -4008,3 +4008,4 @@
 - `2026-07-25 12:43` — patch inconsistent error color across states
 - `2026-07-26 22:43` — align info color with accessibility requirements
 - `2026-07-26 22:43` — brand token change
+- `2026-07-26 22:43` — brand spacing alignment
