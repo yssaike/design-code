@@ -4035,3 +4035,4 @@
 - `2026-07-26 22:43` — patch broken token reference in components
 - `2026-07-26 22:43` — update token output format to CSS variables
 - `2026-07-26 22:43` — wire up new semantic elevation tokens
+- `2026-07-26 22:43` — brand font update
