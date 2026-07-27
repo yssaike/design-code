@@ -4012,3 +4012,4 @@
 - `2026-07-26 22:43` — brand asset refresh
 - `2026-07-26 22:43` — update wordmark sizing token
 - `2026-07-26 22:43` — reconcile brand color with new creative direction
+- `2026-07-26 22:43` — align vertical rhythm tokens with type scale
