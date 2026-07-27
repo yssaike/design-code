@@ -4017,3 +4017,4 @@
 - `2026-07-26 22:43` — card component update
 - `2026-07-26 22:43` — tooltip design tweak
 - `2026-07-26 22:43` — refine table row hover state tokens
+- `2026-07-26 22:43` — focus ring update
