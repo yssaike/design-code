@@ -4050,3 +4050,4 @@
 - `2026-07-27 08:08` — audit and clean up unused type styles
 - `2026-07-27 08:08` — bump body font size for readability
 - `2026-07-27 08:08` — align caption text tokens with spec
+- `2026-07-27 08:08` — fix missing italic weight token
