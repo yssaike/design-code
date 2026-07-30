@@ -4067,3 +4067,4 @@
 - `2026-07-30 08:17` — smooth out tab transition timing
 - `2026-07-30 08:17` — refine easing curve on drawer slide
 - `2026-07-30 08:17` — primary color update
+- `2026-07-30 08:17` — remap semantic color tokens to new primitives
