@@ -4073,3 +4073,4 @@
 - `2026-07-30 08:17` — refine success and warning color tokens
 - `2026-07-30 08:17` — update background color for elevated surfaces
 - `2026-07-30 08:17` — sync brand tokens with latest identity refresh
+- `2026-07-30 08:17` — responsive layout tweak
