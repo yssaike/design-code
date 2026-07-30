@@ -4063,3 +4063,4 @@
 - `2026-07-30 08:17` — update stepper component tokens
 - `2026-07-30 08:17` — patch divider component thickness
 - `2026-07-30 08:17` — update switch component track tokens
+- `2026-07-30 08:17` — active state refinement
