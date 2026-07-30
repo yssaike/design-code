@@ -4065,3 +4065,4 @@
 - `2026-07-30 08:17` — update switch component track tokens
 - `2026-07-30 08:17` — active state refinement
 - `2026-07-30 08:17` — smooth out tab transition timing
+- `2026-07-30 08:17` — refine easing curve on drawer slide
