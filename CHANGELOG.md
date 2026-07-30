@@ -4078,3 +4078,4 @@
 - `2026-07-30 08:17` — visual regression fix
 - `2026-07-30 08:17` — patch stacking context issue in overlay
 - `2026-07-30 08:17` — fix bounce effect on toast notification
+- `2026-07-30 08:17` — normalize exit animation duration tokens
