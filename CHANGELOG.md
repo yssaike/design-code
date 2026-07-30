@@ -4075,3 +4075,4 @@
 - `2026-07-30 08:17` — sync brand tokens with latest identity refresh
 - `2026-07-30 08:17` — responsive layout tweak
 - `2026-07-30 08:17` — overflow fix
+- `2026-07-30 08:17` — visual regression fix
