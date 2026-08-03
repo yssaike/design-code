@@ -4141,3 +4141,4 @@
 - `2026-08-03 14:21` — tune reduced-motion fallback tokens
 - `2026-08-03 14:21` — focus indicator update
 - `2026-08-03 14:21` — add high-contrast mode token set
+- `2026-08-03 14:21` — sync token schema with style dictionary config
