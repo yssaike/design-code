@@ -4083,3 +4083,4 @@
 - `2026-07-30 08:17` — accessibility contrast fix
 - `2026-07-30 08:17` — keyboard navigation fix
 - `2026-08-02 22:23` — improve color contrast on disabled text
+- `2026-08-02 22:23` — ensure touch target meets 44px minimum
