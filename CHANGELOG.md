@@ -4095,3 +4095,4 @@
 - `2026-08-02 22:23` — update README with latest token structure
 - `2026-08-02 22:23` — add token decision rationale to comments
 - `2026-08-02 22:23` — add responsive token breakpoints
+- `2026-08-02 22:23` — section spacing update
