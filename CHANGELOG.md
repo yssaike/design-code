@@ -4160,3 +4160,4 @@
 - `2026-08-03 14:21` — font family swap
 - `2026-08-03 14:21` — tighten heading line height for large screens
 - `2026-08-03 14:21` — update monospace font token
+- `2026-08-03 14:21` — add fluid type scale tokens
