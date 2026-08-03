@@ -4143,3 +4143,4 @@
 - `2026-08-03 14:21` — add high-contrast mode token set
 - `2026-08-03 14:21` — sync token schema with style dictionary config
 - `2026-08-03 14:21` — add compact density token tier
+- `2026-08-03 14:21` — secondary palette refinement
