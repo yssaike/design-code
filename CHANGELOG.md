@@ -4140,3 +4140,4 @@
 - `2026-08-03 14:21` — fix breadcrumb separator sizing
 - `2026-08-03 14:21` — tune reduced-motion fallback tokens
 - `2026-08-03 14:21` — focus indicator update
+- `2026-08-03 14:21` — add high-contrast mode token set
