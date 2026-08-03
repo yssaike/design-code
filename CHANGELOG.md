@@ -4097,3 +4097,4 @@
 - `2026-08-02 22:23` — add responsive token breakpoints
 - `2026-08-02 22:23` — section spacing update
 - `2026-08-02 22:23` — audit spacing tokens for duplicate values
+- `2026-08-02 22:23` — tighten compact density spacing
