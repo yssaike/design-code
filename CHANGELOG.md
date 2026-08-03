@@ -4158,3 +4158,4 @@
 - `2026-08-03 14:21` — patch inconsistent error color across states
 - `2026-08-03 14:21` — heading hierarchy fix
 - `2026-08-03 14:21` — font family swap
+- `2026-08-03 14:21` — tighten heading line height for large screens
