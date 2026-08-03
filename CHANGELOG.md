@@ -4138,3 +4138,4 @@
 - `2026-08-03 14:21` — update progress bar color tokens
 - `2026-08-03 14:21` — tighten list item component spacing
 - `2026-08-03 14:21` — fix breadcrumb separator sizing
+- `2026-08-03 14:21` — tune reduced-motion fallback tokens
