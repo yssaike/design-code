@@ -4089,3 +4089,4 @@
 - `2026-08-02 22:23` — tidy up token category groupings
 - `2026-08-02 22:23` — update design token build script
 - `2026-08-02 22:23` — fix token export pipeline
+- `2026-08-02 22:23` — update Figma token sync config
