@@ -4103,3 +4103,4 @@
 - `2026-08-02 22:23` — hover state fix
 - `2026-08-02 22:23` — disabled state styling
 - `2026-08-02 22:23` — shadow refinement
+- `2026-08-02 22:23` — fix broken outline on focus for keyboard users
