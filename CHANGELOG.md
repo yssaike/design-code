@@ -4110,3 +4110,4 @@
 - `2026-08-02 22:23` — fix clipped text in compact variant
 - `2026-08-02 22:23` — resolve color bleed on adjacent components
 - `2026-08-02 22:23` — fix missing border on selected state
+- `2026-08-02 22:23` — correct elevation token on sticky header
