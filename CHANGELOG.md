@@ -4121,3 +4121,4 @@
 - `2026-08-02 22:23` — split color tokens into primitives and semantics
 - `2026-08-02 22:23` — deduplicate shadow definitions
 - `2026-08-02 22:23` — normalize token key casing
+- `2026-08-02 22:23` — update token documentation
