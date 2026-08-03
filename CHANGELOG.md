@@ -4125,3 +4125,4 @@
 - `2026-08-02 22:23` — add usage examples to component tokens
 - `2026-08-02 22:23` — document dark mode token usage
 - `2026-08-02 22:23` — resolve token alias circular references
+- `2026-08-02 22:23` — pull latest brand variables from design system
