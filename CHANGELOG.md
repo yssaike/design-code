@@ -4148,3 +4148,4 @@
 - `2026-08-03 14:21` — color contrast fix
 - `2026-08-03 14:21` — dark mode color tweak
 - `2026-08-03 14:21` — color palette expansion
+- `2026-08-03 14:21` — brand color alignment
