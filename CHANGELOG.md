@@ -4127,3 +4127,4 @@
 - `2026-08-02 22:23` — resolve token alias circular references
 - `2026-08-02 22:23` — pull latest brand variables from design system
 - `2026-08-02 22:23` — font weight adjustment
+- `2026-08-02 22:23` — modal design update
