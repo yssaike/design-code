@@ -4175,3 +4175,4 @@
 - `2026-08-04 10:54` — add high-visibility focus token for forced-colors mode
 - `2026-08-04 10:54` — clean up token naming inconsistencies
 - `2026-08-04 10:54` — remove deprecated spacing tokens
+- `2026-08-04 10:54` — rename tokens to match new naming convention
