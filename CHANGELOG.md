@@ -4176,3 +4176,4 @@
 - `2026-08-04 10:54` — clean up token naming inconsistencies
 - `2026-08-04 10:54` — remove deprecated spacing tokens
 - `2026-08-04 10:54` — rename tokens to match new naming convention
+- `2026-08-04 10:54` — flatten nested token structure for clarity
