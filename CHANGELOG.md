@@ -4174,3 +4174,4 @@
 - `2026-08-04 10:54` — update focus-visible styles for interactive elements
 - `2026-08-04 10:54` — add high-visibility focus token for forced-colors mode
 - `2026-08-04 10:54` — clean up token naming inconsistencies
+- `2026-08-04 10:54` — remove deprecated spacing tokens
