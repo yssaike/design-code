@@ -4195,3 +4195,4 @@
 - `2026-08-04 10:54` — brand font update
 - `2026-08-04 10:54` — brand spacing alignment
 - `2026-08-04 10:54` — brand asset refresh
+- `2026-08-04 10:54` — brand guideline sync
