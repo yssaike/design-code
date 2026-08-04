@@ -4192,3 +4192,4 @@
 - `2026-08-04 10:54` — add focus token for custom components
 - `2026-08-04 10:54` — align info color with accessibility requirements
 - `2026-08-04 10:54` — brand token change
+- `2026-08-04 10:54` — brand font update
