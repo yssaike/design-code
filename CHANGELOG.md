@@ -4182,3 +4182,4 @@
 - `2026-08-04 10:54` — add token format checks to pre-commit
 - `2026-08-04 10:54` — clean up generated output artifacts
 - `2026-08-04 10:54` — update style dictionary config
+- `2026-08-04 10:54` — document new color semantics
