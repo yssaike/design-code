@@ -4184,3 +4184,4 @@
 - `2026-08-04 10:54` — update style dictionary config
 - `2026-08-04 10:54` — document new color semantics
 - `2026-08-04 10:54` — update changelog format
+- `2026-08-04 10:54` — add inline docs to spacing scale
