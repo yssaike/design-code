@@ -4167,3 +4167,4 @@
 - `2026-08-04 10:54` — fix inconsistent inner padding on form elements
 - `2026-08-04 10:54` — add missing spacing token for inline elements
 - `2026-08-04 10:54` — fix content spacing inside card variants
+- `2026-08-04 10:54` — screen reader label add
