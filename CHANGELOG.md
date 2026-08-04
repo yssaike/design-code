@@ -4180,3 +4180,4 @@
 - `2026-08-04 10:54` — improve token validation script
 - `2026-08-04 10:54` — bump token schema version
 - `2026-08-04 10:54` — add token format checks to pre-commit
+- `2026-08-04 10:54` — clean up generated output artifacts
