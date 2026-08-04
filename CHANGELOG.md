@@ -4190,3 +4190,4 @@
 - `2026-08-04 10:54` — export latest tokens from Figma
 - `2026-08-04 10:54` — add missing dark mode token variants
 - `2026-08-04 10:54` — add focus token for custom components
+- `2026-08-04 10:54` — align info color with accessibility requirements
