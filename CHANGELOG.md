@@ -4225,3 +4225,4 @@
 - `2026-08-05 23:52` — update token output format to CSS variables
 - `2026-08-05 23:52` — wire up new semantic elevation tokens
 - `2026-08-05 23:52` — typography scale update
+- `2026-08-05 23:52` — line height refinement
