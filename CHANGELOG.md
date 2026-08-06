@@ -4230,3 +4230,4 @@
 - `2026-08-05 23:52` — letter spacing tweak
 - `2026-08-05 23:52` — normalize font stack across platforms
 - `2026-08-05 23:52` — fix responsive type scale breakpoints
+- `2026-08-05 23:52` — update display heading tokens
