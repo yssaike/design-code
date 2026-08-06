@@ -4217,3 +4217,4 @@
 - `2026-08-05 23:52` — patch inconsistent corner radius in form inputs
 - `2026-08-05 23:52` — animation duration update
 - `2026-08-05 23:52` — transition easing change
+- `2026-08-05 23:52` — loading animation tweak
