@@ -4220,3 +4220,4 @@
 - `2026-08-05 23:52` — loading animation tweak
 - `2026-08-05 23:52` — scroll animation fix
 - `2026-08-05 23:52` — add entrance animation for modal overlay
+- `2026-08-05 23:52` — add new surface token for overlay backgrounds
