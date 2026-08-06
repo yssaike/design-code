@@ -4212,3 +4212,4 @@
 - `2026-08-05 23:52` — alignment correction
 - `2026-08-05 23:52` — fix ghost button hover color
 - `2026-08-05 23:52` — resolve visual glitch in dark mode
+- `2026-08-05 23:52` — fix broken transition on theme toggle
