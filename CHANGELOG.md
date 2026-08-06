@@ -4198,3 +4198,4 @@
 - `2026-08-04 10:54` — brand guideline sync
 - `2026-08-04 10:54` — update logo sizing constraints
 - `2026-08-05 23:52` — align brand palette with updated guidelines
+- `2026-08-05 23:52` — refresh brand gradient values
