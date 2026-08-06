@@ -4226,3 +4226,4 @@
 - `2026-08-05 23:52` — wire up new semantic elevation tokens
 - `2026-08-05 23:52` — typography scale update
 - `2026-08-05 23:52` — line height refinement
+- `2026-08-05 23:52` — body text improvement
