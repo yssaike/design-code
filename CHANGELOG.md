@@ -4218,3 +4218,4 @@
 - `2026-08-05 23:52` — animation duration update
 - `2026-08-05 23:52` — transition easing change
 - `2026-08-05 23:52` — loading animation tweak
+- `2026-08-05 23:52` — scroll animation fix
