@@ -4262,3 +4262,4 @@
 - `2026-08-07 12:13` — smooth out tab transition timing
 - `2026-08-07 12:13` — refine easing curve on drawer slide
 - `2026-08-07 12:13` — fix bounce effect on toast notification
+- `2026-08-07 12:13` — normalize exit animation duration tokens
