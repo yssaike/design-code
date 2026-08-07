@@ -4264,3 +4264,4 @@
 - `2026-08-07 12:13` — fix bounce effect on toast notification
 - `2026-08-07 12:13` — normalize exit animation duration tokens
 - `2026-08-07 12:13` — update skeleton shimmer timing
+- `2026-08-07 12:13` — accessibility contrast fix
