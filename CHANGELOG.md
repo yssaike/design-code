@@ -4246,3 +4246,4 @@
 - `2026-08-07 12:13` — primary color update
 - `2026-08-07 12:13` — remap semantic color tokens to new primitives
 - `2026-08-07 12:13` — sync color tokens with latest Figma variables export
+- `2026-08-07 12:13` — adjust alpha values on overlay tokens
