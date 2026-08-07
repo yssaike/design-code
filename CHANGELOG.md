@@ -4275,3 +4275,4 @@
 - `2026-08-07 12:13` — button style update
 - `2026-08-07 12:13` — modal design update
 - `2026-08-07 12:13` — checkbox style refresh
+- `2026-08-07 12:13` — hover state fix
