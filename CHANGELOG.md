@@ -4277,3 +4277,4 @@
 - `2026-08-07 12:13` — checkbox style refresh
 - `2026-08-07 12:13` — hover state fix
 - `2026-08-07 12:13` — disabled state styling
+- `2026-08-07 12:13` — shadow refinement
