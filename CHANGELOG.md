@@ -4266,3 +4266,4 @@
 - `2026-08-07 12:13` — update skeleton shimmer timing
 - `2026-08-07 12:13` — accessibility contrast fix
 - `2026-08-07 12:13` — keyboard navigation fix
+- `2026-08-07 12:13` — pull latest brand variables from design system
