@@ -4233,3 +4233,4 @@
 - `2026-08-05 23:52` — update display heading tokens
 - `2026-08-05 23:52` — audit and clean up unused type styles
 - `2026-08-07 12:13` — bump body font size for readability
+- `2026-08-07 12:13` — align caption text tokens with spec
