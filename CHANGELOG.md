@@ -4243,3 +4243,4 @@
 - `2026-08-07 12:13` — tab component refinement
 - `2026-08-07 12:13` — update link component underline style
 - `2026-08-07 12:13` — fix icon size inconsistency in nav
+- `2026-08-07 12:13` — primary color update
