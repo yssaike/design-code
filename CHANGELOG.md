@@ -4268,3 +4268,4 @@
 - `2026-08-07 12:13` — keyboard navigation fix
 - `2026-08-07 12:13` — pull latest brand variables from design system
 - `2026-08-07 12:13` — font weight adjustment
+- `2026-08-07 12:13` — section spacing update
