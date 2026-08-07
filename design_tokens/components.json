@@ -2,7 +2,7 @@
   "button": {
     "borderRadius": "16px",
     "paddingX": "4px",
-    "paddingY": "20px",
+    "paddingY": "16px",
     "shadow": "2px 1px 20px rgba(0,0,0,0.17)",
     "fontSize": "4px",
     "fontWeight": "8px",
