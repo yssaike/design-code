@@ -19,7 +19,7 @@
   "card": {
     "borderRadius": "4px",
     "padding": "16px",
-    "shadow": "2px 7px 11px rgba(0,0,0,0.11)",
+    "shadow": "0px 1px 18px rgba(0,0,0,0.07)",
     "borderWidth": "1px",
     "gap": "8px"
   },

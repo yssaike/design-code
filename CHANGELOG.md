@@ -4260,3 +4260,4 @@
 - `2026-08-07 12:13` — visual regression fix
 - `2026-08-07 12:13` — patch stacking context issue in overlay
 - `2026-08-07 12:13` — smooth out tab transition timing
+- `2026-08-07 12:13` — refine easing curve on drawer slide
