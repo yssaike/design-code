@@ -4236,3 +4236,4 @@
 - `2026-08-07 12:13` — align caption text tokens with spec
 - `2026-08-07 12:13` — fix missing italic weight token
 - `2026-08-07 12:13` — padding consistency fix
+- `2026-08-07 12:13` — margin alignment
