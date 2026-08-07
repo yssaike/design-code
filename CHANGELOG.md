@@ -4251,3 +4251,4 @@
 - `2026-08-07 12:13` — update background color for elevated surfaces
 - `2026-08-07 12:13` — sync brand tokens with latest identity refresh
 - `2026-08-07 12:13` — clean up form field error state styles
+- `2026-08-07 12:13` — update stepper component tokens
