@@ -4269,3 +4269,4 @@
 - `2026-08-07 12:13` — pull latest brand variables from design system
 - `2026-08-07 12:13` — font weight adjustment
 - `2026-08-07 12:13` — section spacing update
+- `2026-08-07 12:13` — audit spacing tokens for duplicate values
