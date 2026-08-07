@@ -4245,3 +4245,4 @@
 - `2026-08-07 12:13` — fix icon size inconsistency in nav
 - `2026-08-07 12:13` — primary color update
 - `2026-08-07 12:13` — remap semantic color tokens to new primitives
+- `2026-08-07 12:13` — sync color tokens with latest Figma variables export
