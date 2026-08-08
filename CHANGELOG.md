@@ -4302,3 +4302,4 @@
 - `2026-08-08 12:07` — extract repeated values into shared base tokens
 - `2026-08-08 12:07` — tidy up token category groupings
 - `2026-08-08 12:07` — update design token build script
+- `2026-08-08 12:07` — fix token export pipeline
