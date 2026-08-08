@@ -4300,3 +4300,4 @@
 - `2026-08-08 12:07` — deduplicate shadow definitions
 - `2026-08-08 12:07` — normalize token key casing
 - `2026-08-08 12:07` — extract repeated values into shared base tokens
+- `2026-08-08 12:07` — tidy up token category groupings
