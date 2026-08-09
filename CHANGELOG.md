@@ -4333,3 +4333,4 @@
 - `2026-08-09 14:29` — add fluid type scale tokens
 - `2026-08-09 14:29` — spacing token update
 - `2026-08-09 14:29` — badge design update
+- `2026-08-09 14:29` — refine avatar sizing tokens
