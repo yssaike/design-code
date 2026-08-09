@@ -4314,3 +4314,4 @@
 - `2026-08-09 14:29` — resolve token alias circular references
 - `2026-08-09 14:29` — add responsive token breakpoints
 - `2026-08-09 14:29` — secondary palette refinement
+- `2026-08-09 14:29` — accent color adjustment
