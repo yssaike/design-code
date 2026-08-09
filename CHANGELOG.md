@@ -4348,3 +4348,4 @@
 - `2026-08-09 14:29` — add compact density token tier
 - `2026-08-09 14:29` — align info color with accessibility requirements
 - `2026-08-09 14:29` — brand token change
+- `2026-08-09 14:29` — brand font update
