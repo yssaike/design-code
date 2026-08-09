@@ -4334,3 +4334,4 @@
 - `2026-08-09 14:29` — spacing token update
 - `2026-08-09 14:29` — badge design update
 - `2026-08-09 14:29` — refine avatar sizing tokens
+- `2026-08-09 14:29` — refresh skeleton loader animation timing
