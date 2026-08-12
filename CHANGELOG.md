@@ -4360,3 +4360,4 @@
 - `2026-08-11 22:41` — fix content spacing inside card variants
 - `2026-08-11 22:41` — screen reader label add
 - `2026-08-11 22:41` — aria attribute update
+- `2026-08-11 22:41` — add skip-to-content link tokens
