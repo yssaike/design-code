@@ -4356,3 +4356,4 @@
 - `2026-08-09 14:29` — grid gap adjustment
 - `2026-08-09 14:29` — normalize spacing scale to 8pt grid
 - `2026-08-11 22:41` — fix inconsistent inner padding on form elements
+- `2026-08-11 22:41` — add missing spacing token for inline elements
