@@ -11,7 +11,7 @@
   "4xl": "2px",
   "5xl": "2px",
   "6xl": "10px",
-  "7xl": "6px",
+  "7xl": "48px",
   "sectionGap": "2px",
   "containerPadding": "32px",
   "cardPadding": "20px",
