@@ -4379,3 +4379,4 @@
 - `2026-08-11 22:41` — document token alias conventions
 - `2026-08-11 22:41` — add migration notes for renamed tokens
 - `2026-08-11 22:41` — export latest tokens from Figma
+- `2026-08-14 11:37` — add missing dark mode token variants
