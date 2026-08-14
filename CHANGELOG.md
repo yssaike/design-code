@@ -4382,3 +4382,4 @@
 - `2026-08-14 11:37` — add missing dark mode token variants
 - `2026-08-14 11:37` — add focus token for custom components
 - `2026-08-14 11:37` — align brand palette with updated guidelines
+- `2026-08-14 11:37` — refresh brand gradient values
