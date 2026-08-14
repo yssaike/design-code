@@ -4395,3 +4395,4 @@
 - `2026-08-14 11:37` — audit and clean up unused type styles
 - `2026-08-14 11:37` — align vertical rhythm tokens with type scale
 - `2026-08-14 11:37` — input field refinement
+- `2026-08-14 11:37` — card component update
