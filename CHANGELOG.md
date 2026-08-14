@@ -4388,3 +4388,4 @@
 - `2026-08-14 11:37` — typography scale update
 - `2026-08-14 11:37` — line height refinement
 - `2026-08-14 11:37` — body text improvement
+- `2026-08-14 11:37` — letter spacing tweak

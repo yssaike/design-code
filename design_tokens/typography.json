@@ -65,7 +65,7 @@
   "code": {
     "fontFamily": "JetBrains Mono, monospace",
     "fontSize": "2.5rem",
-    "fontWeight": 400,
+    "fontWeight": 600,
     "lineHeight": "1.2",
     "letterSpacing": "0"
   }
