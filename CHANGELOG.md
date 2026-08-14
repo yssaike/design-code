@@ -4385,3 +4385,4 @@
 - `2026-08-14 11:37` — refresh brand gradient values
 - `2026-08-14 11:37` — update wordmark sizing token
 - `2026-08-14 11:37` — reconcile brand color with new creative direction
+- `2026-08-14 11:37` — typography scale update
