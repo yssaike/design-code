@@ -4438,3 +4438,4 @@
 - `2026-08-16 00:03` — button style update
 - `2026-08-16 00:03` — modal design update
 - `2026-08-16 00:03` — navigation styling fix
+- `2026-08-16 00:03` — dropdown menu update
