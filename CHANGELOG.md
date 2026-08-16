@@ -4418,3 +4418,4 @@
 - `2026-08-16 00:03` — wire up new semantic elevation tokens
 - `2026-08-16 00:03` — primary color update
 - `2026-08-16 00:03` — remap semantic color tokens to new primitives
+- `2026-08-16 00:03` — sync color tokens with latest Figma variables export
