@@ -4414,3 +4414,4 @@
 - `2026-08-14 11:38` — add entrance animation for modal overlay
 - `2026-08-14 11:38` — add new surface token for overlay backgrounds
 - `2026-08-14 11:38` — patch broken token reference in components
+- `2026-08-16 00:03` — update token output format to CSS variables
