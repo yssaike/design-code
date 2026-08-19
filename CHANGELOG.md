@@ -4447,3 +4447,4 @@
 - `2026-08-18 22:44` — clean up form field error state styles
 - `2026-08-18 22:44` — update stepper component tokens
 - `2026-08-18 22:44` — patch divider component thickness
+- `2026-08-18 22:44` — update switch component track tokens
