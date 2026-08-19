@@ -4455,3 +4455,4 @@
 - `2026-08-18 22:44` — shadow refinement
 - `2026-08-18 22:44` — overflow fix
 - `2026-08-18 22:44` — visual regression fix
+- `2026-08-18 22:44` — patch stacking context issue in overlay
