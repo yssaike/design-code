@@ -4474,3 +4474,4 @@
 - `2026-08-19 10:58` — micro-interaction refinement
 - `2026-08-19 10:58` — remove jarring jump in accordion open
 - `2026-08-19 10:58` — update stagger delay for list animations
+- `2026-08-19 10:58` — improve color contrast on disabled text
