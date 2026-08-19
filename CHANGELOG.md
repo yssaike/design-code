@@ -4481,3 +4481,4 @@
 - `2026-08-19 10:58` — reorganize token file structure
 - `2026-08-19 10:58` — consolidate duplicate component tokens
 - `2026-08-19 10:58` — split color tokens into primitives and semantics
+- `2026-08-19 10:58` — move hardcoded values to tokens
