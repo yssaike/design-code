@@ -4456,3 +4456,4 @@
 - `2026-08-18 22:44` — overflow fix
 - `2026-08-18 22:44` — visual regression fix
 - `2026-08-18 22:44` — patch stacking context issue in overlay
+- `2026-08-18 22:44` — smooth out tab transition timing
