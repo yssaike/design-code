@@ -4489,3 +4489,4 @@
 - `2026-08-19 10:58` — update design token build script
 - `2026-08-19 10:58` — fix token export pipeline
 - `2026-08-19 10:58` — update Figma token sync config
+- `2026-08-19 10:58` — fix broken token transformer
