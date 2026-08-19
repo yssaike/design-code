@@ -4448,3 +4448,4 @@
 - `2026-08-18 22:44` — update stepper component tokens
 - `2026-08-18 22:44` — patch divider component thickness
 - `2026-08-18 22:44` — update switch component track tokens
+- `2026-08-18 22:44` — hover state fix
