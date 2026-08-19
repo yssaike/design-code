@@ -4452,3 +4452,4 @@
 - `2026-08-18 22:44` — active state refinement
 - `2026-08-18 22:44` — disabled state styling
 - `2026-08-18 22:44` — responsive layout tweak
+- `2026-08-18 22:44` — shadow refinement
