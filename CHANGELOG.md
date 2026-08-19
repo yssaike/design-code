@@ -4463,3 +4463,4 @@
 - `2026-08-18 22:44` — update skeleton shimmer timing
 - `2026-08-18 22:44` — accessibility contrast fix
 - `2026-08-18 22:44` — keyboard navigation fix
+- `2026-08-18 22:44` — fix broken outline on focus for keyboard users
