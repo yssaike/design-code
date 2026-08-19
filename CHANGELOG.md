@@ -4472,3 +4472,4 @@
 - `2026-08-18 22:44` — fix missing border on selected state
 - `2026-08-19 10:58` — correct elevation token on sticky header
 - `2026-08-19 10:58` — micro-interaction refinement
+- `2026-08-19 10:58` — remove jarring jump in accordion open
