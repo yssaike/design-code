@@ -4442,3 +4442,5 @@
 - `2026-08-16 00:03` — checkbox style refresh
 - `2026-08-16 00:03` — tab component refinement
 - `2026-08-16 00:03` — update link component underline style
+- `2026-08-18 22:41` — fix icon size inconsistency in nav
+- `2026-08-18 22:43` — fix icon size inconsistency in nav
