@@ -4520,3 +4520,4 @@
 - `2026-08-20 23:02` — normalize spacing scale to 8pt grid
 - `2026-08-20 23:02` — badge design update
 - `2026-08-20 23:02` — refine avatar sizing tokens
+- `2026-08-20 23:02` — refresh skeleton loader animation timing
