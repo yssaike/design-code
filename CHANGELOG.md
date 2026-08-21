@@ -4506,3 +4506,4 @@
 - `2026-08-20 23:02` — align info color with accessibility requirements
 - `2026-08-20 23:02` — brand token change
 - `2026-08-20 23:02` — brand font update
+- `2026-08-20 23:02` — brand spacing alignment
