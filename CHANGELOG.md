@@ -4502,3 +4502,4 @@
 - `2026-08-20 23:02` — fix off-brand blue in CTA components
 - `2026-08-20 23:02` — tweak surface colors for better light-mode legibility
 - `2026-08-20 23:02` — bump gray scale contrast levels
+- `2026-08-20 23:02` — patch inconsistent error color across states
