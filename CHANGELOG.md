@@ -4530,3 +4530,4 @@
 - `2026-08-20 23:02` — tune reduced-motion fallback tokens
 - `2026-08-20 23:02` — focus indicator update
 - `2026-08-20 23:02` — fix output path in token build config
+- `2026-08-20 23:02` — update token documentation
