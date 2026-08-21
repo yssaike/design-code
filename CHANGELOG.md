@@ -4499,3 +4499,4 @@
 - `2026-08-20 23:02` — surface color update
 - `2026-08-20 23:02` — semantic color token fix
 - `2026-08-20 23:02` — update neutral palette to reflect new brand direction
+- `2026-08-20 23:02` — fix off-brand blue in CTA components
