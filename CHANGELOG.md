@@ -4504,3 +4504,4 @@
 - `2026-08-20 23:02` — bump gray scale contrast levels
 - `2026-08-20 23:02` — patch inconsistent error color across states
 - `2026-08-20 23:02` — align info color with accessibility requirements
+- `2026-08-20 23:02` — brand token change
