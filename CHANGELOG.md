@@ -4510,3 +4510,4 @@
 - `2026-08-20 23:02` — brand asset refresh
 - `2026-08-20 23:02` — brand guideline sync
 - `2026-08-20 23:02` — update logo sizing constraints
+- `2026-08-20 23:02` — heading hierarchy fix
