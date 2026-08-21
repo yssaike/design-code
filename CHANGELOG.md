@@ -4508,3 +4508,4 @@
 - `2026-08-20 23:02` — brand font update
 - `2026-08-20 23:02` — brand spacing alignment
 - `2026-08-20 23:02` — brand asset refresh
+- `2026-08-20 23:02` — brand guideline sync
