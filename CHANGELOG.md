@@ -4532,3 +4532,4 @@
 - `2026-08-20 23:02` — fix output path in token build config
 - `2026-08-20 23:02` — update token documentation
 - `2026-08-21 19:08` — add usage examples to component tokens
+- `2026-08-21 19:08` — update README with latest token structure
