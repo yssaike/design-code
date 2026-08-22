@@ -4567,3 +4567,4 @@
 - `2026-08-22 12:18` — align brand palette with updated guidelines
 - `2026-08-22 12:18` — refresh brand gradient values
 - `2026-08-22 12:18` — update wordmark sizing token
+- `2026-08-22 12:18` — reconcile brand color with new creative direction
