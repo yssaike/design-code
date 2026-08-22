@@ -4583,3 +4583,4 @@
 - `2026-08-22 12:18` — refine table row hover state tokens
 - `2026-08-22 12:18` — focus ring update
 - `2026-08-22 12:18` — border radius update
+- `2026-08-22 12:18` — z-index adjustment
