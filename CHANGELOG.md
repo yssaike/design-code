@@ -4573,3 +4573,4 @@
 - `2026-08-22 12:18` — body text improvement
 - `2026-08-22 12:18` — letter spacing tweak
 - `2026-08-22 12:18` — normalize font stack across platforms
+- `2026-08-22 12:18` — fix responsive type scale breakpoints
