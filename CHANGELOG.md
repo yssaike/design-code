@@ -4538,3 +4538,4 @@
 - `2026-08-21 19:08` — resolve token alias circular references
 - `2026-08-21 19:08` — add responsive token breakpoints
 - `2026-08-21 19:08` — add high-contrast mode token set
+- `2026-08-21 19:08` — sync token schema with style dictionary config
