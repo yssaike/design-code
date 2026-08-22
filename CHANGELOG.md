@@ -4534,3 +4534,4 @@
 - `2026-08-21 19:08` — add usage examples to component tokens
 - `2026-08-21 19:08` — update README with latest token structure
 - `2026-08-21 19:08` — document dark mode token usage
+- `2026-08-21 19:08` — add token decision rationale to comments
