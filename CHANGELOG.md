@@ -4542,3 +4542,4 @@
 - `2026-08-21 19:08` — add compact density token tier
 - `2026-08-21 19:08` — fix inconsistent inner padding on form elements
 - `2026-08-21 19:08` — add missing spacing token for inline elements
+- `2026-08-21 19:08` — fix content spacing inside card variants
