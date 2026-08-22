@@ -4566,3 +4566,4 @@
 - `2026-08-22 12:18` — export latest tokens from Figma
 - `2026-08-22 12:18` — align brand palette with updated guidelines
 - `2026-08-22 12:18` — refresh brand gradient values
+- `2026-08-22 12:18` — update wordmark sizing token
