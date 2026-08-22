@@ -4539,3 +4539,4 @@
 - `2026-08-21 19:08` — add responsive token breakpoints
 - `2026-08-21 19:08` — add high-contrast mode token set
 - `2026-08-21 19:08` — sync token schema with style dictionary config
+- `2026-08-21 19:08` — add compact density token tier
