@@ -4575,3 +4575,4 @@
 - `2026-08-22 12:18` — normalize font stack across platforms
 - `2026-08-22 12:18` — fix responsive type scale breakpoints
 - `2026-08-22 12:18` — update display heading tokens
+- `2026-08-22 12:18` — audit and clean up unused type styles
