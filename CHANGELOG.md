@@ -4547,3 +4547,4 @@
 - `2026-08-21 19:08` — aria attribute update
 - `2026-08-21 19:08` — add skip-to-content link tokens
 - `2026-08-21 19:08` — fix missing label on icon-only button
+- `2026-08-21 19:08` — update focus-visible styles for interactive elements
