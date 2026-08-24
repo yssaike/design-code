@@ -4595,3 +4595,4 @@
 - `2026-08-22 12:18` — loading animation tweak
 - `2026-08-24 07:52` — scroll animation fix
 - `2026-08-24 07:52` — add entrance animation for modal overlay
+- `2026-08-24 07:52` — add missing dark mode token variants
