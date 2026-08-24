@@ -4613,3 +4613,4 @@
 - `2026-08-24 07:52` — fix missing italic weight token
 - `2026-08-24 07:52` — padding consistency fix
 - `2026-08-24 07:52` — margin alignment
+- `2026-08-24 07:52` — layout spacing refinement
