@@ -4596,3 +4596,4 @@
 - `2026-08-24 07:52` — scroll animation fix
 - `2026-08-24 07:52` — add entrance animation for modal overlay
 - `2026-08-24 07:52` — add missing dark mode token variants
+- `2026-08-24 07:52` — add new surface token for overlay backgrounds
