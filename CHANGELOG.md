@@ -4594,3 +4594,4 @@
 - `2026-08-22 12:18` — transition easing change
 - `2026-08-22 12:18` — loading animation tweak
 - `2026-08-24 07:52` — scroll animation fix
+- `2026-08-24 07:52` — add entrance animation for modal overlay
