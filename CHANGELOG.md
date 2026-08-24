@@ -4599,3 +4599,4 @@
 - `2026-08-24 07:52` — add new surface token for overlay backgrounds
 - `2026-08-24 07:52` — patch broken token reference in components
 - `2026-08-24 07:52` — add focus token for custom components
+- `2026-08-24 07:52` — primary color update
