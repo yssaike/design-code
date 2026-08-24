@@ -4620,3 +4620,4 @@
 - `2026-08-24 07:52` — update page-level layout margins
 - `2026-08-24 07:52` — button style update
 - `2026-08-24 07:52` — modal design update
+- `2026-08-24 07:52` — navigation styling fix
