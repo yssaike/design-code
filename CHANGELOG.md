@@ -4634,3 +4634,4 @@
 - `2026-08-25 23:57` — update switch component track tokens
 - `2026-08-25 23:57` — hover state fix
 - `2026-08-25 23:57` — active state refinement
+- `2026-08-25 23:57` — disabled state styling
