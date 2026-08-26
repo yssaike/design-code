@@ -4628,3 +4628,4 @@
 - `2026-08-25 23:57` — update token output format to CSS variables
 - `2026-08-25 23:57` — wire up new semantic elevation tokens
 - `2026-08-25 23:57` — fix icon size inconsistency in nav
+- `2026-08-25 23:57` — clean up form field error state styles
