@@ -4633,3 +4633,4 @@
 - `2026-08-25 23:57` — patch divider component thickness
 - `2026-08-25 23:57` — update switch component track tokens
 - `2026-08-25 23:57` — hover state fix
+- `2026-08-25 23:57` — active state refinement
