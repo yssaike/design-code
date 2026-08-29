@@ -4639,3 +4639,4 @@
 - `2026-08-25 23:57` — shadow refinement
 - `2026-08-28 18:03` — overflow fix
 - `2026-08-28 18:03` — visual regression fix
+- `2026-08-28 18:03` — fix broken outline on focus for keyboard users
