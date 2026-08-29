@@ -4646,3 +4646,4 @@
 - `2026-08-28 18:03` — clean up leftover debug border
 - `2026-08-28 18:03` — fix clipped text in compact variant
 - `2026-08-28 18:03` — resolve color bleed on adjacent components
+- `2026-08-28 18:03` — fix missing border on selected state
