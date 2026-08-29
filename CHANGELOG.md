@@ -4657,3 +4657,4 @@
 - `2026-08-28 18:03` — secondary palette refinement
 - `2026-08-28 18:03` — accent color adjustment
 - `2026-08-28 18:03` — color contrast fix
+- `2026-08-28 18:03` — dark mode color tweak
