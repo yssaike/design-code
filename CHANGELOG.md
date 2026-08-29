@@ -4642,3 +4642,4 @@
 - `2026-08-28 18:03` — fix broken outline on focus for keyboard users
 - `2026-08-28 18:03` — patch stacking context issue in overlay
 - `2026-08-28 18:03` — correct misaligned icon in button component
+- `2026-08-28 18:03` — patch spacing regression from last merge
