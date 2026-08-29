@@ -4654,3 +4654,4 @@
 - `2026-08-28 18:03` — update skeleton shimmer timing
 - `2026-08-28 18:03` — accessibility contrast fix
 - `2026-08-28 18:03` — keyboard navigation fix
+- `2026-08-28 18:03` — secondary palette refinement
