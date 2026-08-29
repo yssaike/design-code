@@ -4637,3 +4637,4 @@
 - `2026-08-25 23:57` — disabled state styling
 - `2026-08-25 23:57` — responsive layout tweak
 - `2026-08-25 23:57` — shadow refinement
+- `2026-08-28 18:03` — overflow fix
