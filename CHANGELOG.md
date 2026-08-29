@@ -4648,3 +4648,4 @@
 - `2026-08-28 18:03` — resolve color bleed on adjacent components
 - `2026-08-28 18:03` — fix missing border on selected state
 - `2026-08-28 18:03` — smooth out tab transition timing
+- `2026-08-28 18:03` — refine easing curve on drawer slide
