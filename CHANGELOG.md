@@ -4660,3 +4660,4 @@
 - `2026-08-28 18:03` — dark mode color tweak
 - `2026-08-28 18:03` — color palette expansion
 - `2026-08-28 18:03` — correct elevation token on sticky header
+- `2026-08-28 18:03` — micro-interaction refinement
