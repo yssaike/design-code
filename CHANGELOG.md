@@ -4651,3 +4651,4 @@
 - `2026-08-28 18:03` — refine easing curve on drawer slide
 - `2026-08-28 18:03` — fix bounce effect on toast notification
 - `2026-08-28 18:03` — normalize exit animation duration tokens
+- `2026-08-28 18:03` — update skeleton shimmer timing
