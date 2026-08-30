@@ -4697,3 +4697,4 @@
 - `2026-08-29 17:48` — heading hierarchy fix
 - `2026-08-29 17:48` — font family swap
 - `2026-08-29 17:48` — tighten heading line height for large screens
+- `2026-08-29 17:48` — update monospace font token
