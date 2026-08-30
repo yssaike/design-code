@@ -4693,3 +4693,4 @@
 - `2026-08-29 17:48` — brand spacing alignment
 - `2026-08-29 17:48` — brand asset refresh
 - `2026-08-29 17:48` — brand guideline sync
+- `2026-08-29 17:48` — update logo sizing constraints
