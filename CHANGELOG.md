@@ -4704,3 +4704,4 @@
 - `2026-08-29 17:48` — normalize spacing scale to 8pt grid
 - `2026-08-29 17:48` — badge design update
 - `2026-08-29 17:48` — refine avatar sizing tokens
+- `2026-08-29 17:48` — refresh skeleton loader animation timing
