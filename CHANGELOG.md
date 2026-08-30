@@ -4672,3 +4672,4 @@
 - `2026-08-29 17:48` — split color tokens into primitives and semantics
 - `2026-08-29 17:48` — move hardcoded values to tokens
 - `2026-08-29 17:48` — deduplicate shadow definitions
+- `2026-08-29 17:48` — normalize token key casing
