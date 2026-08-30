@@ -4702,3 +4702,4 @@
 - `2026-08-29 17:48` — spacing token update
 - `2026-08-29 17:48` — grid gap adjustment
 - `2026-08-29 17:48` — normalize spacing scale to 8pt grid
+- `2026-08-29 17:48` — badge design update
