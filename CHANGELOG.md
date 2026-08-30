@@ -4681,3 +4681,4 @@
 - `2026-08-29 17:48` — fix broken token transformer
 - `2026-08-29 17:48` — brand color alignment
 - `2026-08-29 17:48` — surface color update
+- `2026-08-29 17:48` — semantic color token fix
