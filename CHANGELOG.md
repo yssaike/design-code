@@ -4689,3 +4689,4 @@
 - `2026-08-29 17:48` — patch inconsistent error color across states
 - `2026-08-29 17:48` — align info color with accessibility requirements
 - `2026-08-29 17:48` — brand token change
+- `2026-08-29 17:48` — brand font update
