@@ -4673,3 +4673,4 @@
 - `2026-08-29 17:48` — move hardcoded values to tokens
 - `2026-08-29 17:48` — deduplicate shadow definitions
 - `2026-08-29 17:48` — normalize token key casing
+- `2026-08-29 17:48` — extract repeated values into shared base tokens
