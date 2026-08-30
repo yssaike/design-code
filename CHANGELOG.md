@@ -4667,3 +4667,4 @@
 - `2026-08-28 18:03` — ensure touch target meets 44px minimum
 - `2026-08-29 17:48` — audit color pairs for WCAG AA compliance
 - `2026-08-29 17:48` — patch low-contrast placeholder text
+- `2026-08-29 17:48` — reorganize token file structure
