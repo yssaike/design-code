@@ -4718,3 +4718,4 @@
 - `2026-08-31 15:31` — fix inconsistent inner padding on form elements
 - `2026-08-31 15:31` — add missing spacing token for inline elements
 - `2026-08-31 15:31` — fix content spacing inside card variants
+- `2026-08-31 15:31` — screen reader label add
