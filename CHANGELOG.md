@@ -4728,3 +4728,4 @@
 - `2026-08-31 15:31` — remove deprecated spacing tokens
 - `2026-08-31 15:31` — rename tokens to match new naming convention
 - `2026-08-31 15:31` — flatten nested token structure for clarity
+- `2026-08-31 15:31` — improve token validation script
