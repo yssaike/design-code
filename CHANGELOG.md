@@ -4738,3 +4738,4 @@
 - `2026-08-31 15:31` — update changelog format
 - `2026-08-31 15:31` — add inline docs to spacing scale
 - `2026-08-31 15:31` — document token alias conventions
+- `2026-08-31 15:31` — update README with latest token structure
