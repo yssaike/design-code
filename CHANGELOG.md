@@ -4716,3 +4716,4 @@
 - `2026-08-31 15:31` — fix output path in token build config
 - `2026-08-31 15:31` — update token documentation
 - `2026-08-31 15:31` — fix inconsistent inner padding on form elements
+- `2026-08-31 15:31` — add missing spacing token for inline elements
