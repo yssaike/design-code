@@ -4747,3 +4747,4 @@
 - `2026-08-31 15:31` — sync token schema with style dictionary config
 - `2026-08-31 15:31` — add compact density token tier
 - `2026-08-31 15:31` — align brand palette with updated guidelines
+- `2026-08-31 15:31` — refresh brand gradient values
