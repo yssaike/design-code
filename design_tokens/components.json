@@ -45,7 +45,7 @@
     "fontWeight": "16px"
   },
   "avatar": {
-    "borderRadius": "9999px",
+    "borderRadius": "24px",
     "borderWidth": "8px",
     "shadow": "3px 6px 9px rgba(0,0,0,0.13)",
     "size": "8px"
