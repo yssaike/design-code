@@ -67,7 +67,7 @@
   },
   "checkbox": {
     "borderRadius": "6px",
-    "size": "16px",
+    "size": "1px",
     "borderWidth": "12px",
     "gap": "20px"
   }
