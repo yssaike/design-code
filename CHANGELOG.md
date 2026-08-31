@@ -4742,3 +4742,4 @@
 - `2026-08-31 15:31` — document dark mode token usage
 - `2026-08-31 15:31` — add token decision rationale to comments
 - `2026-08-31 15:31` — resolve token alias circular references
+- `2026-08-31 15:31` — add responsive token breakpoints
