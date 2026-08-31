@@ -4723,3 +4723,4 @@
 - `2026-08-31 15:31` — add skip-to-content link tokens
 - `2026-08-31 15:31` — fix missing label on icon-only button
 - `2026-08-31 15:31` — update focus-visible styles for interactive elements
+- `2026-08-31 15:31` — add high-visibility focus token for forced-colors mode
