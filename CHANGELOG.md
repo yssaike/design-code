@@ -4735,3 +4735,4 @@
 - `2026-08-31 15:31` — update style dictionary config
 - `2026-08-31 15:31` — add usage examples to component tokens
 - `2026-08-31 15:31` — document new color semantics
+- `2026-08-31 15:31` — update changelog format
