@@ -4733,3 +4733,4 @@
 - `2026-08-31 15:31` — add token format checks to pre-commit
 - `2026-08-31 15:31` — clean up generated output artifacts
 - `2026-08-31 15:31` — update style dictionary config
+- `2026-08-31 15:31` — add usage examples to component tokens
