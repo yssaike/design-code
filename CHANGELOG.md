@@ -4771,3 +4771,4 @@
 - `2026-09-04 12:02` — resolve visual glitch in dark mode
 - `2026-09-04 12:02` — fix broken transition on theme toggle
 - `2026-09-04 12:02` — patch off-by-one pixel alignment in grid
+- `2026-09-04 12:02` — patch inconsistent corner radius in form inputs
