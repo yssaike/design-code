@@ -4776,3 +4776,4 @@
 - `2026-09-04 12:02` — transition easing change
 - `2026-09-04 12:02` — loading animation tweak
 - `2026-09-04 12:02` — add migration notes for renamed tokens
+- `2026-09-04 12:02` — export latest tokens from Figma
