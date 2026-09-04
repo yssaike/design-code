@@ -4756,3 +4756,4 @@
 - `2026-09-04 12:02` — letter spacing tweak
 - `2026-09-04 12:02` — normalize font stack across platforms
 - `2026-09-04 12:02` — fix responsive type scale breakpoints
+- `2026-09-04 12:02` — update display heading tokens
