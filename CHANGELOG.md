@@ -4762,3 +4762,4 @@
 - `2026-09-04 12:02` — input field refinement
 - `2026-09-04 12:02` — card component update
 - `2026-09-04 12:02` — tooltip design tweak
+- `2026-09-04 12:02` — refine table row hover state tokens
