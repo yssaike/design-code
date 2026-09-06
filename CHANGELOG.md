@@ -4811,3 +4811,4 @@
 - `2026-09-05 22:26` — update link component underline style
 - `2026-09-05 22:26` — fix icon size inconsistency in nav
 - `2026-09-05 22:26` — clean up form field error state styles
+- `2026-09-05 22:26` — update stepper component tokens
