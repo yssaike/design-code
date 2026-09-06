@@ -4786,3 +4786,4 @@
 - `2026-09-05 22:26` — sync brand tokens with latest identity refresh
 - `2026-09-05 22:26` — pull latest brand variables from design system
 - `2026-09-05 22:26` — font weight adjustment
+- `2026-09-05 22:26` — bump body font size for readability
