@@ -4805,3 +4805,4 @@
 - `2026-09-05 22:26` — add new surface token for overlay backgrounds
 - `2026-09-05 22:26` — patch broken token reference in components
 - `2026-09-05 22:26` — add focus token for custom components
+- `2026-09-05 22:26` — dropdown menu update
