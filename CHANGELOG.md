@@ -4779,3 +4779,4 @@
 - `2026-09-04 12:02` — export latest tokens from Figma
 - `2026-09-05 22:26` — primary color update
 - `2026-09-05 22:26` — remap semantic color tokens to new primitives
+- `2026-09-05 22:26` — sync color tokens with latest Figma variables export
