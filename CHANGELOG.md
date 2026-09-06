@@ -4803,3 +4803,4 @@
 - `2026-09-05 22:26` — add entrance animation for modal overlay
 - `2026-09-05 22:26` — add missing dark mode token variants
 - `2026-09-05 22:26` — add new surface token for overlay backgrounds
+- `2026-09-05 22:26` — patch broken token reference in components
