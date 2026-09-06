@@ -4808,3 +4808,4 @@
 - `2026-09-05 22:26` — dropdown menu update
 - `2026-09-05 22:26` — checkbox style refresh
 - `2026-09-05 22:26` — tab component refinement
+- `2026-09-05 22:26` — update link component underline style
