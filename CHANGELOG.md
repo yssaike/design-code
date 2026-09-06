@@ -4797,3 +4797,4 @@
 - `2026-09-05 22:26` — tighten compact density spacing
 - `2026-09-05 22:26` — update page-level layout margins
 - `2026-09-05 22:26` — button style update
+- `2026-09-05 22:26` — modal design update
