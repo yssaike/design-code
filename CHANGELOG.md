@@ -4850,3 +4850,4 @@
 - `2026-09-08 15:23` — improve color contrast on disabled text
 - `2026-09-08 15:23` — ensure touch target meets 44px minimum
 - `2026-09-08 15:23` — brand color alignment
+- `2026-09-08 15:23` — surface color update
