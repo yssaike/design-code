@@ -4823,3 +4823,4 @@
 - `2026-09-07 23:25` — wire up new semantic elevation tokens
 - `2026-09-07 23:25` — secondary palette refinement
 - `2026-09-07 23:25` — accent color adjustment
+- `2026-09-07 23:25` — color contrast fix
