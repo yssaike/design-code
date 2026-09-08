@@ -4819,3 +4819,4 @@
 - `2026-09-07 23:25` — disabled state styling
 - `2026-09-07 23:25` — responsive layout tweak
 - `2026-09-07 23:25` — shadow refinement
+- `2026-09-07 23:25` — update token output format to CSS variables
