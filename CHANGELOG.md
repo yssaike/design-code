@@ -4830,3 +4830,4 @@
 - `2026-09-07 23:25` — visual regression fix
 - `2026-09-07 23:25` — fix broken outline on focus for keyboard users
 - `2026-09-07 23:25` — patch stacking context issue in overlay
+- `2026-09-07 23:25` — correct misaligned icon in button component
