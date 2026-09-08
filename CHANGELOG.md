@@ -4840,3 +4840,4 @@
 - `2026-09-07 23:25` — micro-interaction refinement
 - `2026-09-07 23:25` — smooth out tab transition timing
 - `2026-09-07 23:25` — remove jarring jump in accordion open
+- `2026-09-07 23:25` — refine easing curve on drawer slide
