@@ -4821,3 +4821,4 @@
 - `2026-09-07 23:25` — shadow refinement
 - `2026-09-07 23:25` — update token output format to CSS variables
 - `2026-09-07 23:25` — wire up new semantic elevation tokens
+- `2026-09-07 23:25` — secondary palette refinement
