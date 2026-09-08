@@ -4844,3 +4844,4 @@
 - `2026-09-07 23:25` — update stagger delay for list animations
 - `2026-09-07 23:25` — fix bounce effect on toast notification
 - `2026-09-08 15:23` — normalize exit animation duration tokens
+- `2026-09-08 15:23` — update skeleton shimmer timing
