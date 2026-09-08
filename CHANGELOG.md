@@ -4838,3 +4838,4 @@
 - `2026-09-07 23:25` — fix missing border on selected state
 - `2026-09-07 23:25` — correct elevation token on sticky header
 - `2026-09-07 23:25` — micro-interaction refinement
+- `2026-09-07 23:25` — smooth out tab transition timing
