@@ -4832,3 +4832,4 @@
 - `2026-09-07 23:25` — patch stacking context issue in overlay
 - `2026-09-07 23:25` — correct misaligned icon in button component
 - `2026-09-07 23:25` — patch spacing regression from last merge
+- `2026-09-07 23:25` — clean up leftover debug border
