@@ -4826,3 +4826,4 @@
 - `2026-09-07 23:25` — color contrast fix
 - `2026-09-07 23:25` — dark mode color tweak
 - `2026-09-07 23:25` — color palette expansion
+- `2026-09-07 23:25` — overflow fix
