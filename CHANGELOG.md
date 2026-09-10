@@ -4873,3 +4873,4 @@
 - `2026-09-10 11:51` — grid gap adjustment
 - `2026-09-10 11:51` — normalize spacing scale to 8pt grid
 - `2026-09-10 11:51` — badge design update
+- `2026-09-10 11:51` — refine avatar sizing tokens
