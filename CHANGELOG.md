@@ -4880,3 +4880,4 @@
 - `2026-09-10 11:51` — refine popover arrow token values
 - `2026-09-10 11:51` — audit color pairs for WCAG AA compliance
 - `2026-09-10 11:51` — patch low-contrast placeholder text
+- `2026-09-10 11:51` — reorganize token file structure
