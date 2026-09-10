@@ -4864,3 +4864,4 @@
 - `2026-09-10 11:51` — brand asset refresh
 - `2026-09-10 11:51` — brand guideline sync
 - `2026-09-10 11:51` — update logo sizing constraints
+- `2026-09-10 11:51` — heading hierarchy fix
