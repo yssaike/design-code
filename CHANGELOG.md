@@ -4857,3 +4857,4 @@
 - `2026-09-08 15:23` — tweak surface colors for better light-mode legibility
 - `2026-09-10 11:51` — bump gray scale contrast levels
 - `2026-09-10 11:51` — patch inconsistent error color across states
+- `2026-09-10 11:51` — align info color with accessibility requirements
