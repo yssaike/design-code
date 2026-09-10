@@ -4866,3 +4866,4 @@
 - `2026-09-10 11:51` — update logo sizing constraints
 - `2026-09-10 11:51` — heading hierarchy fix
 - `2026-09-10 11:51` — font family swap
+- `2026-09-10 11:51` — tighten heading line height for large screens
