@@ -4858,3 +4858,4 @@
 - `2026-09-10 11:51` — bump gray scale contrast levels
 - `2026-09-10 11:51` — patch inconsistent error color across states
 - `2026-09-10 11:51` — align info color with accessibility requirements
+- `2026-09-10 11:51` — brand token change
