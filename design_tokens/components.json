@@ -10,7 +10,7 @@
   },
   "input": {
     "borderRadius": "4px",
-    "paddingX": "16px",
+    "paddingX": "4px",
     "paddingY": "24px",
     "borderWidth": "8px",
     "fontSize": "2px",
