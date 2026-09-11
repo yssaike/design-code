@@ -4900,3 +4900,4 @@
 - `2026-09-11 10:59` — fix content spacing inside card variants
 - `2026-09-11 10:59` — update progress bar color tokens
 - `2026-09-11 10:59` — tighten list item component spacing
+- `2026-09-11 10:59` — fix breadcrumb separator sizing
