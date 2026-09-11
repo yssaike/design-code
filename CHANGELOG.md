@@ -4894,3 +4894,4 @@
 - `2026-09-11 10:59` — fix broken token transformer
 - `2026-09-11 10:59` — align brand palette with updated guidelines
 - `2026-09-11 10:59` — refresh brand gradient values
+- `2026-09-11 10:59` — update wordmark sizing token
