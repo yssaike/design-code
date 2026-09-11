@@ -4902,3 +4902,4 @@
 - `2026-09-11 10:59` — tighten list item component spacing
 - `2026-09-11 10:59` — fix breadcrumb separator sizing
 - `2026-09-11 10:59` — tune reduced-motion fallback tokens
+- `2026-09-11 10:59` — focus indicator update
