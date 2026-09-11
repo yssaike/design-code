@@ -4892,3 +4892,4 @@
 - `2026-09-11 10:59` — fix token export pipeline
 - `2026-09-11 10:59` — update Figma token sync config
 - `2026-09-11 10:59` — fix broken token transformer
+- `2026-09-11 10:59` — align brand palette with updated guidelines
