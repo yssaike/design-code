@@ -4914,3 +4914,4 @@
 - `2026-09-11 10:59` — rename tokens to match new naming convention
 - `2026-09-11 10:59` — flatten nested token structure for clarity
 - `2026-09-11 10:59` — improve token validation script
+- `2026-09-11 10:59` — bump token schema version
