@@ -4888,3 +4888,4 @@
 - `2026-09-11 10:59` — normalize token key casing
 - `2026-09-11 10:59` — extract repeated values into shared base tokens
 - `2026-09-11 10:59` — tidy up token category groupings
+- `2026-09-11 10:59` — update design token build script
