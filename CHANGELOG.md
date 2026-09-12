@@ -4926,3 +4926,4 @@
 - `2026-09-12 14:01` — add inline docs to spacing scale
 - `2026-09-12 14:01` — document token alias conventions
 - `2026-09-12 14:01` — update README with latest token structure
+- `2026-09-12 14:01` — document dark mode token usage
