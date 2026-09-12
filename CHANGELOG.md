@@ -4935,3 +4935,4 @@
 - `2026-09-12 14:01` — add compact density token tier
 - `2026-09-12 14:01` — reconcile brand color with new creative direction
 - `2026-09-12 14:01` — typography scale update
+- `2026-09-12 14:01` — line height refinement
