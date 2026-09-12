@@ -4942,3 +4942,4 @@
 - `2026-09-12 14:01` — fix responsive type scale breakpoints
 - `2026-09-12 14:01` — update display heading tokens
 - `2026-09-12 14:01` — audit and clean up unused type styles
+- `2026-09-12 14:01` — align vertical rhythm tokens with type scale
