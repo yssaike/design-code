@@ -4933,3 +4933,4 @@
 - `2026-09-12 14:01` — add high-contrast mode token set
 - `2026-09-12 14:01` — sync token schema with style dictionary config
 - `2026-09-12 14:01` — add compact density token tier
+- `2026-09-12 14:01` — reconcile brand color with new creative direction
