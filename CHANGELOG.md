@@ -4919,3 +4919,4 @@
 - `2026-09-11 10:59` — clean up generated output artifacts
 - `2026-09-12 14:01` — update style dictionary config
 - `2026-09-12 14:01` — fix output path in token build config
+- `2026-09-12 14:01` — update token documentation
