@@ -4922,3 +4922,4 @@
 - `2026-09-12 14:01` — update token documentation
 - `2026-09-12 14:01` — add usage examples to component tokens
 - `2026-09-12 14:01` — document new color semantics
+- `2026-09-12 14:01` — update changelog format
