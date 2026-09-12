@@ -4936,3 +4936,4 @@
 - `2026-09-12 14:01` — reconcile brand color with new creative direction
 - `2026-09-12 14:01` — typography scale update
 - `2026-09-12 14:01` — line height refinement
+- `2026-09-12 14:01` — body text improvement
