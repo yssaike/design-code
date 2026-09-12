@@ -4927,3 +4927,4 @@
 - `2026-09-12 14:01` — document token alias conventions
 - `2026-09-12 14:01` — update README with latest token structure
 - `2026-09-12 14:01` — document dark mode token usage
+- `2026-09-12 14:01` — add token decision rationale to comments
