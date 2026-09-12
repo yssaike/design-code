@@ -4921,3 +4921,4 @@
 - `2026-09-12 14:01` — fix output path in token build config
 - `2026-09-12 14:01` — update token documentation
 - `2026-09-12 14:01` — add usage examples to component tokens
+- `2026-09-12 14:01` — document new color semantics
