@@ -4939,3 +4939,4 @@
 - `2026-09-12 14:01` — body text improvement
 - `2026-09-12 14:01` — letter spacing tweak
 - `2026-09-12 14:01` — normalize font stack across platforms
+- `2026-09-12 14:01` — fix responsive type scale breakpoints
