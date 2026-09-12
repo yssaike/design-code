@@ -4938,3 +4938,4 @@
 - `2026-09-12 14:01` — line height refinement
 - `2026-09-12 14:01` — body text improvement
 - `2026-09-12 14:01` — letter spacing tweak
+- `2026-09-12 14:01` — normalize font stack across platforms
