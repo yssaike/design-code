@@ -4948,3 +4948,4 @@
 - `2026-09-13 23:12` — tooltip design tweak
 - `2026-09-13 23:12` — refine table row hover state tokens
 - `2026-09-13 23:12` — focus ring update
+- `2026-09-13 23:12` — border radius update
