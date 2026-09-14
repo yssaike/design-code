@@ -4971,3 +4971,4 @@
 - `2026-09-13 23:12` — pull latest brand variables from design system
 - `2026-09-13 23:12` — font weight adjustment
 - `2026-09-13 23:12` — bump body font size for readability
+- `2026-09-13 23:12` — align caption text tokens with spec
