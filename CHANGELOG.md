@@ -4961,3 +4961,4 @@
 - `2026-09-13 23:12` — loading animation tweak
 - `2026-09-13 23:12` — add migration notes for renamed tokens
 - `2026-09-13 23:12` — export latest tokens from Figma
+- `2026-09-13 23:12` — primary color update
