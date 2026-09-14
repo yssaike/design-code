@@ -4957,3 +4957,4 @@
 - `2026-09-13 23:12` — patch off-by-one pixel alignment in grid
 - `2026-09-13 23:12` — patch inconsistent corner radius in form inputs
 - `2026-09-13 23:12` — animation duration update
+- `2026-09-13 23:12` — transition easing change
