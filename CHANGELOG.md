@@ -4959,3 +4959,4 @@
 - `2026-09-13 23:12` — animation duration update
 - `2026-09-13 23:12` — transition easing change
 - `2026-09-13 23:12` — loading animation tweak
+- `2026-09-13 23:12` — add migration notes for renamed tokens
