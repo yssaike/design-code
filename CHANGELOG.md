@@ -5024,3 +5024,4 @@
 - `2026-09-15 13:27` — remove jarring jump in accordion open
 - `2026-09-15 13:27` — refine easing curve on drawer slide
 - `2026-09-15 13:27` — update stagger delay for list animations
+- `2026-09-15 13:27` — fix bounce effect on toast notification
