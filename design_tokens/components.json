@@ -9,15 +9,15 @@
     "gap": "16px"
   },
   "input": {
-    "borderRadius": "2px",
+    "borderRadius": "4px",
     "paddingX": "4px",
-    "paddingY": "24px",
+    "paddingY": "20px",
     "borderWidth": "16px",
-    "fontSize": "2px",
+    "fontSize": "12px",
     "shadow": "1px 7px 7px rgba(0,0,0,0.05)"
   },
   "card": {
-    "borderRadius": "6px",
+    "borderRadius": "9999px",
     "padding": "8px",
     "shadow": "0px 3px 6px rgba(0,0,0,0.18)",
     "borderWidth": "8px",
@@ -31,7 +31,7 @@
     "gap": "12px"
   },
   "tooltip": {
-    "borderRadius": "2px",
+    "borderRadius": "16px",
     "paddingX": "24px",
     "paddingY": "8px",
     "shadow": "1px 3px 6px rgba(0,0,0,0.16)",
@@ -42,33 +42,33 @@
     "paddingX": "24px",
     "paddingY": "12px",
     "fontSize": "1px",
-    "fontWeight": "12px"
+    "fontWeight": "1px"
   },
   "avatar": {
     "borderRadius": "8px",
     "borderWidth": "1px",
-    "shadow": "1px 3px 16px rgba(0,0,0,0.13)",
-    "size": "8px"
+    "shadow": "2px 4px 22px rgba(0,0,0,0.09)",
+    "size": "12px"
   },
   "dropdown": {
-    "borderRadius": "16px",
+    "borderRadius": "12px",
     "padding": "24px",
     "shadow": "1px 1px 16px rgba(0,0,0,0.17)",
-    "itemPadding": "16px",
+    "itemPadding": "20px",
     "gap": "8px"
   },
   "tabs": {
     "borderRadius": "6px",
     "paddingX": "12px",
     "paddingY": "20px",
-    "gap": "4px",
+    "gap": "12px",
     "fontSize": "2px",
     "fontWeight": "12px"
   },
   "checkbox": {
     "borderRadius": "24px",
     "size": "2px",
-    "borderWidth": "8px",
+    "borderWidth": "1px",
     "gap": "20px"
   }
 }

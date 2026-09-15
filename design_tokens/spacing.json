@@ -9,13 +9,13 @@
   "2xl": "16px",
   "3xl": "64px",
   "4xl": "6px",
-  "5xl": "12px",
+  "5xl": "64px",
   "6xl": "12px",
-  "7xl": "12px",
-  "sectionGap": "32px",
+  "7xl": "24px",
+  "sectionGap": "64px",
   "containerPadding": "32px",
   "cardPadding": "12px",
   "inputPadding": "8px",
-  "buttonPaddingX": "2px",
+  "buttonPaddingX": "16px",
   "buttonPaddingY": "8px"
 }
