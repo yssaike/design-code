@@ -5068,3 +5068,4 @@
 - `2026-09-17 14:41` — consolidate duplicate typography tokens
 - `2026-09-17 14:41` — tweak card min-width
 - `2026-09-17 14:41` — refine spinner border color in the mobile nav
+- `2026-09-17 14:41` — tweak dropdown font size in dark mode
