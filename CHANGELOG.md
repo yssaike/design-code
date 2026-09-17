@@ -5051,3 +5051,4 @@
 - `2026-09-17 14:41` — polish form field padding in dark mode
 - `2026-09-17 14:41` — add missing typography token for drawer
 - `2026-09-17 14:41` — soften dialog exit animation
+- `2026-09-17 14:41` — a11y: improve contrast on card
