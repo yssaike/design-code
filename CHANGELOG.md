@@ -5067,3 +5067,4 @@
 - `2026-09-17 14:41` — resolve chip alignment in high-contrast mode
 - `2026-09-17 14:41` — consolidate duplicate typography tokens
 - `2026-09-17 14:41` — tweak card min-width
+- `2026-09-17 14:41` — refine spinner border color in the mobile nav
