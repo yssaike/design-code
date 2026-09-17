@@ -5049,3 +5049,4 @@
 - `2026-09-16 15:37` — brand guideline sync
 - `2026-09-17 14:41` — rename elevation tokens for consistency
 - `2026-09-17 14:41` — polish form field padding in dark mode
+- `2026-09-17 14:41` — add missing typography token for drawer
