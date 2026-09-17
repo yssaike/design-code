@@ -5061,3 +5061,4 @@
 - `2026-09-17 14:41` — adjust banner transition timing
 - `2026-09-17 14:41` — rebalance the elevation scale
 - `2026-09-17 14:41` — correct divider max-height in nested layouts
+- `2026-09-17 14:41` — soften select exit animation
