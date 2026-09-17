@@ -5054,3 +5054,4 @@
 - `2026-09-17 14:41` — a11y: improve contrast on card
 - `2026-09-17 14:41` — tweak file upload border radius in high-contrast mode
 - `2026-09-17 14:41` — style: refine table row font size
+- `2026-09-17 14:41` — update spinner transition
