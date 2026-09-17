@@ -39,7 +39,7 @@
   },
   "badge": {
     "borderRadius": "6px",
-    "paddingX": "24px",
+    "paddingX": "4px",
     "paddingY": "12px",
     "fontSize": "4px",
     "fontWeight": "1px"
