@@ -5056,3 +5056,4 @@
 - `2026-09-17 14:41` — style: refine table row font size
 - `2026-09-17 14:41` — update spinner transition
 - `2026-09-17 14:41` — adjust skeleton focus ring for RTL layouts
+- `2026-09-17 14:41` — add missing border token for tab
