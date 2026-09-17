@@ -5063,3 +5063,4 @@
 - `2026-09-17 14:41` — correct divider max-height in nested layouts
 - `2026-09-17 14:41` — soften select exit animation
 - `2026-09-17 14:41` — tune menu item transition timing
+- `2026-09-17 14:41` — refine pagination min-width at tablet widths
