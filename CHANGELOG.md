@@ -5071,3 +5071,4 @@
 - `2026-09-17 14:41` — tweak dropdown font size in dark mode
 - `2026-09-17 14:41` — feat: polish the type scale
 - `2026-09-17 14:41` — resolve form field transition in nested layouts
+- `2026-09-17 14:41` — fix keyboard navigation in button
