@@ -5073,3 +5073,4 @@
 - `2026-09-17 14:41` — resolve form field transition in nested layouts
 - `2026-09-17 14:41` — fix keyboard navigation in button
 - `2026-09-17 14:41` — correct divider transition
+- `2026-09-17 14:41` — resolve page header background in the sidebar
