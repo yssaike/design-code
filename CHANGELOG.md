@@ -5065,3 +5065,4 @@
 - `2026-09-17 14:41` — tune menu item transition timing
 - `2026-09-17 14:41` — refine pagination min-width at tablet widths
 - `2026-09-17 14:41` — resolve chip alignment in high-contrast mode
+- `2026-09-17 14:41` — consolidate duplicate typography tokens
