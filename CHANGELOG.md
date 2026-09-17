@@ -5058,3 +5058,4 @@
 - `2026-09-17 14:41` — adjust skeleton focus ring for RTL layouts
 - `2026-09-17 14:41` — add missing border token for tab
 - `2026-09-17 14:41` — fix menu item icon size on touch devices
+- `2026-09-17 14:41` — adjust banner transition timing
