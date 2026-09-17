@@ -11,7 +11,7 @@
   "input": {
     "borderRadius": "4px",
     "paddingX": "4px",
-    "paddingY": "20px",
+    "paddingY": "4px",
     "borderWidth": "16px",
     "fontSize": "12px",
     "shadow": "0px 3px 19px rgba(0,0,0,0.11)"
