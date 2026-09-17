@@ -20,7 +20,7 @@
     "borderRadius": "9999px",
     "padding": "8px",
     "shadow": "0px 3px 6px rgba(0,0,0,0.18)",
-    "borderWidth": "8px",
+    "borderWidth": "16px",
     "gap": "24px"
   },
   "modal": {
@@ -31,7 +31,7 @@
     "gap": "24px"
   },
   "tooltip": {
-    "borderRadius": "16px",
+    "borderRadius": "2px",
     "paddingX": "12px",
     "paddingY": "8px",
     "shadow": "1px 3px 6px rgba(0,0,0,0.16)",
@@ -45,7 +45,7 @@
     "fontWeight": "1px"
   },
   "avatar": {
-    "borderRadius": "4px",
+    "borderRadius": "24px",
     "borderWidth": "1px",
     "shadow": "2px 4px 22px rgba(0,0,0,0.09)",
     "size": "4px"
@@ -53,8 +53,8 @@
   "dropdown": {
     "borderRadius": "12px",
     "padding": "24px",
-    "shadow": "1px 1px 16px rgba(0,0,0,0.17)",
-    "itemPadding": "20px",
+    "shadow": "4px 2px 19px rgba(0,0,0,0.04)",
+    "itemPadding": "16px",
     "gap": "8px"
   },
   "tabs": {

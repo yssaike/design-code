@@ -5025,3 +5025,26 @@
 - `2026-09-15 13:27` — refine easing curve on drawer slide
 - `2026-09-15 13:27` — update stagger delay for list animations
 - `2026-09-15 13:27` — fix bounce effect on toast notification
+- `2026-09-16 15:37` — update token output format to CSS variables
+- `2026-09-16 15:37` — wire up new semantic elevation tokens
+- `2026-09-16 15:37` — brand color alignment
+- `2026-09-16 15:37` — surface color update
+- `2026-09-16 15:37` — semantic color token fix
+- `2026-09-16 15:37` — update neutral palette to reflect new brand direction
+- `2026-09-16 15:37` — fix off-brand blue in CTA components
+- `2026-09-16 15:37` — tweak surface colors for better light-mode legibility
+- `2026-09-16 15:37` — normalize exit animation duration tokens
+- `2026-09-16 15:37` — update skeleton shimmer timing
+- `2026-09-16 15:37` — accessibility contrast fix
+- `2026-09-16 15:37` — keyboard navigation fix
+- `2026-09-16 15:37` — improve color contrast on disabled text
+- `2026-09-16 15:37` — ensure touch target meets 44px minimum
+- `2026-09-16 15:37` — bump gray scale contrast levels
+- `2026-09-16 15:37` — patch inconsistent error color across states
+- `2026-09-16 15:37` — align info color with accessibility requirements
+- `2026-09-16 15:37` — brand token change
+- `2026-09-16 15:37` — brand font update
+- `2026-09-16 15:37` — brand spacing alignment
+- `2026-09-16 15:37` — brand asset refresh
+- `2026-09-16 15:37` — brand guideline sync
+- `2026-09-17 14:41` — rename elevation tokens for consistency

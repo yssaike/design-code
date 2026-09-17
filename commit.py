@@ -4,9 +4,12 @@ Design Code — Daily commit script for design engineers.
 Run this from your terminal each day to log design work to GitHub.
 """
 
+import argparse
 import os
 import random
 import subprocess
+import sys
+import time
 import json
 from datetime import datetime, date, timedelta
 
@@ -228,6 +231,161 @@ COMMIT_MESSAGES = {
 ALL_MESSAGES = [msg for group in COMMIT_MESSAGES.values() for msg in group]
 
 # ---------------------------------------------------------------------------
+# Combinatorial message generation
+#
+# The curated lists above read well but top out at ~170 messages. At 20-30
+# commits a day a 3-week cooldown needs 400-600+ distinct messages, so the
+# curated pool alone gets exhausted and messages start repeating within days.
+# The vocabulary below composes into tens of thousands of natural-sounding
+# messages, which keeps the cooldown window genuinely collision-free.
+# ---------------------------------------------------------------------------
+
+ELEMENTS = [
+    "button", "input", "card", "modal", "tooltip", "nav", "dropdown",
+    "checkbox", "tab", "badge", "avatar", "chip", "alert", "popover",
+    "divider", "progress bar", "switch", "breadcrumb", "table row", "toast",
+    "drawer", "accordion", "stepper", "slider", "radio group", "select",
+    "textarea", "skeleton", "spinner", "pagination", "sidebar", "page header",
+    "footer", "banner", "menu item", "list item", "tag", "icon button",
+    "link", "form field", "search bar", "empty state", "dialog", "snackbar",
+    "date picker", "file upload", "segmented control", "tree view",
+]
+
+PROPERTIES = [
+    "padding", "border radius", "shadow", "hover state", "focus ring",
+    "disabled state", "active state", "color token", "spacing", "font size",
+    "line height", "border color", "background", "elevation", "transition",
+    "gap", "min-width", "text color", "icon size", "alignment",
+    "letter spacing", "outline", "opacity", "max-height", "font weight",
+    "placeholder color", "divider color", "selected state", "loading state",
+]
+
+CONTEXTS = [
+    "in dark mode", "on mobile", "at small breakpoints", "in compact density",
+    "in the sidebar", "in nested layouts", "for RTL layouts",
+    "in high-contrast mode", "in form layouts", "on touch devices",
+    "in the settings view", "at tablet widths", "in the mobile nav",
+    "for long content", "in modal context", "on wide screens",
+]
+
+SCALES = ["spacing", "type", "elevation", "radius", "color", "z-index", "opacity", "density"]
+
+TOKEN_KINDS = [
+    "color", "spacing", "typography", "radius", "shadow", "motion",
+    "elevation", "border", "semantic", "primitive",
+]
+
+FIX_VERBS = ["fix", "patch", "correct", "resolve"]
+TWEAK_VERBS = ["update", "tweak", "adjust", "refine", "tune", "polish", "normalize"]
+
+
+def _g_fix_element():
+    """e.g. 'fix dropdown alignment on mobile'"""
+    msg = f"{random.choice(FIX_VERBS)} {random.choice(ELEMENTS)} {random.choice(PROPERTIES)}"
+    if random.random() < 0.45:
+        msg += f" {random.choice(CONTEXTS)}"
+    return random.choice(["ui_fixes", "components"]), msg
+
+
+def _g_tweak_element():
+    """e.g. 'refine card shadow in dark mode'"""
+    msg = f"{random.choice(TWEAK_VERBS)} {random.choice(ELEMENTS)} {random.choice(PROPERTIES)}"
+    if random.random() < 0.4:
+        msg += f" {random.choice(CONTEXTS)}"
+    return "components", msg
+
+
+def _g_scale():
+    """e.g. 'tighten up the elevation scale'"""
+    verb = random.choice(TWEAK_VERBS + ["rebalance", "simplify", "extend"])
+    return random.choice(["spacing", "typography", "tokens"]), f"{verb} the {random.choice(SCALES)} scale"
+
+
+def _g_token_work():
+    """e.g. 'add missing motion token for drawer'"""
+    kind = random.choice(TOKEN_KINDS)
+    choice = random.randint(0, 4)
+    if choice == 0:
+        return "tokens", f"add missing {kind} token for {random.choice(ELEMENTS)}"
+    if choice == 1:
+        return "refactor", f"remove unused {kind} tokens"
+    if choice == 2:
+        return "refactor", f"rename {kind} tokens for consistency"
+    if choice == 3:
+        return "refactor", f"consolidate duplicate {kind} tokens"
+    return "docs", f"document {kind} token usage"
+
+
+def _g_a11y():
+    """e.g. 'improve focus ring contrast on icon button'"""
+    choice = random.randint(0, 3)
+    el = random.choice(ELEMENTS)
+    if choice == 0:
+        msg = f"improve {random.choice(['contrast', 'focus visibility', 'touch target size'])} on {el}"
+    elif choice == 1:
+        msg = f"add aria label to {el}"
+    elif choice == 2:
+        msg = f"fix keyboard navigation in {el}"
+    else:
+        msg = f"meet WCAG AA contrast on {el}"
+    return "accessibility", msg
+
+
+def _g_motion():
+    """e.g. 'ease the drawer transition timing'"""
+    el = random.choice(ELEMENTS)
+    choice = random.randint(0, 2)
+    if choice == 0:
+        msg = f"{random.choice(TWEAK_VERBS)} {el} transition timing"
+    elif choice == 1:
+        msg = f"soften {el} {random.choice(['entrance', 'exit', 'hover'])} animation"
+    else:
+        msg = f"respect reduced motion in {el}"
+    return "motion", msg
+
+
+GENERATORS = [
+    (_g_fix_element, 26),
+    (_g_tweak_element, 26),
+    (_g_scale, 8),
+    (_g_token_work, 16),
+    (_g_a11y, 10),
+    (_g_motion, 14),
+]
+
+# Occasionally prefix with a conventional-commit type, the way a solo dev
+# drifts between styles over a long-running project.
+PREFIXES = {
+    "ui_fixes": "fix", "components": "style", "accessibility": "a11y",
+    "motion": "style", "tokens": "feat", "refactor": "refactor",
+    "docs": "docs", "spacing": "style", "typography": "style",
+    "color": "style", "brand": "style", "tooling": "chore",
+}
+
+
+def _prefix_for(category: str, message: str):
+    """Pick a conventional-commit prefix, or None when one would read oddly."""
+    first = message.split()[0]
+    # "fix: patch ..." is redundant — the verb already says it.
+    if first in FIX_VERBS:
+        return None
+    if first == "document":
+        return "docs"
+    return PREFIXES.get(category)
+
+
+def _generate():
+    """Compose a fresh message from the vocabulary. Returns (category, message)."""
+    gens, weights = zip(*GENERATORS)
+    category, message = random.choices(gens, weights=weights, k=1)[0]()
+    if random.random() < 0.18:
+        prefix = _prefix_for(category, message)
+        if prefix:
+            message = f"{prefix}: {message}"
+    return category, message
+
+
+# ---------------------------------------------------------------------------
 # Cooldown tracking — avoids repeating the same message within 3 weeks
 # ---------------------------------------------------------------------------
 HISTORY_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), ".commit_history.json")
@@ -237,8 +395,25 @@ COOLDOWN_DAYS = 21
 def _load_history() -> dict:
     if not os.path.exists(HISTORY_FILE):
         return {}
-    with open(HISTORY_FILE) as f:
-        return json.load(f)
+    try:
+        with open(HISTORY_FILE) as f:
+            history = json.load(f)
+    except (json.JSONDecodeError, OSError):
+        # A corrupt history file should never block a commit run.
+        return {}
+
+    # Drop entries past the cooldown window — they no longer constrain
+    # anything, and pruning keeps the file from growing without bound now
+    # that messages are generated rather than drawn from a fixed list.
+    today = date.today()
+    fresh = {}
+    for msg, stamp in history.items():
+        try:
+            if (today - datetime.strptime(stamp, "%Y-%m-%d").date()).days < COOLDOWN_DAYS:
+                fresh[msg] = stamp
+        except (ValueError, TypeError):
+            continue
+    return fresh
 
 
 def _save_history(history: dict) -> None:
@@ -366,33 +541,40 @@ MODIFIERS = {
 }
 
 
+def _is_fresh(message: str, history: dict, session_used: set) -> bool:
+    return message not in session_used and not _is_on_cooldown(message, history)
+
+
 def _pick_commit(history: dict, session_used: set):
     """
-    Return (category, message), skipping messages on 21-day cooldown
-    and messages already used this session.
-    Falls back to least-recently-used if the pool is exhausted.
+    Return (category, message) that has not been used in the last
+    COOLDOWN_DAYS days, nor already in this session.
+
+    Prefers the hand-written pool while it still has unused entries, then
+    falls back to composed messages, which are effectively unlimited.
     """
-    all_pairs = [(cat, msg) for cat, msgs in COMMIT_MESSAGES.items() for msg in msgs]
-    available = [
-        (cat, msg) for cat, msg in all_pairs
-        if msg not in session_used and not _is_on_cooldown(msg, history)
+    # Hand-written messages read best, so use them first when available.
+    curated = [
+        (cat, msg) for cat, msgs in COMMIT_MESSAGES.items() for msg in msgs
+        if _is_fresh(msg, history, session_used)
     ]
+    if curated and random.random() < 0.35:
+        return random.choice(curated)
 
-    if not available:
-        # Everything is on cooldown — pick the least recently used
-        def last_used_date(pair):
-            _, msg = pair
-            return datetime.strptime(history.get(msg, "2000-01-01"), "%Y-%m-%d").date()
+    # Compose a fresh one. The vocabulary is large enough that a collision-free
+    # draw lands almost immediately.
+    for _ in range(200):
+        category, message = _generate()
+        if _is_fresh(message, history, session_used):
+            return category, message
 
-        all_pairs.sort(key=last_used_date)
-        # Filter out at least session dupes if possible
-        filtered = [p for p in all_pairs if p[1] not in session_used]
-        pool = filtered if filtered else all_pairs
-        category, message = pool[0]
-        return category, message
+    # Vocabulary somehow saturated — fall back to any unused curated message.
+    if curated:
+        return random.choice(curated)
 
-    category, message = random.choice(available)
-    return category, message
+    # Last resort: disambiguate with a short suffix so we never repeat verbatim.
+    category, message = _generate()
+    return category, f"{message} ({date.today().strftime('%b %d').lower()})"
 
 
 def _git(*args):
@@ -410,31 +592,39 @@ def _git(*args):
 # Main
 # ---------------------------------------------------------------------------
 
-def main():
-    repo_dir = os.path.dirname(os.path.abspath(__file__))
-    os.chdir(repo_dir)
-    tokens_dir = os.path.join(repo_dir, "design_tokens")
+# Range used for unattended runs, so the daily count varies like real activity.
+AUTO_MIN, AUTO_MAX = 4, 18
 
-    print()
-    print("  ╔══════════════════════════════════════╗")
-    print("  ║         🎨  Design Code  🎨          ║")
-    print("  ║    Daily design-token commit tool     ║")
-    print("  ╚══════════════════════════════════════╝")
-    print()
 
+def _log(message: str, quiet: bool) -> None:
+    """Print with a timestamp when running unattended, plainly when interactive."""
+    if quiet:
+        print(f"[{datetime.now():%Y-%m-%d %H:%M:%S}] {message}", flush=True)
+    else:
+        print(message)
+
+
+def _ask_count() -> int:
     while True:
         try:
             num = int(input("  How many commits would you like to make today? "))
             if num < 1:
                 print("  Please enter at least 1.")
                 continue
-            break
+            return num
         except ValueError:
             print("  Enter a number, e.g. 3")
 
-    print()
+
+def run(num: int, push: bool = True, quiet: bool = False) -> int:
+    """Create `num` commits and optionally push. Returns the exit code."""
+    repo_dir = os.path.dirname(os.path.abspath(__file__))
+    os.chdir(repo_dir)
+    tokens_dir = os.path.join(repo_dir, "design_tokens")
+
     history = _load_history()
     session_used = set()
+    made = 0
 
     for i in range(1, num + 1):
         category, message = _pick_commit(history, session_used)
@@ -446,20 +636,77 @@ def main():
         _append_log(tokens_dir, message)
 
         _git("add", "-A")
-        _git("commit", "-m", message)
-        print(f"  [{i}/{num}] ✓ {message}")
+        result = _git("commit", "-m", message)
+        if result.returncode != 0:
+            _log(f"  commit failed, stopping: {message}", quiet)
+            break
+        made += 1
+        _log(f"  [{i}/{num}] ✓ {message}", quiet)
 
+    # Save history even on a partial run so used messages stay on cooldown.
     _save_history(history)
 
-    print()
-    print("  Pushing to GitHub …")
+    if made == 0:
+        _log("  No commits were made.", quiet)
+        return 1
+
+    if not push:
+        _log(f"  {made} commit(s) created. Skipping push (--no-push).", quiet)
+        return 0
+
+    _log("  Pushing to GitHub …", quiet)
     result = _git("push")
     if result.returncode == 0:
-        print(f"  Done! {num} commit{'s' if num != 1 else ''} pushed. Your graph just got greener 🟩")
+        _log(f"  Done! {made} commit{'s' if made != 1 else ''} pushed. Your graph just got greener 🟩", quiet)
+        return 0
+
+    # Leave the commits in place; the next run will push them along with its own.
+    _log("  Push failed — commits are saved locally and will go out next run.", quiet)
+    return 1
+
+
+def main():
+    parser = argparse.ArgumentParser(description="Design Code — design-token commit tool.")
+    parser.add_argument("-n", "--count", type=int, help="number of commits to make")
+    parser.add_argument("--auto", action="store_true",
+                        help=f"unattended mode: random count ({AUTO_MIN}-{AUTO_MAX}), no prompts")
+    parser.add_argument("--jitter", type=int, default=0, metavar="MIN",
+                        help="sleep a random 0-MIN minutes before starting")
+    parser.add_argument("--no-push", action="store_true", help="commit locally without pushing")
+    args = parser.parse_args()
+
+    unattended = args.auto or args.count is not None
+
+    if not unattended:
+        print()
+        print("  ╔══════════════════════════════════════╗")
+        print("  ║         🎨  Design Code  🎨          ║")
+        print("  ║    Daily design-token commit tool     ║")
+        print("  ╚══════════════════════════════════════╝")
+        print()
+
+    if args.jitter > 0:
+        delay = random.randint(0, args.jitter * 60)
+        _log(f"  Jitter: waiting {delay // 60}m {delay % 60}s before starting.", unattended)
+        time.sleep(delay)
+
+    num = args.count if args.count is not None else (
+        random.randint(AUTO_MIN, AUTO_MAX) if args.auto else _ask_count()
+    )
+    if num < 1:
+        parser.error("--count must be at least 1")
+
+    if unattended:
+        _log(f"Design Code: starting run of {num} commit(s).", True)
     else:
-        print("  Push failed — check your remote with: git remote -v")
-    print()
+        print()
+
+    code = run(num, push=not args.no_push, quiet=unattended)
+
+    if not unattended:
+        print()
+    return code
 
 
 if __name__ == "__main__":
-    main()
+    sys.exit(main())

@@ -25,9 +25,9 @@
   },
   "neutral": {
     "0": "#0297e2",
-    "50": "#fcbcd7",
+    "50": "#7db403",
     "100": "#21074d",
-    "200": "#49f110",
+    "200": "#21af94",
     "300": "#13f2e1",
     "400": "#b20c84",
     "500": "#a6b464",
@@ -36,12 +36,12 @@
     "800": "#d13fa7",
     "900": "#1a4ee5"
   },
-  "accent": "#08d293",
-  "error": "#a97910",
+  "accent": "#bfde4d",
+  "error": "#3b0517",
   "warning": "#e4a61f",
-  "success": "#c0c4f4",
-  "info": "#b8529f",
-  "surface": "#baff52",
-  "background": "#a24e31",
+  "success": "#e60619",
+  "info": "#620782",
+  "surface": "#be043b",
+  "background": "#8259a5",
   "border": "#ccd3ff"
 }
