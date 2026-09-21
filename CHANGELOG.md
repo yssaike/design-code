@@ -5085,3 +5085,4 @@
 - `2026-09-20 21:57` — fix keyboard navigation in input
 - `2026-09-20 21:57` — fix accordion text color
 - `2026-09-20 21:57` — style: polish checkbox transition timing
+- `2026-09-20 21:57` — rebalance the z-index scale
