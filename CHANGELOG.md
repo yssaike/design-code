@@ -5086,3 +5086,4 @@
 - `2026-09-20 21:57` — fix accordion text color
 - `2026-09-20 21:57` — style: polish checkbox transition timing
 - `2026-09-20 21:57` — rebalance the z-index scale
+- `2026-09-20 21:57` — consolidate duplicate elevation tokens
