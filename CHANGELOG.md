@@ -5078,3 +5078,4 @@
 - `2026-09-20 21:57` — patch divider disabled state
 - `2026-09-20 21:57` — soften pagination exit animation
 - `2026-09-20 21:57` — add missing radius token for checkbox
+- `2026-09-20 21:57` — correct tree view text color
