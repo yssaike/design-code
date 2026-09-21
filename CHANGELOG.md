@@ -5076,3 +5076,4 @@
 - `2026-09-17 14:41` — resolve page header background in the sidebar
 - `2026-09-20 21:57` — correct dialog elevation
 - `2026-09-20 21:57` — patch divider disabled state
+- `2026-09-20 21:57` — soften pagination exit animation
