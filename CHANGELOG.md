@@ -5083,3 +5083,4 @@
 - `2026-09-20 21:57` — rename shadow tokens for consistency
 - `2026-09-20 21:57` — adjust avatar padding for long content
 - `2026-09-20 21:57` — fix keyboard navigation in input
+- `2026-09-20 21:57` — fix accordion text color
