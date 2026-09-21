@@ -5077,3 +5077,4 @@
 - `2026-09-20 21:57` — correct dialog elevation
 - `2026-09-20 21:57` — patch divider disabled state
 - `2026-09-20 21:57` — soften pagination exit animation
+- `2026-09-20 21:57` — add missing radius token for checkbox
