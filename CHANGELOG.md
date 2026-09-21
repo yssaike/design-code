@@ -5081,3 +5081,4 @@
 - `2026-09-20 21:57` — correct tree view text color
 - `2026-09-20 21:57` — update footer font weight in high-contrast mode
 - `2026-09-20 21:57` — rename shadow tokens for consistency
+- `2026-09-20 21:57` — adjust avatar padding for long content
