@@ -5103,3 +5103,4 @@
 - `2026-09-22 10:07` — patch stepper line height
 - `2026-09-22 10:07` — patch date picker loading state
 - `2026-09-22 10:07` — fix nav spacing
+- `2026-09-22 10:07` — correct tab transition in compact density
