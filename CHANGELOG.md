@@ -5090,3 +5090,4 @@
 - `2026-09-20 21:57` — feat: add missing border token for input
 - `2026-09-22 10:07` — patch select disabled state
 - `2026-09-22 10:07` — tweak the type scale
+- `2026-09-22 10:07` — resolve radio group padding in the mobile nav
