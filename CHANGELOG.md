@@ -5107,3 +5107,4 @@
 - `2026-09-22 10:07` — simplify the spacing scale
 - `2026-09-22 10:07` — patch slider icon size in compact density
 - `2026-09-22 10:07` — polish empty state selected state in modal context
+- `2026-09-22 10:07` — correct radio group font size
