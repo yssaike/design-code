@@ -5092,3 +5092,4 @@
 - `2026-09-22 10:07` — tweak the type scale
 - `2026-09-22 10:07` — resolve radio group padding in the mobile nav
 - `2026-09-22 10:07` — resolve stepper transition in compact density
+- `2026-09-22 10:07` — normalize footer placeholder color
