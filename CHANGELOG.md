@@ -5100,3 +5100,4 @@
 - `2026-09-22 10:07` — fix progress bar disabled state
 - `2026-09-22 10:07` — fix card letter spacing
 - `2026-09-22 10:07` — style: update the radius scale
+- `2026-09-22 10:07` — patch stepper line height
