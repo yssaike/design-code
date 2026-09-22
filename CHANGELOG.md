@@ -5099,3 +5099,4 @@
 - `2026-09-22 10:07` — style: normalize footer placeholder color
 - `2026-09-22 10:07` — fix progress bar disabled state
 - `2026-09-22 10:07` — fix card letter spacing
+- `2026-09-22 10:07` — style: update the radius scale
