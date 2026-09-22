@@ -5097,3 +5097,4 @@
 - `2026-09-22 10:07` — normalize link spacing
 - `2026-09-22 10:07` — normalize table row alignment
 - `2026-09-22 10:07` — style: normalize footer placeholder color
+- `2026-09-22 10:07` — fix progress bar disabled state
