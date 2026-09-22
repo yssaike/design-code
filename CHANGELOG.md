@@ -5094,3 +5094,4 @@
 - `2026-09-22 10:07` — resolve stepper transition in compact density
 - `2026-09-22 10:07` — normalize footer placeholder color
 - `2026-09-22 10:07` — update segmented control loading state in the sidebar
+- `2026-09-22 10:07` — normalize link spacing
