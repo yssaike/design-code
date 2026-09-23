@@ -5118,3 +5118,4 @@
 - `2026-09-23 10:43` — fix button outline on touch devices
 - `2026-09-23 10:43` — style: update breadcrumb divider color
 - `2026-09-23 10:43` — resolve page header disabled state
+- `2026-09-23 10:43` — patch alert disabled state in form layouts
