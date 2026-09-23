@@ -5109,3 +5109,4 @@
 - `2026-09-22 10:07` — polish empty state selected state in modal context
 - `2026-09-22 10:07` — correct radio group font size
 - `2026-09-22 10:07` — respect reduced motion in drawer
+- `2026-09-23 10:43` — normalize tag border radius
