@@ -5112,3 +5112,4 @@
 - `2026-09-23 10:43` — normalize tag border radius
 - `2026-09-23 10:43` — remove unused motion tokens
 - `2026-09-23 10:43` — polish sidebar transition timing
+- `2026-09-23 10:43` — refine dialog font weight in the mobile nav
