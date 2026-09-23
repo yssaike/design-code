@@ -5129,3 +5129,4 @@
 - `2026-09-23 10:43` — update select placeholder color in modal context
 - `2026-09-23 10:43` — correct file upload font size on touch devices
 - `2026-09-23 10:43` — resolve slider outline
+- `2026-09-23 10:43` — adjust tooltip gap on mobile
