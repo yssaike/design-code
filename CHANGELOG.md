@@ -5111,3 +5111,4 @@
 - `2026-09-22 10:07` — respect reduced motion in drawer
 - `2026-09-23 10:43` — normalize tag border radius
 - `2026-09-23 10:43` — remove unused motion tokens
+- `2026-09-23 10:43` — polish sidebar transition timing
