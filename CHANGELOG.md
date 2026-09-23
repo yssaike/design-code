@@ -5128,3 +5128,4 @@
 - `2026-09-23 10:43` — add aria label to icon button
 - `2026-09-23 10:43` — update select placeholder color in modal context
 - `2026-09-23 10:43` — correct file upload font size on touch devices
+- `2026-09-23 10:43` — resolve slider outline
