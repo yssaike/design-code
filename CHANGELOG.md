@@ -5123,3 +5123,4 @@
 - `2026-09-23 10:43` — style: adjust progress bar gap
 - `2026-09-23 10:43` — correct tree view opacity for long content
 - `2026-09-23 10:43` — patch drawer padding for RTL layouts
+- `2026-09-23 10:43` — soften tab entrance animation
