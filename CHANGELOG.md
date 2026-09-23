@@ -5132,3 +5132,4 @@
 - `2026-09-23 10:43` — adjust tooltip gap on mobile
 - `2026-09-23 10:43` — style: update icon button min-width
 - `2026-09-23 10:43` — add missing semantic token for accordion
+- `2026-09-23 10:43` — resolve icon button alignment at small breakpoints
