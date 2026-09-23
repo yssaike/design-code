@@ -5134,3 +5134,4 @@
 - `2026-09-23 10:43` — add missing semantic token for accordion
 - `2026-09-23 10:43` — resolve icon button alignment at small breakpoints
 - `2026-09-23 10:43` — add aria label to file upload
+- `2026-09-23 10:43` — respect reduced motion in menu item
