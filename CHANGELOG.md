@@ -5121,3 +5121,4 @@
 - `2026-09-23 10:43` — patch alert disabled state in form layouts
 - `2026-09-23 10:43` — fix snackbar background in modal context
 - `2026-09-23 10:43` — style: adjust progress bar gap
+- `2026-09-23 10:43` — correct tree view opacity for long content
