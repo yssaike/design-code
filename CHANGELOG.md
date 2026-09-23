@@ -5115,3 +5115,4 @@
 - `2026-09-23 10:43` — refine dialog font weight in the mobile nav
 - `2026-09-23 10:43` — adjust select transition timing
 - `2026-09-23 10:43` — document border token usage
+- `2026-09-23 10:43` — fix button outline on touch devices
