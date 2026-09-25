@@ -5136,3 +5136,4 @@
 - `2026-09-23 10:43` — add aria label to file upload
 - `2026-09-23 10:43` — respect reduced motion in menu item
 - `2026-09-23 10:43` — add missing semantic token for badge
+- `2026-09-24 22:53` — style: polish the opacity scale
