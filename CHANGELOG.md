@@ -5138,3 +5138,4 @@
 - `2026-09-23 10:43` — add missing semantic token for badge
 - `2026-09-24 22:53` — style: polish the opacity scale
 - `2026-09-24 22:53` — remove unused color tokens
+- `2026-09-24 22:53` — refactor: rename radius tokens for consistency
