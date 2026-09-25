@@ -5142,3 +5142,4 @@
 - `2026-09-24 22:53` — adjust menu item transition timing
 - `2026-09-24 22:53` — resolve search bar outline
 - `2026-09-24 22:53` — feat: refine the elevation scale
+- `2026-09-24 22:53` — tweak snackbar elevation
