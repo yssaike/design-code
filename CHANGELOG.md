@@ -5139,3 +5139,4 @@
 - `2026-09-24 22:53` — style: polish the opacity scale
 - `2026-09-24 22:53` — remove unused color tokens
 - `2026-09-24 22:53` — refactor: rename radius tokens for consistency
+- `2026-09-24 22:53` — adjust menu item transition timing
