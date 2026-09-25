@@ -5140,3 +5140,4 @@
 - `2026-09-24 22:53` — remove unused color tokens
 - `2026-09-24 22:53` — refactor: rename radius tokens for consistency
 - `2026-09-24 22:53` — adjust menu item transition timing
+- `2026-09-24 22:53` — resolve search bar outline
