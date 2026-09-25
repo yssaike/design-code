@@ -5147,3 +5147,4 @@
 - `2026-09-24 22:53` — add aria label to empty state
 - `2026-09-24 22:53` — remove unused border tokens
 - `2026-09-24 22:53` — rename radius tokens for consistency
+- `2026-09-24 22:53` — update skeleton line height in compact density
