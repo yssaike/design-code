@@ -5144,3 +5144,4 @@
 - `2026-09-24 22:53` — feat: refine the elevation scale
 - `2026-09-24 22:53` — tweak snackbar elevation
 - `2026-09-24 22:53` — add missing spacing token for date picker
+- `2026-09-24 22:53` — add aria label to empty state
