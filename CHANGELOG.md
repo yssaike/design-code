@@ -5149,3 +5149,4 @@
 - `2026-09-24 22:53` — rename radius tokens for consistency
 - `2026-09-24 22:53` — update skeleton line height in compact density
 - `2026-09-26 19:24` — add missing color token for progress bar
+- `2026-09-26 19:24` — tweak toast transition timing
