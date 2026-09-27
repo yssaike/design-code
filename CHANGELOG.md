@@ -5151,3 +5151,4 @@
 - `2026-09-26 19:24` — add missing color token for progress bar
 - `2026-09-26 19:24` — tweak toast transition timing
 - `2026-09-26 19:24` — patch tree view min-width
+- `2026-09-26 19:24` — normalize alert icon size in modal context
