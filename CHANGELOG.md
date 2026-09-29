@@ -5159,3 +5159,4 @@
 - `2026-09-29 08:34` — improve touch target size on toast
 - `2026-09-29 08:34` — respect reduced motion in card
 - `2026-09-29 08:34` — respect reduced motion in stepper
+- `2026-09-29 08:34` — correct date picker text color for long content
