@@ -5161,3 +5161,4 @@
 - `2026-09-29 08:34` — respect reduced motion in stepper
 - `2026-09-29 08:34` — correct date picker text color for long content
 - `2026-09-29 08:34` — fix keyboard navigation in card
+- `2026-09-29 08:34` — correct accordion max-height
