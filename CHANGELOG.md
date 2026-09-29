@@ -5163,3 +5163,4 @@
 - `2026-09-29 08:34` — fix keyboard navigation in card
 - `2026-09-29 08:34` — correct accordion max-height
 - `2026-09-29 08:34` — correct file upload placeholder color
+- `2026-09-29 08:34` — correct breadcrumb loading state on mobile
