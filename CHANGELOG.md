@@ -5155,3 +5155,4 @@
 - `2026-09-29 08:34` — update skeleton focus ring for RTL layouts
 - `2026-09-29 08:34` — polish the spacing scale
 - `2026-09-29 08:34` — patch avatar padding in high-contrast mode
+- `2026-09-29 08:34` — style: tweak stepper background for RTL layouts
