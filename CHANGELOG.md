@@ -5165,3 +5165,4 @@
 - `2026-09-29 08:34` — correct file upload placeholder color
 - `2026-09-29 08:34` — correct breadcrumb loading state on mobile
 - `2026-09-29 08:34` — resolve switch border radius
+- `2026-09-29 08:34` — resolve progress bar padding
