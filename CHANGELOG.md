@@ -5153,3 +5153,4 @@
 - `2026-09-26 19:24` — patch tree view min-width
 - `2026-09-26 19:24` — normalize alert icon size in modal context
 - `2026-09-29 08:34` — update skeleton focus ring for RTL layouts
+- `2026-09-29 08:34` — polish the spacing scale
